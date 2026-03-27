@@ -97,12 +97,12 @@ Plans:
   3. Every crop is classified into difficulty tiers ("can't fail" / "needs care" / "Year 2 challenge") in one reference document
   4. A CLAUDE.md project file captures full garden context for AI-assisted continuity across sessions
   5. Garlic hardneck planting (October 2026) is documented in the autumn schedule for Year 2 harvest
-**Plans**: TBD
+**Plans:** 3 plans
 
 Plans:
-- [ ] 05-01: TBD
-- [ ] 05-02: TBD
-- [ ] 05-03: TBD
+- [ ] 05-01-PLAN.md — Property visualization (ASCII) and CLAUDE.md project continuity file
+- [ ] 05-02-PLAN.md — Troubleshooting guide (symptom-based) and difficulty-tiered crop classification
+- [ ] 05-03-PLAN.md — Neighbor vacation guide and garlic autumn planting documentation
 
 ### Phase 6: Vacation Preparation
 **Goal**: The garden survives 2-3 weeks of family absence in July-August with zero crop loss, and a neighbor can maintain it using a printed guide
@@ -131,5 +131,5 @@ Note: Phase 4 (Data) and Phase 5 (Docs) can run in parallel with physical planti
 | 2. Spring Planting | 0/2 | Planned | - |
 | 3. Warm Season Planting | 0/2 | Planned | - |
 | 4. Data System and Schedules | 0/3 | Planned | - |
-| 5. Documentation and Guides | 0/3 | Not started | - |
+| 5. Documentation and Guides | 0/3 | Planned | - |
 | 6. Vacation Preparation | 0/2 | Not started | - |
