@@ -1,0 +1,130 @@
+{
+  "checklist_type": "pre-departure",
+  "departure_date": null,
+  "return_date": null,
+  "days": [
+    {
+      "day": -3,
+      "label": "Mulching & Deep Water Day",
+      "tasks": [
+        {
+          "id": "D3-00",
+          "action": "Take photos of each bed (A, B, C, D, E) for neighbor guide",
+          "who": "together",
+          "minutes": 5,
+          "completed": false
+        },
+        {
+          "id": "D3-01",
+          "action": "Spread straw mulch on Beds A, B, C (5-8cm depth)",
+          "who": "together",
+          "minutes": 20,
+          "completed": false
+        },
+        {
+          "id": "D3-02",
+          "action": "Spread bark mulch on Beds D, E (5-8cm depth)",
+          "who": "together",
+          "minutes": 10,
+          "completed": false
+        },
+        {
+          "id": "D3-03",
+          "action": "Check mulch depth on all beds with marked stick (5-8cm)",
+          "who": "together",
+          "minutes": 5,
+          "completed": false
+        },
+        {
+          "id": "D3-04",
+          "action": "Deep water all 5 beds after mulching",
+          "who": "child",
+          "minutes": 15,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "day": -2,
+      "label": "Reservoir Fill & Harvest Party",
+      "tasks": [
+        {
+          "id": "D2-01",
+          "action": "Fill all reservoirs completely via fill tubes",
+          "who": "father",
+          "minutes": 10,
+          "completed": false
+        },
+        {
+          "id": "D2-02",
+          "action": "Harvest all ripe tomatoes, cucumbers, peppers from Bed C",
+          "who": "child",
+          "minutes": 15,
+          "completed": false
+        },
+        {
+          "id": "D2-03",
+          "action": "Harvest all ripe strawberries (Bed A), raspberries (Bed B), beans (Bed E)",
+          "who": "child",
+          "minutes": 15,
+          "completed": false
+        },
+        {
+          "id": "D2-04",
+          "action": "Wash, count, and celebrate the harvest together",
+          "who": "together",
+          "minutes": 10,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "day": -1,
+      "label": "Neighbor Walk-Through & Goodbye",
+      "tasks": [
+        {
+          "id": "D1-01",
+          "action": "Print 2 copies of neighbor guide (fill in phone number, attach photos)",
+          "who": "father",
+          "minutes": 10,
+          "completed": false
+        },
+        {
+          "id": "D1-02",
+          "action": "Walk primary neighbor through garden bed by bed (15-20 min)",
+          "who": "father",
+          "minutes": 20,
+          "completed": false
+        },
+        {
+          "id": "D1-03",
+          "action": "Hand printed guide to primary neighbor",
+          "who": "father",
+          "minutes": 2,
+          "completed": false
+        },
+        {
+          "id": "D1-04",
+          "action": "Deliver backup copy to second neighbor",
+          "who": "father",
+          "minutes": 5,
+          "completed": false
+        },
+        {
+          "id": "D1-05",
+          "action": "Final top-up watering all 5 beds",
+          "who": "child",
+          "minutes": 10,
+          "completed": false
+        },
+        {
+          "id": "D1-06",
+          "action": "Child says goodbye to each bed",
+          "who": "child",
+          "minutes": 5,
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
