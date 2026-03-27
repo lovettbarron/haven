@@ -92,8 +92,8 @@
 
 ### Vacation Survival
 
-- [ ] **VACN-01**: Self-watering reservoirs installed and tested in tomato and cucumber beds before July
-- [ ] **VACN-02**: Mulching protocol (5-8cm straw/bark) for all beds before each absence
+- [x] **VACN-01**: Self-watering reservoirs installed and tested in tomato and cucumber beds before July
+- [x] **VACN-02**: Mulching protocol (5-8cm straw/bark) for all beds before each absence
 - [ ] **VACN-03**: Pre-vacation harvest protocol (pick everything showing color)
 - [ ] **VACN-04**: Neighbor guide delivered as printable document with photos, per-bed instructions, and emergency contacts
 
@@ -192,8 +192,8 @@
 | DOCS-04 | Phase 5 | Pending |
 | DOCS-05 | Phase 5 | Complete |
 | COOK-02 | Phase 5 | Pending |
-| VACN-01 | Phase 6 | Pending |
-| VACN-02 | Phase 6 | Pending |
+| VACN-01 | Phase 6 | Complete |
+| VACN-02 | Phase 6 | Complete |
 | VACN-03 | Phase 6 | Pending |
 | VACN-04 | Phase 6 | Pending |
 
