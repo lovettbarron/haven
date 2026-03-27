@@ -19,22 +19,22 @@
 ### His Crops (Child's Beds)
 
 - [x] **CROP-01**: Strawberries planted -- everbearing (Ostara) and June-bearing (Korona) for continuous June-September picking
-- [ ] **CROP-02**: Cherry tomatoes planted -- Sungold and Tumbling Tom as seedlings after May 20
-- [ ] **CROP-03**: Cucumbers planted -- Mini Munch or Picolino as seedlings after May 20
-- [ ] **CROP-04**: Sweet peppers planted -- Lipstick and/or King of the North as seedlings after May 25
+- [x] **CROP-02**: Cherry tomatoes planted -- Sungold and Tumbling Tom as seedlings after May 20
+- [x] **CROP-03**: Cucumbers planted -- Mini Munch or Picolino as seedlings after May 20
+- [x] **CROP-04**: Sweet peppers planted -- Lipstick and/or King of the North as seedlings after May 25
 - [x] **CROP-05**: Raspberries planted -- Autumn Bliss bare-root canes in March-April for Aug-Oct fruit
 - [x] **CROP-06**: Radishes succession-sown every 2 weeks from April 20 through August 1 for continuous 3-week harvest cycles
 
 ### Quick Wins & Engagement
 
-- [ ] **ENGM-01**: Sunflowers direct-sown May 1 for daily height measurement activity
+- [x] **ENGM-01**: Sunflowers direct-sown May 1 for daily height measurement activity
 - [x] **ENGM-02**: Baby lettuce (cut-and-come-again) sown for 3-week harvests
 - [x] **ENGM-03**: Pea shoots sown for 2-3 week quick harvest
 - [x] **ENGM-04**: Bed-by-bed companion planting layout following researched recipes (tomato+basil+nasturtium, cucumber+pepper+radish+borage, berry+thyme+chives, etc.)
 
 ### Edible Flowers
 
-- [ ] **FLWR-01**: Nasturtium direct-sown May 1 -- trailing variety for bed edges, edible flowers for baking
+- [x] **FLWR-01**: Nasturtium direct-sown May 1 -- trailing variety for bed edges, edible flowers for baking
 - [x] **FLWR-02**: Calendula direct-sown April 20 -- orange/yellow petals for baking decoration
 - [x] **FLWR-03**: Borage direct-sown April 20 -- blue star flowers, exceptional bee attractor
 - [x] **FLWR-04**: Viola/pansy planted as seedlings March-April -- immediate color, crystallizable petals
@@ -44,24 +44,24 @@
 
 - [x] **SENS-01**: Lamb's ear (Stachys) planted at bed edge for tactile engagement
 - [x] **SENS-02**: Lemon balm planted for crush-and-smell sensory activity
-- [ ] **SENS-03**: Mint planted in own pot (prevents spreading) for pick-and-smell activity
+- [x] **SENS-03**: Mint planted in own pot (prevents spreading) for pick-and-smell activity
 - [x] **SENS-04**: Thyme planted as creeping ground cover at bed edges
-- [ ] **SENS-05**: Basil planted as seedling alongside tomatoes for aroma and pinching activity
+- [x] **SENS-05**: Basil planted as seedling alongside tomatoes for aroma and pinching activity
 
 ### Family Cooking Crops
 
 - [x] **COOK-01**: Spring onions (White Lisbon) direct-sown April 15, succession monthly
 - [ ] **COOK-02**: Garlic hardneck cloves planted October 2026 for July 2027 harvest
-- [ ] **COOK-03**: Leeks (Musselburgh) sown indoors March, transplanted May
-- [ ] **COOK-04**: Bush beans (Provider/Speedy) direct-sown May 15 after frost
+- [x] **COOK-03**: Leeks (Musselburgh) sown indoors March, transplanted May
+- [x] **COOK-04**: Bush beans (Provider/Speedy) direct-sown May 15 after frost
 - [x] **COOK-05**: Dinosaur kale (Nero di Toscana) direct-sown April 20 -- "dinosaur" name for engagement
 - [x] **COOK-06**: Peas (Kelvedon Wonder) direct-sown April 15 -- edible pods for garden snacking
-- [ ] **COOK-07**: Broccoli (Calabrese) transplanted May -- side shoots for extended harvest
+- [x] **COOK-07**: Broccoli (Calabrese) transplanted May -- side shoots for extended harvest
 
 ### Creature Attractions
 
-- [ ] **CRTR-01**: Borage and dill planted to attract bees, ladybugs, and hoverflies
-- [ ] **CRTR-02**: Nasturtium positioned as trap crop to create visible aphid-ladybug predator-prey dynamic
+- [x] **CRTR-01**: Borage and dill planted to attract bees, ladybugs, and hoverflies
+- [x] **CRTR-02**: Nasturtium positioned as trap crop to create visible aphid-ladybug predator-prey dynamic
 - [x] **CRTR-03**: Log pile or stone pile placed near beds for beetle/woodlice habitat
 - [x] **CRTR-04**: Shallow water dish with pebbles placed near flowers for pollinator/bird watering
 
@@ -165,18 +165,18 @@
 | CRTR-03 | Phase 2 | Complete |
 | CRTR-04 | Phase 2 | Complete |
 | SCHED-01 | Phase 2 | Complete |
-| CROP-02 | Phase 3 | Pending |
-| CROP-03 | Phase 3 | Pending |
-| CROP-04 | Phase 3 | Pending |
-| ENGM-01 | Phase 3 | Pending |
-| FLWR-01 | Phase 3 | Pending |
-| SENS-03 | Phase 3 | Pending |
-| SENS-05 | Phase 3 | Pending |
-| COOK-03 | Phase 3 | Pending |
-| COOK-04 | Phase 3 | Pending |
-| COOK-07 | Phase 3 | Pending |
-| CRTR-01 | Phase 3 | Pending |
-| CRTR-02 | Phase 3 | Pending |
+| CROP-02 | Phase 3 | Complete |
+| CROP-03 | Phase 3 | Complete |
+| CROP-04 | Phase 3 | Complete |
+| ENGM-01 | Phase 3 | Complete |
+| FLWR-01 | Phase 3 | Complete |
+| SENS-03 | Phase 3 | Complete |
+| SENS-05 | Phase 3 | Complete |
+| COOK-03 | Phase 3 | Complete |
+| COOK-04 | Phase 3 | Complete |
+| COOK-07 | Phase 3 | Complete |
+| CRTR-01 | Phase 3 | Complete |
+| CRTR-02 | Phase 3 | Complete |
 | DATA-01 | Phase 4 | Pending |
 | DATA-02 | Phase 4 | Pending |
 | DATA-03 | Phase 4 | Pending |
