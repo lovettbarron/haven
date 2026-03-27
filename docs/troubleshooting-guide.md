@@ -1,0 +1,444 @@
+# Plant Doctor: Troubleshooting Guide
+
+**How to use this guide:** When something looks wrong, find the symptom below that matches what you see. Each entry tells you how urgent it is, what is happening, and exactly what to do. Father reads, child acts.
+
+**Severity system:**
+- :green_circle: **No rush** -- Cosmetic or minor. Handle when convenient.
+- :yellow_circle: **This week** -- Needs attention soon or it will get worse.
+- :red_circle: **Today** -- Plant is at risk. Act now.
+
+---
+
+## Aphids on Plants
+
+> **This is the #1 entry for a reason.** Our garden is designed to handle aphids naturally. Do NOT spray anything. Read this section before taking action.
+
+### Small green/black insects clustered on stems or leaf undersides
+
+**Severity:** :green_circle: No rush (for the first 3-5 days)
+
+**What is happening:** Aphids are small sap-sucking insects that cluster on new growth. They look alarming but are food for ladybugs, hoverfly larvae, and lacewings. Our garden is planted with borage (Beds C and E) and nasturtiums (Bed A) specifically to attract these predator insects. The nasturtiums also work as trap crops -- aphids prefer them over your vegetables.
+
+**Affects:** All crops in the garden can get aphids, but most commonly: lettuce (Bed D), kale (Bed C), peas (Bed C), beans (Bed E), peppers (Bed C), and roses/flowers.
+
+**What to do:**
+1. **Day 1-3: Observe.** Look closely at the aphid cluster. Are there any ladybugs nearby? Check for ladybug larvae -- they look like tiny black-and-orange alligators, NOT like adult ladybugs.
+2. **Day 3-5: Check for predators.** Look for hoverfly larvae (green/brown translucent maggots near aphid colonies) and lacewing larvae. If you see ANY predators, do nothing -- they will eat the aphids within days.
+3. **Day 5+: Still no predators and aphids spreading?** Blast them off with a strong jet of water from the hose. Repeat every 2-3 days. That is all you need.
+4. **Never spray soap, neem, or insecticide.** These kill the predators too, and our garden depends on predators for long-term balance.
+
+**Child action:** "Can you look really carefully at the aphids and see if you can spot a ladybug or a ladybug baby? The babies look like tiny orange-and-black alligators. Count how many you find!"
+
+**Why we wait:** Borage (Beds C and E) attracts predatory hoverflies whose larvae eat aphids. Nasturtiums (Bed A) draw aphids away from food crops. Calendula (Beds A, D, and E) attracts ladybugs. The whole garden is an aphid-management system -- spraying would break it.
+
+[PHOTO: Aphid cluster on a plant stem, close-up]
+[PHOTO: Ladybug larva near aphids -- the "alligator" shape]
+[PHOTO: Hoverfly on borage flower]
+
+---
+
+## Leaves Turning Yellow
+
+### Bottom leaves only, plant otherwise healthy
+
+**Severity:** :green_circle: No rush (cosmetic)
+
+**What is happening:** Lower leaves naturally yellow and drop as the plant grows. The plant redirects energy to new growth at the top. This is completely normal.
+
+**Affects:** Tomatoes (Bed C), cucumbers (Bed C), kale (Bed C), peppers (Bed C), bush beans (Bed E)
+
+**What to do:** Nothing. Pick off yellowed leaves to keep the bed tidy and improve air circulation.
+
+**Child action:** "Can you find the yellow leaves and put them in the compost bucket?"
+
+[PHOTO: Yellow lower leaves on a healthy tomato plant]
+
+### Whole plant turning yellow, growth is slow
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** This usually means the plant is not getting enough nutrients (nitrogen deficiency) or is being overwatered. In raised beds, nutrients can wash out faster than in ground soil.
+
+**Affects:** Heavy feeders are most susceptible: tomatoes (Bed C), cucumbers (Bed C), peppers (Bed C), kale (Bed C), broccoli (Bed E)
+
+**What to do:**
+1. Check watering -- is the soil soggy? If yes, let it dry out for a day or two. Beds C has a reservoir, so check the reservoir indicator before adding more water.
+2. If soil moisture is fine, the plant likely needs feeding. Add a balanced liquid fertilizer (seaweed or fish-based) at the base of the plant.
+3. Feed every 2 weeks through the growing season for heavy feeders.
+
+**Child action:** "Can you stick your finger in the soil near the plant? If it feels really wet and squishy, we need to let it dry out. If it feels normal, we need to give it some plant food."
+
+[PHOTO: Nitrogen-deficient plant with pale yellow leaves throughout]
+
+---
+
+## Holes in Leaves
+
+### Irregular ragged holes, slime trails visible
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Slugs and snails are feeding at night. They leave silvery slime trails on leaves and soil. Our beds have copper tape as a first line of defense, but small slugs can sometimes get past it.
+
+**Affects:** Lettuce (Bed D), strawberries (Bed A), basil (Bed C), radish (Beds A and D), young seedlings everywhere
+
+**What to do:**
+1. Check copper tape around the bed edges -- is it still intact and clean? Wipe with vinegar if tarnished.
+2. Go out after dark with a torch and pick slugs off by hand. Drop them in a bucket of salty water or move them far from the garden.
+3. Place beer traps: bury a small container (yogurt pot) so the rim is at soil level, fill halfway with cheap beer. Slugs crawl in and drown.
+4. Sprinkle crushed eggshells around vulnerable plants as an extra barrier.
+
+**Child action:** "Let's go on a slug hunt! Take the torch and see how many slugs you can find on the bed. We'll move them to the wild area at the back."
+
+[PHOTO: Slug damage on lettuce -- irregular holes with slime trail]
+[PHOTO: Copper tape around bed edge]
+
+### Small round holes in neat rows
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Flea beetles -- tiny black jumping beetles that chew small round holes in leaves. They mostly attack brassicas (cabbage family).
+
+**Affects:** Kale (Bed C), broccoli (Bed E), radish (Beds A and D)
+
+**What to do:**
+1. If damage is light (a few holes), the plant can outgrow it. No action needed.
+2. If heavy damage on seedlings, cover with fleece/mesh to keep beetles off until the plant is bigger.
+3. Keep soil moist -- flea beetles prefer dry conditions.
+
+**Child action:** "Tap the leaf gently and watch -- can you see tiny black bugs jumping? They are like plant fleas!"
+
+[PHOTO: Flea beetle damage -- small round holes in kale leaf]
+
+### Large chunks missing, green caterpillars visible
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Cabbage white butterfly caterpillars. The white butterflies lay eggs on the undersides of brassica leaves. The green caterpillars can strip a plant in days.
+
+**Affects:** Kale (Bed C), broccoli (Bed E)
+
+**What to do:**
+1. Check undersides of leaves for clusters of yellow eggs. Remove by hand or wipe off.
+2. Pick caterpillars off by hand -- check daily in summer.
+3. Prevention: cover kale and broccoli with fine mesh netting after transplanting to keep butterflies from landing.
+4. Borage and dill (both in Beds C and E) attract hoverflies and wasps that eat caterpillar eggs.
+
+**Child action:** "Can you check under every kale leaf and see if there are any caterpillars hiding? They are green and hard to see. Put any you find in this jar."
+
+[PHOTO: Cabbage white caterpillar on kale leaf]
+[PHOTO: Yellow butterfly eggs on leaf underside]
+
+---
+
+## White Powder on Leaves
+
+### White dusty coating on top of leaves
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Powdery mildew -- a fungal disease that thrives when days are warm and nights are cool with high humidity. Common in Danish summers especially in late July-August.
+
+**Affects:** Cucumbers (Bed C -- highest risk), kale (Bed C), peas (Bed C before harvest), strawberries (Bed A)
+
+**What to do:**
+1. Remove the worst-affected leaves and put them in household waste (NOT compost -- the spores spread).
+2. Improve air circulation: prune any leaves that are packed too tightly together.
+3. Water at soil level, not on the leaves. The reservoir in Bed C helps -- use it.
+4. A milk spray can help: mix 1 part milk to 9 parts water, spray on leaves in morning sun. The milk proteins react with sunlight to kill mildew.
+
+**Child action:** "Can you find the leaves that look like someone sprinkled flour on them? We need to take those off and throw them in the bin -- not the compost!"
+
+[PHOTO: Powdery mildew on cucumber leaf]
+[PHOTO: Comparison of healthy vs. mildew-affected leaf]
+
+---
+
+## Plant Wilting
+
+### Wilting in afternoon sun, recovers by morning
+
+**Severity:** :green_circle: No rush (heat stress)
+
+**What is happening:** On hot days (25C+), plants lose water through their leaves faster than roots can supply it. They wilt as a protective response. If they perk up overnight, the roots are fine.
+
+**Affects:** Cucumbers (Bed C), lettuce (Bed D), basil (Bed C), strawberries (Bed A)
+
+**What to do:** Check soil moisture before watering. If soil is already damp, do NOT add more water -- the plant will recover on its own by evening or morning. If soil is dry, water deeply at the base.
+
+**Child action:** "Feel the soil -- is it dry or damp? Let's check again tomorrow morning to see if the plant is standing up straight again."
+
+[PHOTO: Tomato plant wilting in afternoon heat]
+
+### Wilting even though soil is wet
+
+**Severity:** :red_circle: Today (root rot possible)
+
+**What is happening:** If a plant wilts even when the soil is wet, the roots may be rotting. Overwatering or poor drainage suffocates roots so they cannot absorb water. This is most common in the terrace beds (Beds D and E) if they get waterlogged.
+
+**Affects:** Basil (Bed C), peppers (Bed C), strawberries (Bed A), lettuce (Bed D)
+
+**What to do:**
+1. Stop watering immediately.
+2. If in a terrace bed, check drainage holes are clear.
+3. Let the soil dry out completely before watering again.
+4. If the plant does not recover in 2-3 days, it may be too far gone. Remove it and replant if season allows.
+
+**Child action:** "This plant is sick because it has too much water. We need to let it dry out. Can you check that the holes in the bottom of the pot are not blocked?"
+
+[PHOTO: Wilting plant in wet soil -- leaves droopy and slightly yellow]
+
+### Sudden wilt of entire plant, base of stem is dark/soft
+
+**Severity:** :red_circle: Today
+
+**What is happening:** Damping off or stem rot -- a fungal infection at the soil line. More common in cool, wet conditions. Seedlings are most vulnerable.
+
+**Affects:** Basil seedlings (Bed C), lettuce seedlings (Bed D), any newly transplanted seedlings
+
+**What to do:**
+1. Remove the affected plant -- it cannot be saved.
+2. Do NOT plant the same type of crop in that exact spot for the rest of the season.
+3. Improve air circulation around remaining seedlings.
+4. Water less frequently -- let soil surface dry between waterings.
+
+**Child action:** "This little plant got a disease and we can't fix it. That's OK -- we have others. Can you help me take it out carefully?"
+
+[PHOTO: Damping off in a seedling -- pinched stem at soil level]
+
+---
+
+## Spots on Leaves
+
+### Brown or dark spots with yellow halos
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Fungal leaf spot. Spreads by water splashing from soil onto leaves. Worse in wet weather and when plants are crowded.
+
+**Affects:** Tomatoes (Bed C -- early blight risk), strawberries (Bed A), kale (Bed C), beans (Bed E)
+
+**What to do:**
+1. Remove affected leaves and put in household waste (not compost).
+2. Mulch around the base of plants to prevent soil splash.
+3. Water at soil level, never from above.
+4. Thin out crowded growth to improve air circulation.
+
+**Child action:** "Can you find all the leaves with brown spots and yellow rings around them? We need to pick those off so the plant stays healthy."
+
+[PHOTO: Early blight spot on tomato leaf -- concentric rings pattern]
+
+### Purple or reddish discoloration on leaves
+
+**Severity:** :green_circle: No rush (usually nutrient-related)
+
+**What is happening:** Often phosphorus deficiency, which happens when soil is cold (early spring) and roots cannot absorb nutrients efficiently. The plant usually grows out of it as soil warms.
+
+**Affects:** Tomatoes (Bed C), strawberries (Bed A), peppers (Bed C)
+
+**What to do:** Wait for warmer weather. If it persists past June, apply a balanced liquid fertilizer. Not usually a problem in raised beds with good soil mix.
+
+**Child action:** "Look, this leaf is turning purple! That means the soil is still cold. Let's check again next week to see if it goes back to green."
+
+[PHOTO: Purple-tinged tomato leaves in early season]
+
+---
+
+## No Fruit / Flowers Dropping
+
+### Flowers appear but fall off without setting fruit
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Blossom drop. The flowers are not being pollinated or temperature stress is causing the plant to abort them. Temperatures above 30C or below 10C at night can cause this. In Danish summers, cold nights are more common than heat.
+
+**Affects:** Tomatoes (Bed C), peppers (Bed C), cucumbers (Bed C), strawberries (Bed A), beans (Bed E)
+
+**What to do:**
+1. For tomatoes: gently shake the plant or tap the flower clusters to help self-pollination. Do this around midday.
+2. For cucumbers: check for both male flowers (thin stem) and female flowers (tiny cucumber behind the flower). If only male flowers are present, be patient -- female flowers come later.
+3. For strawberries and beans: ensure pollinators can access the flowers. Our borage and calendula attract bees -- check that they are flowering.
+4. If cold nights are the issue, cover plants with fleece in the evening and remove in the morning.
+
+**Child action:** "Can you give the tomato plant a gentle shake? That helps the flowers make tomatoes! Do it every day when you visit the garden."
+
+[PHOTO: Tomato flower cluster ready for gentle shaking]
+[PHOTO: Male vs. female cucumber flowers comparison]
+
+---
+
+## Seedlings Falling Over
+
+### Young seedlings collapse at soil level
+
+**Severity:** :red_circle: Today (damping off)
+
+**What is happening:** Damping off -- a fungal disease that attacks the base of young seedlings, causing the stem to pinch and collapse. The seedlings topple over even though the top looks healthy. Happens in cool, wet, crowded conditions.
+
+**Affects:** Any seedling, but especially: basil (Bed C), lettuce (Bed D), radish (Beds A and D)
+
+**What to do:**
+1. Remove fallen seedlings immediately.
+2. Thin remaining seedlings so they are not crowded -- air circulation prevents the fungus spreading.
+3. Reduce watering frequency -- let the soil surface dry between waterings.
+4. Do not sow replacement seeds in the same spot if soil is still wet.
+
+**Child action:** "Oh no, some of our baby plants fell over. That happens sometimes. Can you help me take them out carefully? We will plant more in a different spot."
+
+[PHOTO: Damping off -- seedling flopped over with pinched stem]
+
+### Seedlings chewed at base, no pinching
+
+**Severity:** :yellow_circle: This week (slug damage)
+
+**What is happening:** Slugs have chewed through the stems at night. Unlike damping off, the stem is cleanly cut (not pinched/soft). There may be slime trails nearby.
+
+**Affects:** All seedlings, especially lettuce (Bed D) and basil (Bed C)
+
+**What to do:** See "Holes in Leaves > Irregular ragged holes" section above for full slug control measures. Focus on copper tape integrity and evening slug hunts.
+
+**Child action:** "Let's check for slime trails around the baby plants. If we find them, we know it was slugs -- let's go on a slug hunt tonight!"
+
+[PHOTO: Slug-cut seedling vs. damping off comparison]
+
+---
+
+## Stunted Growth
+
+### Plant is small and not growing, looks pale
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Several possible causes:
+- **Cold soil:** Warm-season crops (tomatoes, cucumbers, peppers, basil, beans) will not grow in soil below 15C. Common in May if planted too early.
+- **Nutrient lock:** Very acidic or alkaline soil prevents nutrient uptake. Raised beds with compost-based soil rarely have this issue.
+- **Root-bound:** If the plant was in a pot too long before transplanting, its roots may be circling and unable to spread.
+
+**Affects:** Tomatoes (Bed C), cucumbers (Bed C), peppers (Bed C), basil (Bed C), beans (Bed E)
+
+**What to do:**
+1. Check soil temperature with a thermometer pushed 10cm deep. If below 15C, the plant just needs time.
+2. If transplanting seedlings, gently loosen the root ball before planting. If roots are circling, tease them apart.
+3. Ensure the plant is getting at least 6 hours of direct sun.
+4. Apply a gentle liquid fertilizer (seaweed-based) to give it a boost.
+
+**Child action:** "This plant is growing really slowly. Let's check if the soil is warm enough -- push this thermometer in and read the number."
+
+[PHOTO: Stunted transplant next to a healthy one for comparison]
+
+### Lettuce bolting (growing tall with a central spike)
+
+**Severity:** :green_circle: No rush (natural lifecycle)
+
+**What is happening:** Lettuce bolts (sends up a flower stalk) when days get long and hot. The leaves become bitter. This is normal in Danish summer (June-July). Baby lettuce in Bed D will bolt as summer arrives.
+
+**Affects:** Lettuce (Bed D)
+
+**What to do:**
+1. Harvest all remaining edible leaves before they turn bitter.
+2. Pull the bolted plant and compost it.
+3. In Bed D, the bolted lettuce zone is replaced by leeks (Phase 3 transition).
+4. Re-sow lettuce in late August for an autumn crop if desired.
+
+**Child action:** "Look, the lettuce is trying to grow a flower! That means it is done making leaves for us to eat. Let's pick all the good leaves and then we will plant something new."
+
+[PHOTO: Bolting lettuce with central flower stalk]
+
+---
+
+## Blossom End Rot
+
+### Dark, sunken patch at the bottom of tomatoes or peppers
+
+**Severity:** :yellow_circle: This week
+
+**What is happening:** Blossom end rot is caused by inconsistent watering, which prevents the plant from absorbing calcium. It is NOT a disease -- it is a watering problem. The reservoir in Bed C helps prevent this, but check that it stays topped up.
+
+**Affects:** Tomatoes (Bed C -- Sungold), peppers (Bed C -- Lipstick)
+
+**What to do:**
+1. Remove affected fruit -- it will not recover.
+2. Ensure consistent watering. Use the reservoir system in Bed C -- check the indicator and top up before it runs dry.
+3. Do not over-fertilize with nitrogen (too much green growth, not enough calcium uptake).
+4. Mulch around the base to maintain even soil moisture.
+
+**Child action:** "This tomato has a dark bottom -- it is not sick, it just got too thirsty at the wrong time. Can you check the water level in the reservoir every day?"
+
+[PHOTO: Blossom end rot on cherry tomato -- dark sunken base]
+
+---
+
+## Runner Management (Strawberries)
+
+### Long stems (runners) growing out from the strawberry plant
+
+**Severity:** :green_circle: No rush
+
+**What is happening:** Strawberry plants send out runners (long stems with baby plants at the end) to reproduce. This is normal and healthy, but runners take energy away from fruit production. In our small Bed A, runners can also overcrowd the bed.
+
+**Affects:** Strawberries -- Ostara and Korona (Bed A)
+
+**What to do:**
+1. For maximum fruit: clip runners off at the base as they appear.
+2. If you want new plants: let 1-2 runners root into small pots placed next to the bed, then cut the connecting stem after roots form.
+3. Do not let runners tangle into the thyme, lamb's ear, or lemon balm at the edges.
+
+**Child action:** "Can you find the long arms growing out of the strawberry plants? Those are called runners. Let's snip them off so the plant makes more strawberries instead."
+
+[PHOTO: Strawberry runner with baby plant at the tip]
+
+---
+
+## Crop Index
+
+An alphabetical list of every crop planted in this garden, with bed assignment, most common issues, and where to find help in this guide.
+
+| # | Crop | Bed(s) | Position | Common Issues |
+|---|------|--------|----------|---------------|
+| 1 | **Basil** | C | Center, flanking tomato | Frost damage (cover if below 5C); slugs on seedlings (see *Seedlings Falling Over*); bolts in heat -- pinch flower buds |
+| 2 | **Borage** | C, E | Near trellis (C); center-south (E) | Almost no problems. Self-sows freely. If too large, cut back by half. Attracts hoverflies that eat aphids (see *Aphids*) |
+| 3 | **Broccoli Calabrese** | E | Center-north | Caterpillars are the #1 threat (see *Holes in Leaves > Caterpillars*); flea beetles on seedlings (see *Holes in Leaves > Flea beetles*); aphids (see *Aphids*) |
+| 4 | **Bush Bean Provider** | E | East edge, column of 6 | Slugs on young plants (see *Holes in Leaves > Slugs*); no pods if too cold at planting (wait until soil is 15C+); bean rust in wet summers |
+| 5 | **Calendula** | A, E | South end (A); corners (E) | Almost no problems. Aphids occasionally (see *Aphids*) -- usually the predators find them fast. Powdery mildew late season (see *White Powder*) |
+| 6 | **Cherry Tomato Sungold** | C | Center, staked | Blossom end rot (see *Blossom End Rot*); suckers need weekly pruning; late blight in wet summers (see *Spots on Leaves*); aphids (see *Aphids*) |
+| 7 | **Cherry Tomato Tumbling Tom** | Pot/basket | Overflow from Bed C | Same as Sungold but compact/trailing. Needs consistent watering in pot. Less pruning needed. See *Blossom End Rot* if dark patches on fruit. |
+| 8 | **Chives** | B | Perimeter around raspberries | Almost no problems. Divide every 2-3 years if clumps get too thick. Flowers are edible -- let some bloom for pollinators. |
+| 9 | **Cucumber Mini Munch** | C | Trellis base, south end | Powdery mildew is the biggest risk (see *White Powder*); needs consistent water -- reservoir helps; bitter fruit if stressed; aphids (see *Aphids*) |
+| 10 | **Kale Nero di Toscana** | C | Center (harvested by Phase 3 if space needed) | Caterpillars (see *Holes in Leaves > Caterpillars*); flea beetles (see *Holes in Leaves > Flea beetles*); aphids (see *Aphids*); whitefly |
+| 11 | **Lamb's Ear** | A | West edge center | Almost no problems. Drought tolerant. May spread -- trim edges if it crowds strawberries. Not a food plant -- sensory/tactile only. |
+| 12 | **Leek Musselburgh** | D | Center column, 3-4 plants | Leek moth larvae (check for tiny holes in leaves); rust (orange spots, see *Spots on Leaves*); very long season (150+ days) -- be patient |
+| 13 | **Lemon Balm** | A | West edge, in sunken pot | Too vigorous rather than too weak. If it escapes the pot, trim runners monthly. Rarely bothered by pests. |
+| 14 | **Lettuce Baby Mix** | D | Broadcast zone (bolts in summer) | Slugs are the main enemy (see *Holes in Leaves > Slugs*); bolting in summer heat (see *Stunted Growth > Bolting*); aphids (see *Aphids*) |
+| 15 | **Mint** | A (pot beside) | 30cm+ pot on ground, east side | Almost no problems if in pot. Needs regular watering (pots dry out fast). If planted in ground it would take over -- keep in pot. |
+| 16 | **Nasturtium** | A | East edge, trailing | Almost no problems. Acts as aphid trap crop by design (see *Aphids*). Black aphids on nasturtium is GOOD -- it means they are not on your vegetables. |
+| 17 | **Pea Kelvedon Wonder** | C | Trellis base (Phase 2; cleared W21) | Powdery mildew late in life (see *White Powder*); pea moth (small holes in pods -- harvest early to avoid); birds eating seeds at sowing |
+| 18 | **Pea Shoots** | A | North end (Phase 2; replaced by sunflowers W18) | Almost no problems in their short 2-3 week cycle. Slugs on young shoots (see *Holes in Leaves > Slugs*). Harvest before they get tough. |
+| 19 | **Radish** | A, D | Succession slots | Almost no problems. Flea beetles make small holes but rarely kill the plant (see *Holes in Leaves > Flea beetles*). Woody if left too long -- harvest within 4 weeks. |
+| 20 | **Raspberry Autumn Bliss** | B | Center column, 3 canes | First year is establishment -- small harvest is normal. Prune spent canes to ground in late autumn. Raspberry beetle (check fruit for small grubs). |
+| 21 | **Spring Onion White Lisbon** | D | Row at L=55cm | Slugs on young plants; onion fly (wilting leaves, see *Plant Wilting*). Generally trouble-free. Pull when pencil-thick or thicker. |
+| 22 | **Strawberry Korona** | A | Center, between Ostara plants | Slugs on fruit (see *Holes in Leaves > Slugs*); runner management needed (see *Runner Management*); grey mould (botrytis) in wet weather -- remove affected fruit |
+| 23 | **Strawberry Ostara** | A | Center, 2 plants | Same as Korona, plus: smaller fruit but produces Jun-Sep (everbearing). Runners need regular clipping. Grey mould risk in wet summers. |
+| 24 | **Sunflower** | A | North end cluster, 2-3 plants | Almost no problems. Slugs may eat seedlings (see *Holes in Leaves > Slugs*). Stake tall varieties if they lean. Birds may eat seeds -- let them! |
+| 25 | **Sweet Pepper Lipstick** | C | South-north section | Slow to ripen in Danish climate -- be patient until August-September. Aphids (see *Aphids*); blossom end rot if watering inconsistent (see *Blossom End Rot*) |
+| 26 | **Thyme** | A, D | West edge (A); east corners (D) | Almost no problems. Drought tolerant perennial. Trim after flowering to keep compact. Can die in waterlogged soil -- ensure drainage in terrace beds. |
+| 27 | **Viola** | A, D | South/north corners (A); west corners (D) | Almost no problems. May peter out in summer heat -- replace with fresh seedlings. Aphids occasionally. Edible flowers -- pick regularly to encourage more. |
+
+### Quick Reference by Bed
+
+**Bed A -- "His Bed"** (120x60cm, backyard east) -- See `docs/planting-grid-bed-a.md`
+Strawberry Ostara (x2), Strawberry Korona, Lamb's ear, Lemon balm, Thyme, Viola, Calendula, Radish (succession), Sunflower, Nasturtium, Mint (pot beside bed), Pea shoots (Phase 2, replaced by sunflowers)
+
+**Bed B -- "Raspberry Bed"** (120x60cm, backyard west) -- See `docs/planting-grid-bed-b.md`
+Raspberry Autumn Bliss (x3), Chives (perimeter)
+
+**Bed C -- "Warm Crop Bed"** (120x60cm, backyard center, trellis) -- See `docs/planting-grid-bed-c.md`
+Cucumber Mini Munch (x2), Cherry Tomato Sungold, Sweet Pepper Lipstick, Basil (x2), Borage, Dill, Pea Kelvedon Wonder (Phase 2, cleared W21), Kale Nero di Toscana (Phase 2, harvested by W21 if space needed)
+
+**Bed D -- "Salad & Herb Terrace Bed"** (80x40cm, terrace south) -- See `docs/planting-grid-bed-d.md`
+Leek Musselburgh (3-4), Spring Onion White Lisbon, Lettuce Baby Mix (bolts in summer), Thyme, Viola, Radish (succession)
+
+**Bed E -- "Warm Terrace Bed"** (80x40cm, terrace north) -- See `docs/planting-grid-bed-e.md`
+Broccoli Calabrese, Bush Bean Provider (x6), Dill, Borage, Calendula
+
+**Pot/Basket:**
+Cherry Tomato Tumbling Tom (overflow from Bed C)
