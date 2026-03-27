@@ -3,15 +3,15 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: executing
-stopped_at: Completed 03-02-PLAN.md
-last_updated: "2026-03-27T06:06:03.395Z"
-last_activity: 2026-03-26 -- Completed Plan 02-02 (session script and bug hotel guide)
+stopped_at: Completed 05-01-PLAN.md
+last_updated: "2026-03-27T06:23:35.391Z"
+last_activity: 2026-03-27 -- Completed Plan 04-01 (crop database and bed files)
 progress:
   total_phases: 6
   completed_phases: 3
-  total_plans: 11
-  completed_plans: 7
-  percent: 80
+  total_plans: 13
+  completed_plans: 9
+  percent: 69
 ---
 
 # Project State
@@ -21,16 +21,16 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-26)
 
 **Core value:** A child who independently checks on, cares for, and harvests from plants he chose to grow
-**Current focus:** Phase 2: Spring Planting
+**Current focus:** Phase 4: Data System and Schedules
 
 ## Current Position
 
-Phase: 2 of 6 (Spring Planting)
-Plan: 2 of 2 in current phase
+Phase: 4 of 6 (Data System and Schedules)
+Plan: 1 of 3 in current phase
 Status: Executing
-Last activity: 2026-03-26 -- Completed Plan 02-02 (session script and bug hotel guide)
+Last activity: 2026-03-27 -- Completed Plan 04-01 (crop database and bed files)
 
-Progress: [████████░░] 80%
+Progress: [███████░░░] 69%
 
 ## Performance Metrics
 
@@ -55,6 +55,8 @@ Progress: [████████░░] 80%
 | Phase 02-spring-planting P02 | 3 min | 2 tasks | 2 files |
 | Phase 02 P01 | 6 min | 2 tasks | 5 files |
 | Phase 03-warm-season-planting P02 | 3 min | 1 tasks | 1 files |
+| Phase 05 P01 | 4 min | 2 tasks | 2 files |
+| Phase 04-data-system-and-schedules P01 | 15 min | 2 tasks | 34 files |
 
 ## Accumulated Context
 
@@ -77,6 +79,12 @@ Recent decisions affecting current work:
 - [Phase 02-01]: 3 strawberries in Bed A (2 Ostara + 1 Korona) to avoid overcrowding 0.72m2; lemon balm in sunken pot at edge
 - [Phase 02-01]: Spring onions isolated in Bed D (terrace) to avoid pea/allium conflict; Bed E 60% reserved for Phase 3
 - [Phase 03-02]: Session 2 total kept to 75-95 min by pre-digging transplant holes; pea harvest + mint pot front-loaded for meltdown resilience
+- [Phase 05]: CLAUDE.md kept to 156 lines with file pointers instead of duplicating content from docs/
+- [Phase 05]: Property map sun zones shown as table + diagram labels rather than complex ASCII overlay
+- [04-01]: Crop schema includes alerts array with drought/frost/heat_stress types and bilingual messages
+- [04-01]: Bed files reference crops by lowercase-hyphen ID with exact cm positions from planting grids
+- [04-01]: Sowing method enum includes buy-plant for nursery-purchased perennials
+- [04-01]: Difficulty tier enum: cant_fail / needs_care / year_2_challenge
 
 ### Pending Todos
 
@@ -90,6 +98,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-27T06:01:42.985Z
-Stopped at: Completed 03-02-PLAN.md
+Last session: 2026-03-27T06:23:35.389Z
+Stopped at: Completed 04-01-PLAN.md
 Resume file: None

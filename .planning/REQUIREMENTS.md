@@ -74,8 +74,8 @@
 
 ### Data System
 
-- [ ] **DATA-01**: JSON schema for crop database (growth stages, water needs, harvest timing, companion plants, difficulty tier, child actions, alert triggers)
-- [ ] **DATA-02**: Individual JSON crop files for every planted crop with all schema fields populated
+- [x] **DATA-01**: JSON schema for crop database (growth stages, water needs, harvest timing, companion plants, difficulty tier, child actions, alert triggers)
+- [x] **DATA-02**: Individual JSON crop files for every planted crop with all schema fields populated
 - [ ] **DATA-03**: Weekly schedule JSON files (one per ISO week) with themed names, prioritized tasks, expected growth events
 - [ ] **DATA-04**: Home Assistant entity schema following havn_ prefix convention with per-bed sensor entities
 - [ ] **DATA-05**: Home Assistant Plant Monitor configuration with moisture/temperature thresholds per crop
@@ -83,11 +83,11 @@
 
 ### Documentation
 
-- [ ] **DOCS-01**: Property visualization showing bed placement, sun patterns, compass orientation, and access paths
+- [x] **DOCS-01**: Property visualization showing bed placement, sun patterns, compass orientation, and access paths
 - [ ] **DOCS-02**: Troubleshooting guide structured for father-son reference (visual, searchable, symptom-based)
 - [ ] **DOCS-03**: Difficulty-tiered crop collection clearly marking "can't fail" vs "needs care" vs "Year 2 challenge"
 - [ ] **DOCS-04**: "Help us keep our farm alive" neighbor vacation guide with per-bed watering frequency and harvest instructions
-- [ ] **DOCS-05**: CLAUDE.md project file based on ~/book/vibes patterns with full garden context
+- [x] **DOCS-05**: CLAUDE.md project file based on ~/book/vibes patterns with full garden context
 - [x] **DOCS-06**: Shopping list with corten steel AND budget alternative pricing in DKK
 
 ### Vacation Survival
@@ -177,8 +177,8 @@
 | COOK-07 | Phase 3 | Complete |
 | CRTR-01 | Phase 3 | Complete |
 | CRTR-02 | Phase 3 | Complete |
-| DATA-01 | Phase 4 | Pending |
-| DATA-02 | Phase 4 | Pending |
+| DATA-01 | Phase 4 | Complete |
+| DATA-02 | Phase 4 | Complete |
 | DATA-03 | Phase 4 | Pending |
 | DATA-04 | Phase 4 | Pending |
 | DATA-05 | Phase 4 | Pending |
@@ -186,11 +186,11 @@
 | SCHED-02 | Phase 4 | Pending |
 | SCHED-03 | Phase 4 | Pending |
 | SCHED-04 | Phase 4 | Pending |
-| DOCS-01 | Phase 5 | Pending |
+| DOCS-01 | Phase 5 | Complete |
 | DOCS-02 | Phase 5 | Pending |
 | DOCS-03 | Phase 5 | Pending |
 | DOCS-04 | Phase 5 | Pending |
-| DOCS-05 | Phase 5 | Pending |
+| DOCS-05 | Phase 5 | Complete |
 | COOK-02 | Phase 5 | Pending |
 | VACN-01 | Phase 6 | Pending |
 | VACN-02 | Phase 6 | Pending |
