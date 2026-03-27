@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: executing
-stopped_at: Completed 04-03-PLAN.md
-last_updated: "2026-03-27T06:30:39.290Z"
+stopped_at: Completed 05-02-PLAN.md
+last_updated: "2026-03-27T06:40:04.487Z"
 last_activity: 2026-03-27 -- Completed Plan 04-03 (HA schemas and sensor recommendations)
 progress:
   total_phases: 6
-  completed_phases: 3
+  completed_phases: 5
   total_plans: 13
-  completed_plans: 11
+  completed_plans: 13
   percent: 85
 ---
 
@@ -21,16 +21,16 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-26)
 
 **Core value:** A child who independently checks on, cares for, and harvests from plants he chose to grow
-**Current focus:** Phase 5: Documentation and Guides (completing)
+**Current focus:** Phase 5: Documentation and Guides (complete)
 
 ## Current Position
 
-Phase: 4 of 6 (Data System and Schedules)
+Phase: 5 of 6 (Documentation and Guides)
 Plan: 3 of 3 in current phase (complete)
 Status: Executing
-Last activity: 2026-03-27 -- Completed Plan 04-03 (HA schemas and sensor recommendations)
+Last activity: 2026-03-27 -- Completed Plan 05-02 (crop knowledge references)
 
-Progress: [█████████░] 85%
+Progress: [█████████░] 92%
 
 ## Performance Metrics
 
@@ -59,6 +59,7 @@ Progress: [█████████░] 85%
 | Phase 04-data-system-and-schedules P01 | 15 min | 2 tasks | 34 files |
 | Phase 05-documentation-and-guides P03 | 5 min | 2 tasks | 2 files |
 | Phase 04-data-system-and-schedules P03 | 5 | 2 tasks | 5 files |
+| Phase 05 P02 | 13 min | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -93,6 +94,8 @@ Recent decisions affecting current work:
 - [Phase 04-03]: Plant Monitor thresholds use most-restrictive crop value per bed (e.g., Bed A max moisture 50% from lambs-ear)
 - [Phase 04-03]: Haozee TS0601_soil selected as primary sensor at ~150 DKK/unit
 - [Phase 04-03]: Alert delay: 6h for moisture (avoid false alarms), 0h for frost (immediate)
+- [Phase 05]: Aphid watch-and-wait is #1 featured entry in troubleshooting guide, not buried among other symptoms
+- [Phase 05]: Mint and Tumbling Tom classified as Needs Care (pot care profile) rather than Can't Fail
 
 ### Pending Todos
 
@@ -106,6 +109,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-27T06:30:39.287Z
-Stopped at: Completed 04-03-PLAN.md
+Last session: 2026-03-27T06:40:04.485Z
+Stopped at: Completed 05-02-PLAN.md
 Resume file: None

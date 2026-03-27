@@ -84,8 +84,8 @@
 ### Documentation
 
 - [x] **DOCS-01**: Property visualization showing bed placement, sun patterns, compass orientation, and access paths
-- [ ] **DOCS-02**: Troubleshooting guide structured for father-son reference (visual, searchable, symptom-based)
-- [ ] **DOCS-03**: Difficulty-tiered crop collection clearly marking "can't fail" vs "needs care" vs "Year 2 challenge"
+- [x] **DOCS-02**: Troubleshooting guide structured for father-son reference (visual, searchable, symptom-based)
+- [x] **DOCS-03**: Difficulty-tiered crop collection clearly marking "can't fail" vs "needs care" vs "Year 2 challenge"
 - [ ] **DOCS-04**: "Help us keep our farm alive" neighbor vacation guide with per-bed watering frequency and harvest instructions
 - [x] **DOCS-05**: CLAUDE.md project file based on ~/book/vibes patterns with full garden context
 - [x] **DOCS-06**: Shopping list with corten steel AND budget alternative pricing in DKK
@@ -187,8 +187,8 @@
 | SCHED-03 | Phase 4 | Pending |
 | SCHED-04 | Phase 4 | Pending |
 | DOCS-01 | Phase 5 | Complete |
-| DOCS-02 | Phase 5 | Pending |
-| DOCS-03 | Phase 5 | Pending |
+| DOCS-02 | Phase 5 | Complete |
+| DOCS-03 | Phase 5 | Complete |
 | DOCS-04 | Phase 5 | Pending |
 | DOCS-05 | Phase 5 | Complete |
 | COOK-02 | Phase 5 | Pending |
