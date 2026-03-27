@@ -6,7 +6,7 @@
 
 This guide sequences the complete garden infrastructure build from the day materials arrive through the first watering. Follow the steps in order -- each step builds on the previous one, and some things (like reservoirs and copper tape) must happen before others (like adding soil).
 
-**Estimated total time:** 6-8 hours across 1-2 weekends.
+**Estimated total time:** 6.5-8.5 hours across 1-2 weekends.
 
 **Before you start:** All materials should be ordered using [shopping-list.md](shopping-list.md) and delivered before starting. Bed positions should be marked out using [bed-layout.md](bed-layout.md) on the day before build day.
 
@@ -23,19 +23,33 @@ This guide sequences the complete garden infrastructure build from the day mater
 
 ---
 
-## Day 1: Bed Assembly + Reservoirs + Slug Defense (~4 hours)
+## Day 1: Mole Mesh + Bed Assembly + Reservoirs + Slug Defense (~4.5 hours)
 
-### Step 1: Assemble Backyard Beds (Beds 1-3) (~45 min)
+### Step 1: Lay Mole Mesh at Bed Positions (~20 min)
+
+- **Time:** ~5-7 min per bed
+- **People:** 1 adult
+- **Child can:** Help hold mesh in place
+
+Before placing the backyard beds, lay a sheet of 6mm galvanized hardware cloth (volieretråd) at each of the 3 marked positions. Cut each sheet ~10cm wider than the bed footprint on all sides (140x80cm per bed). The excess will fold up against the inner walls after the bed is placed on top.
+
+This prevents moles and voles from tunneling up into the growing medium from below. Moles are common in Vejle -- the mesh is cheap insurance.
+
+**Note:** Skip this for terrace beds (Beds 4-5) -- they are elevated off ground.
+
+**Verify:** Mesh flat at each position, no gaps at corners, sized to fold up inside the bed walls.
+
+### Step 2: Assemble Backyard Beds (Beds 1-3) (~45 min)
 
 - **Time:** ~15 min per bed
 - **People:** 1-2 adults
 - **Child can:** Hold parts during assembly, hand over screws/bolts
 
-Assemble the three byJEMA CUBY beds per manufacturer instructions at the positions marked from [bed-layout.md](bed-layout.md). Place Bed 1 (tomato) in the west position, Bed 2 (cucumber) in the center, and Bed 3 (berry) in the east position.
+Assemble the three byJEMA CUBY beds per manufacturer instructions on top of the mesh sheets at the positions marked from [bed-layout.md](bed-layout.md). Place Bed 1 (tomato) in the west position, Bed 2 (cucumber) in the center, and Bed 3 (berry) in the east position. Once each bed is placed, fold the excess mesh up against the inner walls.
 
-**Verify:** All 3 beds are level, positioned per layout, all sides accessible with 70cm paths between them.
+**Verify:** All 3 beds are level, positioned per layout, mesh folded up inside walls with no gaps, all sides accessible with 70cm paths between them.
 
-### Step 2: Install Reservoirs in Beds 1 and 2 (~60 min)
+### Step 3: Install Reservoirs in Beds 1 and 2 (~60 min)
 
 - **Time:** ~30 min per bed
 - **People:** 1 adult (child should step back -- sharp tools and heavy liner)
@@ -46,7 +60,7 @@ Follow [reservoir-build.md](reservoir-build.md) completely for each bed. This in
 
 **Verify:** Water fills via tube, exits via overflow, no leaks visible. See the 4-step testing procedure in [reservoir-build.md](reservoir-build.md).
 
-### Step 3: Apply Copper Tape to All Backyard Beds (~30 min)
+### Step 4: Apply Copper Tape to All Backyard Beds (~30 min)
 
 - **Time:** ~10 min per bed
 - **People:** 1 adult
@@ -58,7 +72,7 @@ Follow [slug-defense.md](slug-defense.md) for the application method. Clean the 
 
 **Verify:** Continuous band around each bed, no gaps at corners, overlapped at joints.
 
-### Step 4: Assemble Terrace Beds (Beds 4-5) (~30 min)
+### Step 5: Assemble Terrace Beds (Beds 4-5) (~30 min)
 
 - **Time:** ~15 min per bed
 - **People:** 1-2 adults (carrying beds upstairs)
@@ -68,11 +82,11 @@ Assemble and position the two galvanized beds per the terrace section of [bed-la
 
 **Verify:** Beds along railing, over structural supports, level. See terrace weight assessment in [bed-layout.md](bed-layout.md).
 
-### Step 5: Apply Copper Tape to Terrace Beds (~20 min)
+### Step 6: Apply Copper Tape to Terrace Beds (~20 min)
 
 - **Time:** ~10 min per bed
 - **People:** 1 adult
-- **Child can:** Same as Step 3
+- **Child can:** Same as Step 4
 
 Follow [slug-defense.md](slug-defense.md). Same method as the backyard beds.
 
@@ -82,7 +96,7 @@ Follow [slug-defense.md](slug-defense.md). Same method as the backyard beds.
 
 ## Day 2: Soil Fill + Trellis (~3-4 hours)
 
-### Step 6: Fill Beds 1 and 2 (Reservoir Beds) (~45 min)
+### Step 7: Fill Beds 1 and 2 (Reservoir Beds) (~45 min)
 
 - **Time:** ~20 min per bed
 - **People:** 1-2 adults
@@ -96,7 +110,7 @@ Layer sequence above the reservoir:
 
 **Verify:** Layers at correct depths, fill tube accessible above soil line.
 
-### Step 7: Fill Bed 3 (Standard Bed) (~20 min)
+### Step 8: Fill Bed 3 (Standard Bed) (~20 min)
 
 - **Time:** ~20 min
 - **People:** 1-2 adults
@@ -109,7 +123,7 @@ Follow [soil-layers.md](soil-layers.md) for the standard 40cm bed:
 
 **Verify:** Drainage layer 8-10cm, waste layer 10-15cm, soil layer 15-20cm.
 
-### Step 8: Fill Beds 4 and 5 (Terrace Beds) (~30 min)
+### Step 9: Fill Beds 4 and 5 (Terrace Beds) (~30 min)
 
 - **Time:** ~15 min per bed
 - **People:** 1-2 adults
@@ -124,7 +138,7 @@ Transport soil materials upstairs in buckets -- do not try to carry full bags up
 
 **Verify:** Total fill height ~25-28cm (allowing for settling).
 
-### Step 9: Build and Install A-Frame Trellis on Bed 2 (~60 min)
+### Step 10: Build and Install A-Frame Trellis on Bed 2 (~60 min)
 
 - **Time:** ~60 min
 - **People:** 1-2 adults
@@ -136,7 +150,7 @@ Anchor the legs to prevent wind toppling -- use ground stakes, L-brackets, or we
 
 **Verify:** Stable under firm push from each side, mesh securely attached, peak at ~120cm.
 
-### Step 10: First Watering (~15 min)
+### Step 11: First Watering (~15 min)
 
 - **Time:** ~15 min
 - **People:** 1 adult or child with hose
@@ -153,6 +167,7 @@ Beds will settle 5-10cm over the next week. Plan to top up with hojbedsmuld befo
 
 ## Completion Checklist
 
+- [ ] Mole mesh laid under all 3 backyard bed positions
 - [ ] 3 backyard beds assembled and positioned per layout
 - [ ] 2 terrace beds assembled and positioned over structural supports
 - [ ] Reservoirs installed and tested in Beds 1 and 2

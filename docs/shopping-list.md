@@ -63,12 +63,19 @@ All prices are in DKK and were sourced in March 2026. Prices marked with ~ are e
 | 17 | Hardware | Galvanized bolts, hinges, and brackets for ridge connection | 1 set | ~75 | ~75 | Byggemarked | In-store |
 | | | **Trellis subtotal** | | | **~450** | | |
 
+### Mole and Vole Protection
+
+| # | Item | Specification | Qty | Unit Price | Total | Supplier | Link |
+|---|------|---------------|-----|-----------|-------|----------|------|
+| 18 | Hardware cloth (volieretråd) | Galvanized 6mm mesh, 1m x 5m roll | 1 | ~90 | ~90 | Silvan or Bauhaus Vejle | In-store |
+| | | **Mole protection subtotal** | | | **~90** | | |
+
 ### Tools and Consumables
 
 | # | Item | Specification | Qty | Unit Price | Total | Supplier | Link |
 |---|------|---------------|-----|-----------|-------|----------|------|
-| 18 | Rubbing alcohol (isopropyl) | For cleaning steel surface before copper tape application | 1 | ~30 | ~30 | Apotek or byggemarked | In-store |
-| 19 | Drill + 10-12mm bit | For drilling PVC pipe drainage holes (skip if you already own a drill) | 1 | ~0 | ~0 | -- | -- |
+| 19 | Rubbing alcohol (isopropyl) | For cleaning steel surface before copper tape application | 1 | ~30 | ~30 | Apotek or byggemarked | In-store |
+| 20 | Drill + 10-12mm bit | For drilling PVC pipe drainage holes (skip if you already own a drill) | 1 | ~0 | ~0 | -- | -- |
 | | | **Tools subtotal** | | | **~30** | | |
 
 ### Option A Total
@@ -78,12 +85,13 @@ All prices are in DKK and were sourced in March 2026. Prices marked with ~ are e
 | Raised beds | ~6,825 |
 | Soil and fill | ~1,200 |
 | Slug defense | ~400 |
+| Mole protection | ~90 |
 | Reservoir materials | ~830 |
 | Trellis materials | ~450 |
 | Tools/consumables | ~30 |
-| **TOTAL** | **~9,735** |
+| **TOTAL** | **~9,825** |
 
-Estimated range: **9,000 -- 10,200 DKK**
+Estimated range: **9,100 -- 10,300 DKK**
 
 ---
 
@@ -105,20 +113,21 @@ All other items are identical to Option A.
 |----------|----------------|
 | Soil and fill | ~1,200 |
 | Slug defense | ~400 |
+| Mole protection | ~90 |
 | Reservoir materials | ~830 |
 | Trellis materials | ~450 |
 | Tools/consumables | ~30 |
-| **Non-bed subtotal** | **~2,910** |
+| **Non-bed subtotal** | **~3,000** |
 
 ### Option B Total
 
 | Category | Subtotal (DKK) |
 |----------|----------------|
 | Raised beds | ~6,225 |
-| All other materials | ~2,910 |
-| **TOTAL** | **~9,135** |
+| All other materials | ~3,000 |
+| **TOTAL** | **~9,225** |
 
-Estimated range: **8,500 -- 10,200 DKK**
+Estimated range: **8,500 -- 10,300 DKK**
 
 **Savings vs Option A:** ~600 DKK (beds only difference)
 
@@ -155,7 +164,7 @@ Estimated range: **8,500 -- 10,200 DKK**
 - **Timing:** Apply copper tape on bed assembly day, before the corten patina develops. New steel provides better adhesive grip.
 - **Application:** Clean the surface with rubbing alcohol first. Apply in a continuous band around each bed exterior, ~5cm below the top rim. Overlap ends by at least 2cm. Fold at corners rather than cutting.
 
-### Byggemarked Items (Lines 4, 7-19)
+### Byggemarked Items (Lines 4, 7-20)
 - **One trip:** Most reservoir, trellis, and drainage items can be bought in a single byggemarked visit (Silvan or Bauhaus in Vejle).
 - **Bring the list:** Print this shopping list or save it to your phone. The in-store staff can help locate PVC fittings and geotextile.
 
