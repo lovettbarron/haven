@@ -94,8 +94,8 @@
 
 - [x] **VACN-01**: Self-watering reservoirs installed and tested in tomato and cucumber beds before July
 - [x] **VACN-02**: Mulching protocol (5-8cm straw/bark) for all beds before each absence
-- [ ] **VACN-03**: Pre-vacation harvest protocol (pick everything showing color)
-- [ ] **VACN-04**: Neighbor guide delivered as printable document with photos, per-bed instructions, and emergency contacts
+- [x] **VACN-03**: Pre-vacation harvest protocol (pick everything showing color)
+- [x] **VACN-04**: Neighbor guide delivered as printable document with photos, per-bed instructions, and emergency contacts
 
 ## v2 Requirements
 
@@ -194,8 +194,8 @@
 | COOK-02 | Phase 5 | Pending |
 | VACN-01 | Phase 6 | Complete |
 | VACN-02 | Phase 6 | Complete |
-| VACN-03 | Phase 6 | Pending |
-| VACN-04 | Phase 6 | Pending |
+| VACN-03 | Phase 6 | Complete |
+| VACN-04 | Phase 6 | Complete |
 
 **Coverage:**
 - v1 requirements: 59 total
