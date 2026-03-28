@@ -134,9 +134,9 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 
 ### Season 2 Preparation
 
-- [ ] **SSN2-01**: End-of-season cleanup guide (W44-W46) covering plant removal, composting, reservoir draining
-- [ ] **SSN2-02**: Perennial management notes for strawberry crowns, raspberry canes, and herb plants
-- [ ] **SSN2-03**: Year 2 soil refresh documentation (when and how to amend raised bed soil)
+- [x] **SSN2-01**: End-of-season cleanup guide (W44-W46) covering plant removal, composting, reservoir draining
+- [x] **SSN2-02**: Perennial management notes for strawberry crowns, raspberry canes, and herb plants
+- [x] **SSN2-03**: Year 2 soil refresh documentation (when and how to amend raised bed soil)
 - [x] **SSN2-04**: Season review template for capturing lessons learned
 - [x] **SSN2-05**: Crop failure recovery section added to troubleshooting guide with mid-season replanting windows
 
@@ -283,9 +283,9 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 | HAIG-01 | Phase 10 | Complete |
 | HAIG-02 | Phase 10 | Complete |
 | HAIG-03 | Phase 10 | Complete |
-| SSN2-01 | Phase 11 | Pending |
-| SSN2-02 | Phase 11 | Pending |
-| SSN2-03 | Phase 11 | Pending |
+| SSN2-01 | Phase 11 | Complete |
+| SSN2-02 | Phase 11 | Complete |
+| SSN2-03 | Phase 11 | Complete |
 | SSN2-04 | Phase 11 | Complete |
 | SSN2-05 | Phase 11 | Complete |
 | PMNT-01 | Phase 12 | Pending |

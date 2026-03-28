@@ -30,7 +30,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 8: Child Engagement Bridge** - Create daily routine card and between-session activities so the child can independently engage with the garden (completed 2026-03-28)
 - [ ] **Phase 9: Operational Readiness** - Spring planting shopping list, purchase prioritization, and tool inventory for build and planting days
 - [x] **Phase 10: Home Assistant Setup** - Step-by-step HA configuration walkthrough and basic Lovelace dashboard for sensor deployment (completed 2026-03-28)
-- [ ] **Phase 11: Season 2 Preparation** - End-of-season cleanup, perennial management, soil refresh, and crop failure recovery documentation
+- [x] **Phase 11: Season 2 Preparation** - End-of-season cleanup, perennial management, soil refresh, and crop failure recovery documentation (completed 2026-03-28)
 - [ ] **Phase 12: Planning Artifact Maintenance** - Update stale checkboxes, statuses, and metadata across ROADMAP.md, PROJECT.md, and REQUIREMENTS.md
 
 ## Phase Details
@@ -206,7 +206,7 @@ Plans:
   3. Year 2 soil refresh documentation explains when and how to amend raised bed soil (compost vs fresh hojbedsmuld, timing)
   4. A season review template captures what worked, what failed, crop-by-crop assessment, and child engagement observations
   5. A crop failure recovery section in the troubleshooting guide documents mid-season replanting windows and replacement options
-**Plans:** 1/2 plans executed
+**Plans:** 2/2 plans complete
 
 Plans:
 - [ ] 11-01-PLAN.md -- End-of-season countdown guide, perennial care, and soil refresh documentation
@@ -242,5 +242,5 @@ Plans:
 | 8. Child Engagement Bridge | 2/2 | Complete   | 2026-03-28 | - |
 | 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
 | 10. Home Assistant Setup | 1/1 | Complete    | 2026-03-28 | - |
-| 11. Season 2 Preparation | 1/2 | In Progress|  | - |
+| 11. Season 2 Preparation | 2/2 | Complete   | 2026-03-28 | - |
 | 12. Planning Artifact Maintenance | v1.1 | 0/? | Not started | - |

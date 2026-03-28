@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Gap Closure and Operational Readiness
 status: completed
-stopped_at: Completed 11-02 season review and crop failure recovery
-last_updated: "2026-03-28T22:06:27.021Z"
-last_activity: 2026-03-28 -- Completed 11-02 season review and crop failure recovery
+stopped_at: Completed 11-01-PLAN.md
+last_updated: "2026-03-28T22:09:58.313Z"
+last_activity: 2026-03-28 -- Completed 11-01 end-of-season docs (cleanup countdown, perennial care, soil refresh)
 progress:
   total_phases: 12
-  completed_phases: 10
+  completed_phases: 11
   total_plans: 23
-  completed_plans: 22
+  completed_plans: 23
   percent: 96
 ---
 
@@ -26,9 +26,9 @@ See: .planning/PROJECT.md (updated 2026-03-28)
 ## Current Position
 
 Phase: 11 of 12 (Season 2 Preparation)
-Plan: 2 of 2 (complete)
-Status: Phase 11 plan 2 complete
-Last activity: 2026-03-28 -- Completed 11-02 season review and crop failure recovery
+Plan: 1 of 2 (11-01 complete)
+Status: Phase 11 plan 1 complete
+Last activity: 2026-03-28 -- Completed 11-01 end-of-season docs (cleanup countdown, perennial care, soil refresh)
 
 Progress: [██████████] 96% (22/23 plans complete)
 
@@ -61,6 +61,7 @@ Progress: [██████████] 96% (22/23 plans complete)
 | Phase 09 P01 | 2min | 2 tasks | 4 files |
 | Phase 10 P01 | 2min | 2 tasks | 1 files |
 | Phase 11 P02 | 2min | 2 tasks | 3 files |
+| Phase 11 P01 | 5min | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -87,6 +88,9 @@ Recent decisions affecting current work:
 - [Phase 09]: Adapted 5-bed plant inventory to 2-bed reality for spring shopping list
 - [Phase 10]: All 10 HA automations always-on year-round; warm-season rules harmless when conditions unmet
 - [Phase 10]: Used UI card editor paste flow for Lovelace, not deprecated mode: yaml
+- [Phase 11]: [11-01]: Perennial care as standalone doc for reusability from multiple contexts
+- [Phase 11]: [11-01]: Day 1 at W40-W42 for garlic timing; Days 2-3 flexible W42-W46
+- [Phase 11]: [11-01]: Soil testing documented as optional with default approach fallback
 - [Phase 11]: [11-02]: Included all 27 crops in season review scorecard (including backup/unused varieties)
 - [Phase 11]: [11-02]: Crop failure framing: emotional first, replacement optional, empty space is OK
 
@@ -107,7 +111,7 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-28T22:06:27.014Z
-Stopped at: Completed 11-02 season review and crop failure recovery
+Last session: 2026-03-28T22:09:58.308Z
+Stopped at: Completed 11-01-PLAN.md
 Resume file: None
-Next step: /gsd:execute-phase 9
+Next step: Execute 11-02-PLAN.md
