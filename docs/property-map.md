@@ -4,7 +4,7 @@
 **Date:** 2026-03-28
 **Location:** Vejle, Denmark (Zone 7b)
 
-This document provides a spatial overview of the entire property showing all raised beds, structures, sun exposure zones, paths, and key features. Use alongside `docs/bed-layout.md` for detailed bed specifications.
+This document provides a spatial overview of the entire property showing both raised beds, structures, sun exposure zones, paths, and key features. Use alongside `docs/bed-layout.md` for detailed bed specifications.
 
 ---
 
@@ -20,38 +20,37 @@ This document provides a spatial overview of the entire property showing all rai
  |                                                                     |
  |  +----------- cobblestone area (330 x 336 cm) ----------+          |
  |  |                                                       |          |
- |  |        +-------------------------------+              |          |
- |  |        |           Bed C               |              |          |
- |  |        |    "Kitchen Cart"             |              |          |
- |  |        |     150 x 40 cm              |              |          |
- |  |        |     (on wheels)              |              |          |
- |  |        +-------------------------------+              |          |
- |  |          long axis E-W                                |          |
  |  +-------------------------------------------------------+          |
- |                                                                     |
- |  +----------- grass area (287 x 195 cm) ------------+              |
- |  |                                                    |             |
- |  |   +------------------+   55cm   +----------+      |             |
- |  |   |                  |   path   |          |      |             |
- |  |   |     Bed B        |<------->|  Bed A   |      |    (O)      |
- |  |   |  "Family Bed"    |          | "His Bed"|      | Trampoline  |
- |  |   |  230 x 80 cm     |          | 120x60cm |      |             |
- |  |   |                  |          |          |      |  70cm+      |
- |  |   |  SOUTH ZONE:     |          | Straw-   |      |  buffer     |
- |  |   |  warm crops      |          | berries, |      |             |
- |  |   |  + trellis       |          | sensory, |      |             |
- |  |   |  + reservoir     |          | flowers  |      |             |
- |  |   |                  |          +----------+      |             |
- |  |   |  NORTH ZONE:     |   mint pot                  |             |
- |  |   |  raspberries     |  (east side                 |             |
- |  |   |  + chives        |   of Bed B)                 |             |
- |  |   +------------------+                             |             |
- |  |                                                    |             |
- |  +----------------------------------------------------+             |
- |                                                                     |
- |  <-- 132cm -->|<--- grass (195cm) --->|<----- 187cm ----->|        |
- |    stairway          E-W width           grass edge to              |
- |    to grass                              trampoline                 |
+ |         |                                                           |
+ |  +------+-----------------------+                                   |
+ |  |                              |                                   |
+ |  |          Bed A               |                                   |
+ |  |     "Family Bed"             |                                   |
+ |  |     230 x 120 cm             |                                   |
+ |  |                              |                                   |
+ |  |   SOUTH: warm crops          |                                   |
+ |  |     trellis + reservoir      |                                   |
+ |  |   MIDDLE: herbs, salad,      |                     (O)          |
+ |  |     broccoli, leeks          |                  Trampoline       |
+ |  |     (afternoon shade ~14:00) |                                   |
+ |  |   NORTH: raspberries         |                                   |
+ |  |     + chives (perennial)     |                                   |
+ |  |                              |                                   |
+ |  +------------------------------+                                   |
+ |         |                                                           |
+ |         | walking path                                              |
+ |         |                                                           |
+ |  +--------------------+                                             |
+ |  |                    |                                             |
+ |  |       Bed B        |                                             |
+ |  |    "His Bed"       |                                             |
+ |  |    150 x 60 cm     |                                             |
+ |  |                    |                                             |
+ |  |  Strawberries,     |                                             |
+ |  |  sensory plants,   |                                             |
+ |  |  flowers, radish   |                                             |
+ |  |                    |                                             |
+ |  +--------------------+                                             |
  |                                                                     |
  |  ~~~~                                                               |
  |  mature                                    Nature corner            |
@@ -99,15 +98,16 @@ The roof terrace (~70 m2 above the carport) is available for seating and furnitu
 
 | Zone | Location | Summer Sun | Notes |
 |------|----------|------------|-------|
-| **Full sun** | Grass area (Beds A and B) | 6-8+ hours direct | Open lawn with good south and west exposure; strongest growing position |
-| **Partial sun** | Cobblestone area (Bed C) | 4-6 hours direct | Morning and midday sun; some shade from north fence, hedge, and nearby trees |
+| **Full sun** | Grass area near house/terrace (Bed B) | 6-8+ hours direct | Open position with unobstructed sun exposure all day; strongest growing position |
+| **Morning sun + afternoon shade** | Grass area near cobblestones (Bed A) | 5-7 hours direct | Good morning sun from east and midday sun from south; some shade developing around 14:00 from nearby trees and structures |
 | **Shade** | Under mature tree canopy along east and north boundaries | 2-4 hours direct | Not suitable for food crops; good for nature corner |
 
 **Key observations:**
 - The house faces **west** toward the street. The backyard extends **east and northeast**.
-- Morning sun comes from the east (over the tree canopy). Afternoon sun from the south and west is strongest.
-- The grass area where Beds A and B sit gets the best sun exposure in the backyard -- open to the south and west with no obstruction.
-- The cobblestone area near the north fence where Bed C sits receives good morning and midday sun, but the north fence and hedge create some shade, especially in early spring and late season when the sun is lower. The wheeled design of Bed C allows repositioning to chase the best light.
+- Morning sun comes from the east. Afternoon sun from the south and west is strongest.
+- **Bed B** (near the house) sits in the most open, full-sun position -- ideal for strawberries, sunflowers, and sensory plants that thrive in maximum light.
+- **Bed A** (near the cobblestones, farther from house) gets good morning and midday sun, but receives some afternoon shade around 14:00. This is actually beneficial: the middle zone of Bed A holds lettuce, broccoli, and leeks, which prefer some relief from intense afternoon sun.
+- The warm crops in Bed A's south zone still get adequate sun for tomatoes, cucumbers, and peppers -- the shade arrives late enough in the day that they receive their peak sun hours.
 - East side of the backyard gets progressively more shade from mature trees, especially after midday.
 
 ---
@@ -123,7 +123,6 @@ The roof terrace (~70 m2 above the carport) is available for seating and furnitu
 | `~~~~` | Mature tree canopy |
 | `*` | Water tap |
 | `(O)` | Trampoline (approximate position) |
-| `<55cm>` | Path width between beds |
 
 ### Key Dimensions
 
@@ -134,14 +133,8 @@ The roof terrace (~70 m2 above the carport) is available for seating and furnitu
 | Garage/Carport | ~50 m2 | Below roof terrace |
 | Roof terrace | ~70 m2 | Above carport, seating only, no beds |
 | Cobblestone area | 330 x 336 cm (E-W x N-S) | Near north/back fence |
-| Grass area | 195 x 287 cm (E-W x N-S) | Between stairway and trampoline |
-| Stairway to grass edge | 132 cm | West side |
-| Grass edge to trampoline | 187 cm | East side |
-| Bed A ("His Bed") | 120 x 60 x 40 cm | CUBY corten steel, east side of grass, long axis N-S |
-| Bed B ("Family Bed") | 230 x 80 x 40 cm | Corten steel, west side of grass, long axis N-S |
-| Bed C ("Kitchen Cart") | 150 x 40 x 40 cm | Corten plantekasse on wheels, cobblestones, long axis E-W |
-| Path between Bed A and Bed B | 55 cm | 195 - 80 - 60 = 55 cm |
-| Trampoline buffer from Bed A | 70 cm+ | Minimum clearance to trampoline edge |
+| Bed A ("Family Bed") | 230 x 120 x 40 cm | byJEMA corten steel, on grass near cobblestones, long axis N-S |
+| Bed B ("His Bed") | 150 x 60 x 40 cm | byJEMA corten steel, on grass near house/terrace, long axis N-S |
 | Distance from water tap to beds | ~3-5 m | Within watering can range for child |
 
 ### Compass Orientation
@@ -156,6 +149,6 @@ The roof terrace (~70 m2 above the carport) is available for seating and furnitu
 ## Cross-References
 
 - **Bed specifications and placement rationale:** See `docs/bed-layout.md`
-- **What is planted in each bed:** See `docs/planting-grid-bed-a.md` through `docs/planting-grid-bed-c.md`
+- **What is planted in each bed:** See `docs/planting-grid-bed-a.md` and `docs/planting-grid-bed-b.md`
 - **Bed construction and materials:** See `docs/setup-guide.md`
 - **Shopping list and costs:** See `docs/shopping-list.md`

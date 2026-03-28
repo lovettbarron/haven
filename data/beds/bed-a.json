@@ -1,117 +1,209 @@
 {
   "$schema": "../schemas/bed.schema.json",
   "id": "bed-a",
-  "name": "His Bed",
+  "name": "Family Bed",
   "physical": {
-    "position": "Backyard east, on grass near trampoline",
-    "dimensions": { "length_cm": 120, "width_cm": 60, "height_cm": 40 },
+    "position": "Backyard, on grass near cobblestones, farther from house",
+    "dimensions": { "length_cm": 230, "width_cm": 120, "height_cm": 40 },
     "material": "corten_steel",
-    "product": "byJEMA CUBY Corten B60xH40 L120",
-    "features": ["bottomless", "mole-mesh"],
+    "product": "byJEMA Corten B120xH40 L230",
+    "features": ["bottomless", "mole-mesh", "a-frame-trellis", "self-watering-reservoir"],
     "orientation": "N-S",
-    "surface": "grass"
+    "surface": "grass",
+    "sun_notes": "Good morning sun, some afternoon shade ~14:00"
   },
+  "zones": [
+    {
+      "id": "south-warm-crops",
+      "name": "Warm Crop Zone",
+      "range_l": [0, 120],
+      "features": ["a-frame-trellis", "self-watering-reservoir"]
+    },
+    {
+      "id": "middle-herbs-salad",
+      "name": "Herbs & Salad Zone",
+      "range_l": [120, 160],
+      "features": [],
+      "notes": "Benefits from afternoon shade -- lettuce bolts slower, leeks and broccoli thrive"
+    },
+    {
+      "id": "north-raspberry",
+      "name": "Raspberry Zone",
+      "range_l": [170, 230],
+      "features": []
+    }
+  ],
   "crops": [
     {
-      "crop_id": "strawberry-ostara",
-      "shortcode": "ST-O",
+      "crop_id": "pea-kelvedon-wonder",
+      "shortcode": "PEA",
+      "zone": "south-warm-crops",
       "positions": [
-        { "center_w": 25, "center_l": 30, "spread_cm": 30 },
-        { "center_w": 25, "center_l": 70, "spread_cm": 30 }
+        { "center_w": 30, "center_l": 5, "spread_cm": 20 },
+        { "center_w": 60, "center_l": 5, "spread_cm": 20 },
+        { "center_w": 90, "center_l": 5, "spread_cm": 20 }
       ],
-      "planted_week": 16
+      "planted_week": 16,
+      "notes": "Nitrogen pre-crop on trellis. Cut at ground W21, roots left."
     },
     {
-      "crop_id": "strawberry-korona",
-      "shortcode": "ST-K",
+      "crop_id": "cucumber-mini-munch",
+      "shortcode": "CUC",
+      "zone": "south-warm-crops",
       "positions": [
-        { "center_w": 35, "center_l": 50, "spread_cm": 40 }
+        { "center_w": 30, "center_l": 10, "spread_cm": 30 },
+        { "center_w": 90, "center_l": 10, "spread_cm": 30 }
       ],
-      "planted_week": 16
+      "planted_week": 21
     },
     {
-      "crop_id": "lambs-ear",
-      "shortcode": "LAM",
+      "crop_id": "borage",
+      "shortcode": "BOR",
+      "zone": "south-warm-crops",
       "positions": [
-        { "center_w": 5, "center_l": 50, "spread_cm": 45 }
-      ],
-      "planted_week": 16
-    },
-    {
-      "crop_id": "thyme",
-      "shortcode": "THY",
-      "positions": [
-        { "center_w": 5, "center_l": 5, "spread_cm": 20 },
-        { "center_w": 5, "center_l": 95, "spread_cm": 20 },
-        { "center_w": 5, "center_l": 115, "spread_cm": 20 }
-      ],
-      "planted_week": 16
-    },
-    {
-      "crop_id": "lemon-balm",
-      "shortcode": "LE",
-      "positions": [
-        { "center_w": 5, "center_l": 25, "spread_cm": 30 }
-      ],
-      "planted_week": 16
-    },
-    {
-      "crop_id": "viola",
-      "shortcode": "VIO",
-      "positions": [
-        { "center_w": 15, "center_l": 5, "spread_cm": 15 },
-        { "center_w": 55, "center_l": 95, "spread_cm": 15 }
-      ],
-      "planted_week": 16
-    },
-    {
-      "crop_id": "calendula",
-      "shortcode": "CAL",
-      "positions": [
-        { "center_w": 35, "center_l": 5, "spread_cm": 25 },
-        { "center_w": 45, "center_l": 85, "spread_cm": 25 }
+        { "center_w": 30, "center_l": 40, "spread_cm": 35 }
       ],
       "planted_week": 17
     },
     {
-      "crop_id": "pea-shoots",
-      "shortcode": "PS",
+      "crop_id": "bush-bean-provider",
+      "shortcode": "BN",
+      "zone": "south-warm-crops",
       "positions": [
-        { "center_w": 25, "center_l": 105, "spread_cm": 30 }
+        { "center_w": 110, "center_l": 25, "spread_cm": 12 },
+        { "center_w": 110, "center_l": 37, "spread_cm": 12 },
+        { "center_w": 110, "center_l": 49, "spread_cm": 12 },
+        { "center_w": 110, "center_l": 61, "spread_cm": 12 },
+        { "center_w": 110, "center_l": 73, "spread_cm": 12 },
+        { "center_w": 110, "center_l": 85, "spread_cm": 12 }
+      ],
+      "planted_week": 20
+    },
+    {
+      "crop_id": "cherry-tomato-sungold",
+      "shortcode": "TOM",
+      "zone": "south-warm-crops",
+      "positions": [
+        { "center_w": 60, "center_l": 55, "spread_cm": 45 }
+      ],
+      "planted_week": 21
+    },
+    {
+      "crop_id": "basil",
+      "shortcode": "BAS",
+      "zone": "south-warm-crops",
+      "positions": [
+        { "center_w": 30, "center_l": 60, "spread_cm": 25 },
+        { "center_w": 90, "center_l": 60, "spread_cm": 25 }
+      ],
+      "planted_week": 21
+    },
+    {
+      "crop_id": "sweet-pepper-lipstick",
+      "shortcode": "PEP",
+      "zone": "south-warm-crops",
+      "positions": [
+        { "center_w": 60, "center_l": 85, "spread_cm": 35 }
+      ],
+      "planted_week": 22
+    },
+    {
+      "crop_id": "dill",
+      "shortcode": "DIL",
+      "zone": "south-warm-crops",
+      "positions": [
+        { "center_w": 90, "center_l": 100, "spread_cm": 25 }
+      ],
+      "planted_week": 18
+    },
+    {
+      "crop_id": "lettuce-baby-mix",
+      "shortcode": "LETTUCE",
+      "zone": "middle-herbs-salad",
+      "positions": [
+        { "center_w": 40, "center_l": 130, "spread_cm": 30 }
       ],
       "planted_week": 16,
-      "notes": "Replaced by sunflowers in W18"
+      "notes": "Broadcast sow. Benefits from afternoon shade. Bolts in summer, replaced by leeks."
     },
     {
-      "crop_id": "sunflower",
-      "shortcode": "SUN",
+      "crop_id": "spring-onion-white-lisbon",
+      "shortcode": "SON",
+      "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 30, "center_l": 105, "spread_cm": 15 }
+        { "center_w": 90, "center_l": 130, "spread_cm": 30 }
       ],
-      "planted_week": 18
+      "planted_week": 16
     },
     {
-      "crop_id": "nasturtium",
-      "shortcode": "NAS",
+      "crop_id": "leek-musselburgh",
+      "shortcode": "LEK",
+      "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 55, "center_l": 50, "spread_cm": 30 }
+        { "center_w": 40, "center_l": 140, "spread_cm": 15 },
+        { "center_w": 40, "center_l": 155, "spread_cm": 15 },
+        { "center_w": 40, "center_l": 170, "spread_cm": 15 }
       ],
-      "planted_week": 18
+      "planted_week": 21
     },
     {
-      "crop_id": "mint",
-      "shortcode": "MINT",
+      "crop_id": "broccoli-calabrese",
+      "shortcode": "BRC",
+      "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 65, "center_l": 50, "spread_cm": 30 }
+        { "center_w": 100, "center_l": 150, "spread_cm": 40 }
       ],
-      "planted_week": 21,
-      "notes": "In pot outside bed, east side"
+      "planted_week": 21
+    },
+    {
+      "crop_id": "dill",
+      "shortcode": "DIL-2",
+      "zone": "middle-herbs-salad",
+      "positions": [
+        { "center_w": 110, "center_l": 140, "spread_cm": 25 }
+      ],
+      "planted_week": 18,
+      "notes": "Near broccoli for hoverfly pest control"
+    },
+    {
+      "crop_id": "calendula",
+      "shortcode": "CAL",
+      "zone": "middle-herbs-salad",
+      "positions": [
+        { "center_w": 80, "center_l": 125, "spread_cm": 22 }
+      ],
+      "planted_week": 17
+    },
+    {
+      "crop_id": "raspberry-autumn-bliss",
+      "shortcode": "RB",
+      "zone": "north-raspberry",
+      "positions": [
+        { "center_w": 60, "center_l": 185, "spread_cm": 45 },
+        { "center_w": 60, "center_l": 210, "spread_cm": 45 },
+        { "center_w": 60, "center_l": 225, "spread_cm": 45 }
+      ],
+      "planted_week": 16
+    },
+    {
+      "crop_id": "chives",
+      "shortcode": "CHV",
+      "zone": "north-raspberry",
+      "positions": [
+        { "center_w": 15, "center_l": 180, "spread_cm": 15 },
+        { "center_w": 105, "center_l": 180, "spread_cm": 15 },
+        { "center_w": 15, "center_l": 200, "spread_cm": 15 },
+        { "center_w": 105, "center_l": 200, "spread_cm": 15 },
+        { "center_w": 15, "center_l": 220, "spread_cm": 15 },
+        { "center_w": 105, "center_l": 220, "spread_cm": 15 }
+      ],
+      "planted_week": 16
     }
   ],
   "succession_slots": [
     {
       "id": "S1",
-      "area": { "w_start": 40, "w_end": 60, "l_start": 30, "l_end": 50 },
+      "area": { "w_start": 60, "w_end": 80, "l_start": 125, "l_end": 145 },
       "crop_id": "radish",
       "first_sow_week": 18,
       "interval_weeks": 2

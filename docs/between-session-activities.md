@@ -17,7 +17,7 @@ Time per visit: 5-10 minutes. Same as the daily watering routine -- just add the
 > *"Kan du finde der, hvor du plantede solsikkefroene?"*
 
 **What to look for (father's guide):**
-The child just planted sunflower seeds in Bed A and other spring crops across all beds. The soil is fresh and damp. Nothing is visible yet -- the excitement is "I did that!" Walk past each bed and let him point at where he planted things. Water his seeds together.
+The child just planted sunflower seeds in Bed B and other spring crops across both beds. The soil is fresh and damp. Nothing is visible yet -- the excitement is "I did that!" Walk past each bed and let him point at where he planted things. Water his seeds together.
 
 **Backup activity:**
 If he loses interest quickly (no sprouts to see yet), do a "soil check" -- poke a finger into the soil in each bed. Is it damp? Dry? This builds the watering habit from day one.
@@ -33,10 +33,10 @@ If he loses interest quickly (no sprouts to see yet), do a "soil check" -- poke 
 > *"Solsikkefroene er ved at vaagne -- kan du se dem skyde op?"*
 
 **What to look for (father's guide):**
-Sunflower seeds sown W18 germinate within 7-10 days (W18-W19). Look for large seed leaves pushing up in Bed A -- the seed shell may still be sitting on top like a little hat. Also check for borage seedlings appearing in Bed B.
+Sunflower seeds sown W18 germinate within 7-10 days (W18-W19). Look for large seed leaves pushing up in Bed B -- the seed shell may still be sitting on top like a little hat. Also check for borage seedlings appearing in Bed A.
 
 **Bonus -- the hero task this week:**
-First pea shoot harvest! The pea shoots in Bed A are 10-15cm tall and ready for a garden snack. Snip the top 5cm with scissors and taste them right there in the garden. Do they taste sweet?
+First pea shoot harvest! The pea shoots in Bed B are 10-15cm tall and ready for a garden snack. Snip the top 5cm with scissors and taste them right there in the garden. Do they taste sweet?
 
 *"Klip de oeverste 5cm med en saks -- smag den lige der i haven!"*
 
@@ -54,13 +54,13 @@ If no sunflower sprouts yet, water the spot where the seeds are and say "We will
 > *"Er den foerste radise klar til at traekke op? Kig efter tykke lyserode toppe, der stikker op af jorden!"*
 
 **What to look for (father's guide):**
-Radishes sown W16 in Bed A are reaching harvest size by W20 (25 days to maturity). Look for pink/red tops visible above the soil line. If visible and about 2cm across, grab the green top and PULL! Rinse and taste -- is it spicy or mild?
+Radishes sown W16 in Bed A (middle zone) are reaching harvest size by W20 (25 days to maturity). Look for pink/red tops visible above the soil line. If visible and about 2cm across, grab the green top and PULL! Rinse and taste -- is it spicy or mild?
 
 *"Tag fat i det groenne top og TRAEK! Skyl den og smag -- er den staerk eller mild?"*
 
 **Also this week:**
 - Measure how tall the sunflower sprouts are now. Use a ruler or stick -- the weekly height measurement activity begins. Stand the ruler next to the tallest sprout. How many centimeters?
-- Check Bed A strawberry plants for first white flowers (strawberry Ostara flowers W19-W22). How many flowers can he count?
+- Check Bed B strawberry plants for first white flowers (strawberry Ostara flowers W19-W22). How many flowers can he count?
 
 *"Hvor mange hvide blomster kan du taelle i dag?"*
 
@@ -87,7 +87,7 @@ Preview for the child the night before or on the way to the garden: "Remember th
 
 These three activities are available ANY week during the gap (W18-W21) and beyond. They do not depend on growth timing. If the treasure hunt item has not appeared yet, do a sensory walk instead.
 
-### Touch -- Lamb's Ear Leaves (Bed A)
+### Touch -- Lamb's Ear Leaves (Bed B)
 
 Run a finger across the lamb's ear leaves. They feel like soft velvet or a kitten's ear.
 
@@ -95,13 +95,13 @@ Run a finger across the lamb's ear leaves. They feel like soft velvet or a kitte
 
 Available: Always (perennial, grows from early spring)
 
-### Smell -- Mint (Pot near Bed A)
+### Smell -- Mint (Pot near Bed B)
 
 Pinch a mint leaf between thumb and finger, then sniff. Strong, cool, fresh smell.
 
 *"Klem et myntblad mellem tommel og pegefinger, og snif. Staerk, kolig, frisk duft!"*
 
-Available: Always (contained in sunken pot at Bed A edge)
+Available: Always (contained in sunken pot at Bed B edge)
 
 ### Look -- Creature Check
 
@@ -140,6 +140,6 @@ Take one photo per garden visit. That is it.
 | Week | Treasure Hunt | Bed(s) | Crop/Activity |
 |------|---------------|--------|---------------|
 | W18 | Find where you planted seeds | All | Revisit planting spots, water |
-| W19 | Spot sunflower sprouts | Bed A | Sunflower germination + pea shoot harvest |
+| W19 | Spot sunflower sprouts | Bed B | Sunflower germination + pea shoot harvest |
 | W20 | Pull the first radish | Bed A | Radish harvest + sunflower measurement + strawberry flowers |
-| W21 | Session 2 planting day | Bed B | Tomatoes, cucumbers, peppers |
+| W21 | Session 2 planting day | Bed A | Tomatoes, cucumbers, peppers |

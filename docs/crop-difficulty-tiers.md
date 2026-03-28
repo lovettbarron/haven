@@ -9,7 +9,7 @@
 
 **Crop count:** 13 Can't Fail + 11 Needs Care + 4 Year 2 Challenge = 28 plants across 27 varieties (Strawberry Ostara and Korona counted separately).
 
-> Cross-reference: For symptom diagnosis and treatment steps, see `docs/troubleshooting-guide.md`. For exact positions within each bed, see `docs/planting-grid-bed-a.md` through `docs/planting-grid-bed-c.md`.
+> Cross-reference: For symptom diagnosis and treatment steps, see `docs/troubleshooting-guide.md`. For exact positions within each bed, see `docs/planting-grid-bed-a.md` and `docs/planting-grid-bed-b.md`.
 
 ---
 
@@ -21,7 +21,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Radish
 
-**Bed:** A (succession slot) and C (succession slot)
+**Bed:** A (succession slots in south and middle zones)
 **Why it is "can't fail":** 3-4 weeks from seed to harvest. Big seeds that are easy for a child to sow. Almost impossible to kill as long as there is some water.
 **The one thing that could go wrong:** Left in the ground too long (5+ weeks) -- they turn woody and tough. Harvest when they are 2-3cm wide.
 
@@ -29,15 +29,15 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Pea Shoots
 
-**Bed:** A (north end, Phase 2 only -- replaced by sunflowers in W18)
+**Bed:** B (north end, Phase 2 only -- replaced by sunflowers in W18)
 **Why it is "can't fail":** 2-3 weeks from seed to harvest. Just scatter, water, and cut with scissors. No pests bother them in their short life.
-**The one thing that could go wrong:** Slugs eating young shoots in the first few days. Check copper tape is intact on Bed A.
+**The one thing that could go wrong:** Slugs eating young shoots in the first few days. Check copper tape is intact on Bed B.
 
 ---
 
 ### Lettuce Baby Mix
 
-**Bed:** C (broadcast zone)
+**Bed:** A (middle zone)
 **Why it is "can't fail":** Cut-and-come-again harvesting means you get 3-4 harvests from one sowing. First leaves ready in 3 weeks. Just keep the soil moist.
 **The one thing that could go wrong:** Bolts (sends up a flower stalk) in summer heat. This is natural -- harvest remaining leaves and re-sow in August for an autumn crop.
 
@@ -45,7 +45,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Pea Kelvedon Wonder
 
-**Bed:** B (trellis base, Phase 2 -- cleared W21 for cucumbers)
+**Bed:** A (south zone trellis base, Phase 2 -- cleared W21 for cucumbers)
 **Why it is "can't fail":** Climbs the trellis with minimal help. Big seeds, fast germination. Fixes its own nitrogen. Harvest party when pods are plump.
 **The one thing that could go wrong:** Powdery mildew late in the season. By then you have already harvested most of the crop. See `docs/troubleshooting-guide.md` for details.
 
@@ -53,7 +53,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Chives
 
-**Bed:** B (perimeter around raspberries)
+**Bed:** A (north zone, perimeter around raspberries)
 **Why it is "can't fail":** Perennial -- plant once, harvest for years. Practically indestructible. Purple flowers attract pollinators and are edible.
 **The one thing that could go wrong:** Clumps get too thick after 2-3 years. Divide and replant (or give divisions to neighbours).
 
@@ -61,7 +61,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Thyme
 
-**Bed:** A (west edge) and C (corners)
+**Bed:** A (middle zone corners and west edge)
 **Why it is "can't fail":** Drought tolerant perennial. Aromatic ground cover that suppresses weeds. Thrives on neglect.
 **The one thing that could go wrong:** Waterlogged soil. Ensure drainage is working properly.
 
@@ -69,7 +69,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Calendula
 
-**Bed:** A (south end and near succession slot) and C (east end)
+**Bed:** A (south end, near succession slot, and middle zone)
 **Why it is "can't fail":** Direct sow, fast germination, self-sows for next year. Repels whiteflies and aphids near companion plants. Bright orange flowers from June onward.
 **The one thing that could go wrong:** Powdery mildew in late season. Remove affected leaves and the plant carries on.
 
@@ -77,7 +77,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Borage
 
-**Bed:** B (near trellis) and C (east end)
+**Bed:** A (south zone near trellis and middle zone)
 **Why it is "can't fail":** Vigorous grower, self-sows freely. Blue star-shaped flowers attract hoverflies whose larvae eat aphids. A key part of the garden's natural pest management.
 **The one thing that could go wrong:** Gets too large and crowds neighbours. Cut back by half if it overspreads.
 
@@ -85,7 +85,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Nasturtium
 
-**Bed:** A (east edge, trailing)
+**Bed:** B (east edge, trailing)
 **Why it is "can't fail":** Big seeds a child can handle. Fast growth, bright flowers, edible leaves and flowers. Acts as an aphid trap crop by design -- aphids on nasturtiums means they are NOT on your vegetables.
 **The one thing that could go wrong:** Black aphids cluster on stems. This is intentional -- see `docs/troubleshooting-guide.md` (Aphids section). Do NOT remove them.
 
@@ -93,7 +93,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Sunflower
 
-**Bed:** A (north end cluster, 2-3 plants)
+**Bed:** B (north end cluster, 2-3 plants)
 **Why it is "can't fail":** Large seeds, dramatic growth, very hardy. The ruler-stake height measurement is a highlight of the garden engagement programme.
 **The one thing that could go wrong:** Slugs eat seedlings in the first week. Protect with copper tape and evening slug checks until plants are 15cm tall.
 
@@ -101,7 +101,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Lemon Balm
 
-**Bed:** A (west edge, in sunken pot)
+**Bed:** B (west edge, in sunken pot)
 **Why it is "can't fail":** If anything, it grows too well. Lemon-scented leaves for crush-and-smell sensory engagement. Rarely bothered by any pest.
 **The one thing that could go wrong:** Escapes the sunken pot and spreads. Trim runners monthly or move to a separate pot.
 
@@ -109,7 +109,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Lamb's Ear
 
-**Bed:** A (west edge center)
+**Bed:** B (west edge center)
 **Why it is "can't fail":** Drought tolerant perennial with soft, silvery leaves. Planted specifically for tactile sensory engagement (touch). Nearly indestructible.
 **The one thing that could go wrong:** Spreads into the strawberry zone. Trim edges if it gets too wide.
 
@@ -117,7 +117,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Viola
 
-**Bed:** A (south and north corners) and C (corners)
+**Bed:** B (south and north corners)
 **Why it is "can't fail":** Cold hardy, flowers from early spring through autumn. Edible petals that can be crystallised for cakes. Immediate colour from seedlings.
 **The one thing that could go wrong:** May peter out in summer heat. Replace with fresh seedlings if needed.
 
@@ -125,13 +125,13 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ## Tier 2: "Needs Care"
 
-These 11 crops produce excellent harvests but need regular attention. Check on them every few days during the growing season. The reservoir system in Bed B helps with the most demanding plants.
+These 11 crops produce excellent harvests but need regular attention. Check on them every few days during the growing season. The reservoir system in Bed A (south zone) helps with the most demanding plants.
 
 ---
 
 ### Strawberry Ostara
 
-**Bed:** A (center, 2 plants)
+**Bed:** B (center, 2 plants)
 **Care it needs:**
 - Consistent watering, especially during fruiting (Jun-Sep for everbearing)
 - Runner management -- clip runners to direct energy into fruit production
@@ -144,7 +144,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Strawberry Korona
 
-**Bed:** A (center, 1 plant)
+**Bed:** B (center, 1 plant)
 **Care it needs:**
 - Same watering and slug protection as Ostara
 - Larger fruit than Ostara but shorter season (June-bearing, fruit Jun-Jul)
@@ -157,7 +157,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Raspberry Autumn Bliss
 
-**Bed:** B (center column, 3 canes)
+**Bed:** A (north zone, center column, 3 canes)
 **Care it needs:**
 - First year is establishment -- expect small harvest, do not be discouraged
 - Prune spent canes to ground level in late autumn after fruiting ends
@@ -170,11 +170,11 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Cherry Tomato Sungold
 
-**Bed:** B south zone (center, staked)
+**Bed:** A south zone (center, staked)
 **Care it needs:**
 - Stake on transplant day -- Sungold is indeterminate and grows 2-3m tall
 - Prune suckers weekly to 1-2 main stems
-- Consistent watering via Bed B reservoir -- check indicator daily
+- Consistent watering via Bed A reservoir -- check indicator daily
 
 **Most likely failure mode:** Blossom end rot from inconsistent watering. The reservoir helps, but check it stays topped up. Remove affected fruit.
 **Cross-reference:** See `docs/troubleshooting-guide.md` for Blossom End Rot and Aphids.
@@ -183,7 +183,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Cherry Tomato Tumbling Tom
 
-**Bed:** Pot/basket (overflow from Bed B)
+**Bed:** Pot/basket (overflow from Bed A)
 **Care it needs:**
 - Consistent watering -- pots dry out faster than beds
 - Less pruning needed (compact/trailing variety)
@@ -196,7 +196,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Cucumber Mini Munch
 
-**Bed:** B south zone (trellis base, 2 plants)
+**Bed:** A south zone (trellis base, 2 plants)
 **Care it needs:**
 - Train up the A-frame trellis -- guide tendrils, do not force
 - Consistent water via reservoir -- cucumbers hate drying out
@@ -209,7 +209,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Sweet Pepper Lipstick
 
-**Bed:** B south zone
+**Bed:** A south zone
 **Care it needs:**
 - Patience -- slow to ripen in Danish summers, fruit may not colour until August-September
 - Warmth -- cover with fleece if nights drop below 10C in early season
@@ -222,7 +222,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Basil
 
-**Bed:** B south zone (flanking tomato, 2 plants)
+**Bed:** A south zone (flanking tomato, 2 plants)
 **Care it needs:**
 - Frost sensitive -- cover or bring inside if temperature drops below 5C
 - Pinch flower buds regularly to keep the plant bushy and productive
@@ -235,9 +235,9 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Spring Onion White Lisbon
 
-**Bed:** C (row at L=50cm)
+**Bed:** B (row)
 **Care it needs:**
-- Consistent moisture -- the rolling bed on cobblestones can dry out in hot weather
+- Consistent moisture
 - Patience -- 60-90 days to harvest, slower than radish or lettuce
 - Pull when pencil-thick or thicker
 
@@ -248,7 +248,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Bush Bean Provider
 
-**Bed:** B south zone (east edge, row of 5)
+**Bed:** A south zone (east edge, row of 5)
 **Care it needs:**
 - Wait for warm soil (15C+) before sowing -- beans rot in cold ground
 - Frost sensitive -- cover with fleece if late frost threatens after W20
@@ -261,7 +261,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Mint
 
-**Bed:** Pot beside Bed A (east side)
+**Bed:** Pot beside Bed B (east side)
 **Care it needs:**
 - Regular watering -- pots dry out fast, especially on sunny days
 - Keep in pot -- mint is invasive and would take over any bed
@@ -282,20 +282,20 @@ These 4 crops have long growing seasons, specific knowledge requirements, or tri
 
 ### Broccoli Calabrese
 
-**Bed:** C (east end)
+**Bed:** A (middle zone)
 **Why it is challenging:**
 - Long growing season and caterpillar magnet -- cabbage white butterflies target brassicas relentlessly in Danish summers
 - Timing-sensitive: harvest the main head when florets are tight (before they flower), then side shoots continue for weeks
 - Flea beetles attack seedlings; caterpillars eat mature leaves
 
-**Key success factor:** Fine mesh netting over the plant from transplant day keeps butterflies from laying eggs. Check for caterpillars daily in July-August. Dill and borage in Bed C attract beneficial insects that help.
+**Key success factor:** Fine mesh netting over the plant from transplant day keeps butterflies from laying eggs. Check for caterpillars daily in July-August. Dill and borage in Bed A attract beneficial insects that help.
 **Note:** These are planted for learning -- partial harvest is still a win.
 
 ---
 
 ### Leek Musselburgh
 
-**Bed:** C (center section, 3 plants)
+**Bed:** A (middle zone, 3 plants)
 **Why it is challenging:**
 - Very long season: 150+ days from transplant to harvest (plant W21, harvest from October into winter)
 - Requires specific planting technique: 15cm deep holes for blanching (white stem development)
@@ -308,7 +308,7 @@ These 4 crops have long growing seasons, specific knowledge requirements, or tri
 
 ### Kale Nero di Toscana
 
-**Bed:** B south zone (harvested by W21 if space needed for warm crops)
+**Bed:** A south zone (harvested by W21 if space needed for warm crops)
 **Why it is challenging:**
 - Caterpillar magnet -- shares the cabbage white butterfly problem with broccoli
 - Long season crop that benefits from overwintering knowledge (flavour improves after frost)
@@ -321,7 +321,7 @@ These 4 crops have long growing seasons, specific knowledge requirements, or tri
 
 ### Garlic (Hardneck)
 
-**Bed:** TBD -- likely Bed C (Kitchen Cart, after spring onions finish) or a section of Bed B (after warm crops clear)
+**Bed:** TBD -- likely Bed A middle zone (after herbs/salad finish) or Bed A south zone (after warm crops clear)
 **Why it is challenging:**
 - Autumn planting (late September to mid-October 2026), 9-month growing cycle until July 2027 harvest
 - Scape removal needed in June (the curly flower stalks -- edible bonus harvest)
@@ -339,34 +339,34 @@ All 27 crop varieties in one view.
 
 | # | Crop | Tier | Bed | Key Risk |
 |---|------|------|-----|----------|
-| 1 | Basil | Needs Care | B | Frost damage, bolting in heat |
-| 2 | Borage | Can't Fail | B, C | Overgrowth (cut back if needed) |
-| 3 | Broccoli Calabrese | Year 2 Challenge | C | Caterpillars, long season |
-| 4 | Bush Bean Provider | Needs Care | B | Cold soil rot if sown too early |
-| 5 | Calendula | Can't Fail | A, C | Late-season powdery mildew |
-| 6 | Cherry Tomato Sungold | Needs Care | B | Blossom end rot, needs staking |
+| 1 | Basil | Needs Care | A | Frost damage, bolting in heat |
+| 2 | Borage | Can't Fail | A | Overgrowth (cut back if needed) |
+| 3 | Broccoli Calabrese | Year 2 Challenge | A | Caterpillars, long season |
+| 4 | Bush Bean Provider | Needs Care | A | Cold soil rot if sown too early |
+| 5 | Calendula | Can't Fail | A | Late-season powdery mildew |
+| 6 | Cherry Tomato Sungold | Needs Care | A | Blossom end rot, needs staking |
 | 7 | Cherry Tomato Tumbling Tom | Needs Care | Pot | Dries out fast in pot |
-| 8 | Chives | Can't Fail | B | Thick clumps after 2-3 years |
-| 9 | Cucumber Mini Munch | Needs Care | B | Powdery mildew |
+| 8 | Chives | Can't Fail | A | Thick clumps after 2-3 years |
+| 9 | Cucumber Mini Munch | Needs Care | A | Powdery mildew |
 | 10 | Garlic (Hardneck) | Year 2 Challenge | TBD | 9-month cycle, timing-critical |
-| 11 | Kale Nero di Toscana | Year 2 Challenge | B | Caterpillars, early removal risk |
-| 12 | Lamb's Ear | Can't Fail | A | Spreading into strawberry zone |
-| 13 | Leek Musselburgh | Year 2 Challenge | C | 150+ day season, transplant shock |
-| 14 | Lemon Balm | Can't Fail | A | Escaping sunken pot |
-| 15 | Lettuce Baby Mix | Can't Fail | C | Bolts in summer heat |
-| 16 | Mint | Needs Care | Pot (beside A) | Dries out in pot |
-| 17 | Nasturtium | Can't Fail | A | Aphids on stems (intentional) |
-| 18 | Pea Kelvedon Wonder | Can't Fail | B | Late-season powdery mildew |
+| 11 | Kale Nero di Toscana | Year 2 Challenge | A | Caterpillars, early removal risk |
+| 12 | Lamb's Ear | Can't Fail | B | Spreading into strawberry zone |
+| 13 | Leek Musselburgh | Year 2 Challenge | A | 150+ day season, transplant shock |
+| 14 | Lemon Balm | Can't Fail | B | Escaping sunken pot |
+| 15 | Lettuce Baby Mix | Can't Fail | A | Bolts in summer heat |
+| 16 | Mint | Needs Care | Pot (beside B) | Dries out in pot |
+| 17 | Nasturtium | Can't Fail | B | Aphids on stems (intentional) |
+| 18 | Pea Kelvedon Wonder | Can't Fail | A | Late-season powdery mildew |
 | 19 | Pea Shoots | Can't Fail | A | Slugs on young shoots |
-| 20 | Radish | Can't Fail | A, C | Woody if left too long |
-| 21 | Raspberry Autumn Bliss | Needs Care | B | Small first-year harvest |
-| 22 | Spring Onion White Lisbon | Needs Care | C | Slow growth, onion fly |
-| 23 | Strawberry Korona | Needs Care | A | Slugs, grey mould |
-| 24 | Strawberry Ostara | Needs Care | A | Slugs, grey mould, runners |
-| 25 | Sunflower | Can't Fail | A | Slugs on seedlings |
-| 26 | Sweet Pepper Lipstick | Needs Care | B | Slow to ripen in Danish climate |
-| 27 | Thyme | Can't Fail | A, C | Waterlogging |
-| 28 | Viola | Can't Fail | A, C | Fades in summer heat |
+| 20 | Radish | Can't Fail | A | Woody if left too long |
+| 21 | Raspberry Autumn Bliss | Needs Care | A | Small first-year harvest |
+| 22 | Spring Onion White Lisbon | Needs Care | B | Slow growth, onion fly |
+| 23 | Strawberry Korona | Needs Care | B | Slugs, grey mould |
+| 24 | Strawberry Ostara | Needs Care | B | Slugs, grey mould, runners |
+| 25 | Sunflower | Can't Fail | B | Slugs on seedlings |
+| 26 | Sweet Pepper Lipstick | Needs Care | A | Slow to ripen in Danish climate |
+| 27 | Thyme | Can't Fail | A | Waterlogging |
+| 28 | Viola | Can't Fail | B | Fades in summer heat |
 
 > **Note:** 28 rows because garlic is included even though it has not been planted yet (autumn 2026). The 27 currently planted varieties are numbers 1-9 and 11-28.
 
@@ -375,6 +375,6 @@ All 27 crop varieties in one view.
 ## Cross-References
 
 - **Symptom diagnosis:** `docs/troubleshooting-guide.md` -- look up any problem by what you see
-- **Bed positions:** `docs/planting-grid-bed-a.md` through `docs/planting-grid-bed-c.md` -- exact cm positions
+- **Bed positions:** `docs/planting-grid-bed-a.md` and `docs/planting-grid-bed-b.md` -- exact cm positions
 - **Shopping lists:** `docs/shopping-list.md` (Phase 1) and `docs/warm-season-shopping-list.md` (Phase 3)
 - **Garlic planning:** `docs/garlic-autumn-plan.md` -- October 2026 planting details

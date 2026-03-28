@@ -24,7 +24,7 @@ This script guides the big W16 planting weekend step by step. It tells you who d
 
 ### What to Do
 1. Lay out the newspaper/tablecloth and set up paint and brushes
-2. Tell him which plants are going in his bed: strawberries, pea shoots, violas, calendula, lamb's ear, thyme, lemon balm
+2. Tell him which plants are going in his bed: strawberries, violas, nasturtium, sunflowers, spring onions, radish
 3. He draws a picture or writes the plant name on each marker -- spelling does not matter, pictures work just as well
 4. Let him pick colors for each marker
 5. Set markers aside to dry -- overnight minimum before outdoor use
@@ -42,24 +42,23 @@ Do this while he is still having breakfast or getting dressed.
 
 - [ ] Check weather: temperature above 5C, no heavy rain forecast
 - [ ] Lay out all seeds and seedlings by each bed:
-  - Bed A: strawberry plugs (Ostara + Korona), pea shoot seeds, viola seedlings, lamb's ear plant, thyme plants, lemon balm plant, calendula seeds
-  - Bed B: raspberry canes (Autumn Bliss), chive divisions, pea seeds (Kelvedon Wonder) for south zone trellis base
-  - Bed C: lettuce seed mix, spring onion seeds (White Lisbon), thyme plant, calendula seeds, viola seedlings
+  - Bed B: strawberry plugs (Ostara + Korona), pea shoot seeds, viola seedlings, lamb's ear plant, thyme plants, lemon balm plant, calendula seeds, spring onion seeds
+  - Bed A: raspberry canes (Autumn Bliss), chive divisions, pea seeds (Kelvedon Wonder) for south zone trellis base, lettuce seed mix, spring onion seeds, thyme plant, calendula seeds, borage seeds
 - [ ] Lay out tools by each bed: trowel, hand fork, watering can (small one for him, large one for you)
 - [ ] Fill both watering cans
-- [ ] Pre-dig holes for strawberry plugs in Bed A (6-8 holes at correct spacing -- see grid map)
-- [ ] Pre-dig positions for lamb's ear, thyme, and lemon balm at Bed A edges
+- [ ] Pre-dig holes for strawberry plugs in Bed B (6-8 holes at correct spacing -- see grid map)
+- [ ] Pre-dig positions for lamb's ear, thyme, and lemon balm at Bed B edges
 - [ ] Set out snacks and a water bottle at the garden table (fruit, crackers, something he likes)
 - [ ] Have his painted plant markers ready in a bag or box
 - [ ] Have a phone/camera ready for the end-of-day photo
 
 ---
 
-### Session 1 -- "His Bed" / Bed A (~30-40 min)
+### Session 1 -- "His Bed" / Bed B (~30-40 min)
 
 **This is the main event.** His bed comes first because it has the highest ownership value. Everything else is a bonus.
 
-Bed A is in the east position near the trampoline. Refer to `docs/planting-grid-bed-a.md` for exact positions.
+Bed B is "His Bed" -- full sun, personal space. Refer to `docs/planting-grid-bed-b.md` for exact positions.
 
 #### What HE Does
 
@@ -68,8 +67,9 @@ Bed A is in the east position near the trampoline. Refer to `docs/planting-grid-
 | 1 | Places strawberry plugs into the pre-dug holes | Show him how deep (crown at soil level). He pushes soil around each plug with his hands. |
 | 2 | Pushes pea shoot seeds into the soil with his finger | Make finger-holes 3-5 cm deep, 3-5 cm apart. He drops a seed in each and covers it. |
 | 3 | Places viola seedlings at the bed edges | Pop them out of the tray, he sets them in the holes you dig. |
-| 4 | Places his painted plant markers next to each plant | "Which marker goes with the strawberries?" |
-| 5 | Waters the whole bed with the small watering can | Gentle pour -- show him once, then let him do it. |
+| 4 | Sows spring onions in a small row | Pre-mark a short row. He drops seeds in (1 cm deep), covers with soil. |
+| 5 | Places his painted plant markers next to each plant | "Which marker goes with the strawberries?" |
+| 6 | Waters the whole bed with the small watering can | Gentle pour -- show him once, then let him do it. |
 
 #### What FATHER Does (while he works on his tasks)
 
@@ -77,7 +77,6 @@ Bed A is in the east position near the trampoline. Refer to `docs/planting-grid-
 - Position lamb's ear at the path-facing edge (45-60 cm apart)
 - Plant thyme at the corners and along edges (20-30 cm apart)
 - Plant lemon balm in one corner of the bed edge only -- it spreads aggressively, so keep it contained to a single corner position
-- Sprinkle tiny lettuce or radish seeds if a succession slot is being started (he can cover them with soil and water afterward)
 - Position calendula seeds at designated spots (0.5 cm deep)
 
 #### Transition Cue
@@ -99,38 +98,35 @@ Walk to the garden table together. Do NOT start the next session immediately.
 - Ask: **"Which plant are you most excited to watch grow?"**
 - If he wants to go back and adjust something in his bed, let him -- it is still his time
 
-**Do NOT talk about the next beds during the break.** Let him enjoy what he just did.
+**Do NOT talk about the next bed during the break.** Let him enjoy what he just did.
 
 ---
 
-### Session 2 -- Shared Beds / Bed B and Bed C (~20-30 min)
+### Session 2 -- Family Bed / Bed A (~25-35 min)
 
 He is the helper now, not the star. Keep his tasks simple and physical.
 
-Bed B is in the west position near the stairway. Bed C is on the cobblestones near the north fence.
-
-Refer to `docs/planting-grid-bed-b.md` and `docs/planting-grid-bed-c.md` for exact positions.
+Bed A is the "Family Bed" -- the large bed with three zones. Refer to `docs/planting-grid-bed-a.md` for exact positions.
 
 #### What HE Does
 
 | Step | Action | How to Help |
 |------|--------|-------------|
-| 1 | Pushes big pea seeds (Kelvedon Wonder) into holes along the trellis base in Bed B south zone | Pre-poke holes 5 cm deep, 5 cm apart. He drops a seed in each hole and covers it. |
-| 2 | Helps carry raspberry canes to Bed B north zone | He carries one cane at a time while you dig. Handle thorny parts yourself. |
-| 3 | Sprinkles lettuce seeds in Bed C (broadcast sowing -- fun and imprecise!) | Let him scatter seeds across the surface. Cover lightly with soil. |
-| 4 | Waters all beds when planting is done | He uses the small can, you use the large one. |
+| 1 | Pushes big pea seeds (Kelvedon Wonder) into holes along the trellis base in Bed A south zone | Pre-poke holes 5 cm deep, 5 cm apart. He drops a seed in each hole and covers it. |
+| 2 | Sprinkles lettuce seeds in Bed A middle zone (broadcast sowing -- fun and imprecise!) | Let him scatter seeds across the surface. Cover lightly with soil. |
+| 3 | Waters the whole bed when planting is done | He uses the small can, you use the large one. |
 
 #### What FATHER Does
 
-- Plant raspberry canes in Bed B north zone (3 canes, 45 cm apart, 8 cm deep) -- sturdy Autumn Bliss canes do not need extra support
-- Divide and plant chives around the perimeter of Bed B north zone (15-20 cm apart)
-- Sow spring onion rows in Bed C (1 cm deep, thin to 5-8 cm apart)
-- Plant thyme at the edges of Bed C
-- Position calendula in Bed C as companion pest deterrent (0.5 cm deep)
+- Plant raspberry canes in Bed A north zone (3 canes, 45 cm apart, 8 cm deep) -- sturdy Autumn Bliss canes do not need extra support
+- Divide and plant chives around the perimeter of Bed A north zone (15-20 cm apart)
+- Sow spring onion rows in Bed A middle zone (1 cm deep, thin to 5-8 cm apart)
+- Plant thyme at the edges of Bed A
+- Position calendula and borage in Bed A as companion pest deterrents (0.5 cm deep)
 
 #### Transition Cue
 
-**Say:** "All three beds are planted! Tomorrow we can check if anything has changed."
+**Say:** "Both beds are planted! Tomorrow we can check if anything has changed."
 
 ---
 
@@ -150,9 +146,9 @@ Refer to `docs/planting-grid-bed-b.md` and `docs/planting-grid-bed-c.md` for exa
 | Session | Duration | Required? |
 |---------|----------|-----------|
 | Prep (father only) | ~20 min | Yes |
-| Session 1 -- His Bed (Bed A) | ~30-40 min | Yes |
+| Session 1 -- His Bed (Bed B) | ~30-40 min | Yes |
 | Break -- Snack + Admire | ~10-15 min | Yes (mandatory) |
-| Session 2 -- Shared Beds (B, C) | ~20-30 min | Yes |
+| Session 2 -- Family Bed (Bed A) | ~25-35 min | Yes |
 | Wrap-Up | ~5 min | Yes |
 | **Total** | **~65-85 min** | |
 
@@ -165,7 +161,7 @@ Refer to `docs/planting-grid-bed-b.md` and `docs/planting-grid-bed-c.md` for exa
 
 ### Tasks
 
-1. **Check germination** -- Walk all 3 planted beds together
+1. **Check germination** -- Walk both planted beds together
    - "Can you see anything poking out of the soil?"
    - Pea shoots and radish may show green within 7-10 days
    - Lettuce may show tiny leaves
@@ -173,7 +169,7 @@ Refer to `docs/planting-grid-bed-b.md` and `docs/planting-grid-bed-c.md` for exa
    - If nothing is visible yet: "Sometimes seeds take two weeks to wake up. Let's check again next weekend."
 
 2. **First succession sowing -- Radish**
-   - Sow radish in the marked succession slots in Bed A or Bed C (see grid maps for "S1" slots)
+   - Sow radish in the marked succession slots in Bed B (see grid map for "S1" slots)
    - He pushes seeds in (1 cm deep, 5 cm apart) -- same routine as W16
    - This is quick: 5-10 minutes
 
@@ -196,12 +192,12 @@ Refer to `docs/planting-grid-bed-b.md` and `docs/planting-grid-bed-c.md` for exa
 
 1. **Check germination progress**
    - By now, most W16 plantings should show visible growth
-   - Radish from W16 may be ready to harvest (21-28 days) -- pull one and eat it together
+   - Radish from W17 may be ready to harvest (21-28 days) -- pull one and eat it together
    - Pea shoots may be 5-10 cm tall
    - "Look how much your garden grew in two weeks!"
 
 2. **Second succession sowing -- Lettuce**
-   - Re-sow lettuce in Bed C using the succession slot (see grid map)
+   - Re-sow lettuce in Bed A middle zone using the succession slot (see grid map)
    - Broadcast sowing: he scatters, covers lightly, waters
 
 3. **Thin overcrowded seedlings**
@@ -213,10 +209,10 @@ Refer to `docs/planting-grid-bed-b.md` and `docs/planting-grid-bed-c.md` for exa
 4. **Bug hotel transition** (if building the bug hotel this weekend instead of W17)
    - See `docs/bug-hotel-guide.md` for the full construction guide
 
-5. **Set up second pollinator water station**
-   - Place the second water dish near the flower-heavy beds (between Bed A and Bed B, or near Bed A)
+5. **Set up pollinator water station**
+   - Place a water dish near the beds (between Bed A and Bed B, or near Bed B)
    - Shallow dish with pebbles, water to just below the top of the stones
-   - "Now the bees have two places to drink -- one at the bug hotel and one near your flowers"
+   - "Now the bees have a place to drink near your flowers"
 
 ---
 
@@ -231,7 +227,7 @@ Postpone to the next weekend. All crops in this plan are frost-tolerant and the 
 Stop at the current bed. Whatever is planted is enough. Do not push through -- it will create a negative association with the garden.
 
 - If it happens during Session 1: his bed is mostly done. That is a complete success.
-- If it happens during Session 2: his bed is done AND the shared beds are partially planted. That is great.
+- If it happens during Session 2: his bed is done AND the family bed is partially planted. That is great.
 - Come back tomorrow or next weekend for the rest. There is no rush.
 
 **Say:** "We did a lot today. Let's go inside and come back when we feel like it."
@@ -263,7 +259,7 @@ This is expected and normal. Maintain the garden yourself for a few weeks. When 
 | Big seeds (easy to handle) | **He does it** | Pea seeds, pea shoots |
 | Seedlings and plugs (place into holes) | **He does it** | Strawberry plugs, viola seedlings |
 | Tiny seeds (hard to handle individually) | **Father does it** (he covers with soil and waters) | Lettuce, radish, spring onion, calendula |
-| Broadcast sowing (scatter across surface) | **He does it** | Lettuce in Bed C |
+| Broadcast sowing (scatter across surface) | **He does it** | Lettuce in Bed A middle zone |
 | Digging holes | **Father does it** | Pre-dig before each session |
 | Watering | **He does it** (small can) | After each session, daily routine |
 | Heavy items | **Father does it** (he helps carry) | Raspberry canes, logs, tools |
@@ -273,7 +269,7 @@ This is expected and normal. Maintain the garden yourself for a few weeks. When 
 
 ## Cross-References
 
-- **Grid maps:** `docs/planting-grid-bed-a.md` through `docs/planting-grid-bed-c.md` -- exact plant positions for each bed
+- **Grid maps:** `docs/planting-grid-bed-a.md` and `docs/planting-grid-bed-b.md` -- exact plant positions for each bed
 - **Bug hotel guide:** `docs/bug-hotel-guide.md` -- the W17/W18 weekend construction activity
 - **Bed layout:** `docs/bed-layout.md` -- physical bed positions, dimensions, and property map
 - **Shopping list:** `docs/shopping-list.md` -- all materials and seeds to purchase before W16

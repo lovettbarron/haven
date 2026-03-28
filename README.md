@@ -21,7 +21,7 @@ Start here. These documents define what you're working with and what you need to
 | Document | Description |
 |----------|-------------|
 | [Property Map](docs/property-map.md) | Full site overview with sun exposure zones and bed placement |
-| [Bed Layout](docs/bed-layout.md) | Dimensions, materials, and spacing for all 5 beds |
+| [Bed Layout](docs/bed-layout.md) | Dimensions, materials, and spacing for both beds |
 | [Shopping List](docs/shopping-list.md) | Complete materials list with DKK pricing and budget alternatives |
 | [Warm Season Shopping](docs/warm-season-shopping-list.md) | Second-round seeds, seedlings, and supplies for late spring |
 
@@ -43,7 +43,7 @@ What goes where, and session scripts for planting days. The scripts are designed
 
 | Document | Description |
 |----------|-------------|
-| Planting Grids ([A](docs/planting-grid-bed-a.md), [B](docs/planting-grid-bed-b.md), [C](docs/planting-grid-bed-c.md), [D](docs/planting-grid-bed-d.md), [E](docs/planting-grid-bed-e.md)) | Per-bed maps with exact cm positions for every plant |
+| Planting Grids ([A](docs/planting-grid-bed-a.md), [B](docs/planting-grid-bed-b.md)) | Per-bed maps with exact cm positions for every plant |
 | [Planting Day Script](docs/planting-day-script.md) | Spring planting session with timing and transition cues |
 | [Warm Season Sessions](docs/warm-season-session-scripts.md) | Scripts for W21-W22 warm season transplants |
 | [Crop Difficulty Tiers](docs/crop-difficulty-tiers.md) | Which crops a child can manage independently vs. with help |
@@ -77,7 +77,7 @@ JSON reference data for planning and Home Assistant integration. Each directory 
 | Directory | Description |
 |-----------|-------------|
 | [Crop Database](data/crops/) | 27 crop files -- varieties, growth stages, child actions (EN/DA), difficulty tiers, companion plants |
-| [Bed Definitions](data/beds/) | 5 bed files -- crops mapped to cm positions with sensor references |
+| [Bed Definitions](data/beds/) | 2 bed files -- crops mapped to cm positions with sensor references |
 | [Weekly Schedules](data/schedules/) | 30 weekly files (W15-W44) -- themed names, hero tasks, bilingual prompts |
 | [Succession Calendar](data/succession-calendar.json) | Sowing/harvest timeline for continuous harvest W22-W43 |
 | [HA Integration](data/ha/) | Home Assistant sensors, plant monitors, and alert rules |
@@ -86,18 +86,18 @@ JSON reference data for planning and Home Assistant integration. Each directory 
 
 ## The Garden
 
-**5 raised beds** -- 3 corten steel in the backyard (120x60x40cm) + 2 galvanized on the roof terrace (80x40x30cm).
+**2 raised beds** -- both corten steel, bottomless on grass in the backyard: Bed A "Family Bed" (230x120x40cm) and Bed B "His Bed" (150x60x40cm).
 
-**His crops:** Strawberries, raspberries, cherry tomatoes, cucumbers, sweet peppers, radishes, sunflowers, edible flowers (nasturtiums, calendula, borage, viola), and sensory plants (lamb's ear, lemon balm, thyme, mint).
+**His Bed (Bed B):** Strawberries, radishes, spring onions, sunflowers, edible flowers (nasturtiums, calendula, viola), and sensory plants (lamb's ear, lemon balm, thyme, mint).
 
-**Family crops:** Spring onions, kale, peas, bush beans, leeks, broccoli, garlic (Year 2).
+**Family Bed (Bed A):** Cherry tomatoes, cucumbers, sweet peppers, bush beans, raspberries, lettuce, leeks, broccoli, peas, kale, basil, dill, borage, chives, garlic (Year 2).
 
 **Design principles:**
 - Quick wins for 5-10 minute attention windows -- always something to pick, smell, or measure
 - Manual watering is intentional -- it's the daily routine that builds agency
 - Staggered planting for continuous harvest (late May through October)
 - Companion planting throughout (tomato+basil+nasturtium, cucumber+pepper+radish+borage)
-- Vacation-proof with self-watering reservoirs and a neighbor guide
+- Vacation-proof with a self-watering reservoir and a neighbor guide
 
 ## Forking This
 

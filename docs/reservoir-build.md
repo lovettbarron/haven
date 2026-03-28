@@ -9,7 +9,7 @@ Benefits:
 - **Reduced surface moisture** -- the soil surface stays drier, which discourages slugs and fungal diseases
 - **Vacation survival** -- fill the reservoir before leaving and the bed sustains itself for days
 
-Install a reservoir in the **south zone of Bed B** (the 230x80cm "Family Bed") during construction. The south zone (approximately L=0 to L=100cm) contains the warm crops -- cucumbers, tomato, pepper, basil, dill, borage, and bush beans -- which have high water demand and must survive vacation periods. The north zone of Bed B (raspberries + chives) has standard drainage and no reservoir.
+Install a reservoir in the **south zone of Bed A** (the 230x120cm "Family Bed") during construction. The south zone (approximately L=0 to L=120cm) contains the warm crops -- cucumbers, tomato, pepper, basil, dill, borage, and bush beans -- which have high water demand and must survive vacation periods. The middle and north zones of Bed A (herbs/lettuce/leeks and raspberries/chives) have standard drainage and no reservoir.
 
 ---
 
@@ -17,13 +17,13 @@ Install a reservoir in the **south zone of Bed B** (the 230x80cm "Family Bed") d
 
 | Item | Specification | Quantity |
 |------|--------------|----------|
-| PVC pipe | 50mm diameter | 3.5m |
+| PVC pipe | 50mm diameter | 5m |
 | PVC 90-degree elbows | 50mm | 2 |
 | PVC end caps | 50mm | 2-4 |
 | Vertical fill tube | 50mm PVC, 50cm length | 1 |
-| Pond liner / EPDM | 0.5mm+ thickness, sized ~120cm x 140cm (south zone footprint + 20cm overlap on each side) | 1 sheet |
-| Geotextile fabric | Water-permeable, soil-blocking | 1 piece, ~80cm x 100cm (south zone floor size) |
-| Coarse gravel | 16-32mm | ~40 liters |
+| Pond liner / EPDM | 0.5mm+ thickness, sized ~160cm x 160cm (south zone footprint + 20cm overlap on each side) | 1 sheet |
+| Geotextile fabric | Water-permeable, soil-blocking | 1 piece, ~120cm x 120cm (south zone floor size) |
+| Coarse gravel | 16-32mm | ~60 liters |
 | Overflow fitting | Short PVC stub or bulkhead fitting | 1 |
 | Drill with 10-12mm bit | For perforating pipes and overflow hole | 1 |
 | PVC cement (optional) | Dry-fit works for garden use | 1 tube |
@@ -36,21 +36,21 @@ Install a reservoir in the **south zone of Bed B** (the 230x80cm "Family Bed") d
 
 ### Step 1: Line the South Zone with Pond Liner
 
-Lay the EPDM/pond liner inside the south zone of Bed B (L=0 to L=100cm) so it covers the entire floor of that zone and folds up the bed walls to at least 10cm above the bed floor. The liner creates the waterproof reservoir zone -- water must stay in the bottom of the bed, not leak out through the metal walls.
+Lay the EPDM/pond liner inside the south zone of Bed A (L=0 to L=120cm) so it covers the entire floor of that zone and folds up the bed walls to at least 10cm above the bed floor. The liner creates the waterproof reservoir zone -- water must stay in the bottom of the bed, not leak out through the metal walls.
 
-On the internal boundary (where the south zone meets the north zone at approximately L=100cm), fold the liner up to at least 10cm to create a dam that keeps reservoir water from flowing into the free-draining north zone.
+On the internal boundary (where the south zone meets the middle zone at approximately L=120cm), fold the liner up to at least 10cm to create a dam that keeps reservoir water from flowing into the free-draining middle zone.
 
 Smooth the liner flat against the floor and press it into the corners. Avoid creasing it sharply -- gentle folds are fine.
 
 ### Step 2: Perforate the PVC Pipes
 
-Cut the PVC pipes to approximately 90cm lengths (leaving room at the ends of the 100cm zone). You need 3-4 pipes for the 80cm width of the bed.
+Cut the PVC pipes to approximately 110cm lengths (leaving room at the ends of the 120cm-wide zone). You need 4-5 pipes to span the 120cm length of the zone.
 
 Drill 10-12mm holes every 10cm along the **top half** of each pipe. These holes distribute water from inside the pipe into the surrounding gravel. Drilling only on the top half prevents gravel from blocking the holes -- water rises out of the pipe rather than gravel falling in.
 
 ### Step 3: Lay the Pipes on the Bed Floor
 
-Place 3-4 perforated PVC pipes parallel across the south zone floor on top of the liner, spaced evenly (approximately 15-20cm apart across the 80cm width). Cap both ends with PVC end caps.
+Place 4-5 perforated PVC pipes parallel across the south zone floor on top of the liner, running lengthwise (north-south) and spaced evenly (approximately 25-30cm apart across the 120cm width). Cap both ends with PVC end caps.
 
 You can either:
 - **Independent channels:** Leave each pipe separate (simpler)
@@ -62,7 +62,7 @@ For most gardens, independent channels work well.
 
 Connect a 50cm vertical PVC pipe to one end of the horizontal pipe system using a 90-degree elbow. This tube extends above the final soil line -- it is where you pour water to fill the reservoir.
 
-Position the fill tube near a corner of the south zone for easy access. The top of the tube should extend approximately 5-10cm above the final soil surface. You can mark the fill tube with tape or paint so it is easy to identify.
+Position the fill tube near the south corner of the zone for easy access. The top of the tube should extend approximately 5-10cm above the final soil surface. You can mark the fill tube with tape or paint so it is easy to identify.
 
 ### Step 5: Install the Overflow
 
@@ -120,6 +120,7 @@ The total bed depth remains 40cm: approximately 8cm reservoir + 10-15cm garden w
 |  Gravel + PVC pipes  [===O===]      |
 |  8cm            [===O===]            |  <- reservoir zone
 |  Overflow -> [=]  [===O===]          |
+|            [===O===]                 |
 |======================================| Bed floor
 |  ~~~~ Pond liner (waterproof) ~~~~  |
 ========================================
@@ -139,7 +140,7 @@ The total bed depth remains 40cm: approximately 8cm reservoir + 10-15cm garden w
 
 Perform this test BEFORE adding any soil layers above the geotextile.
 
-1. **Fill test:** Pour water into the fill tube until water flows from the overflow hole. Note how much water this takes -- it should be approximately **20-30 liters** for this zone.
+1. **Fill test:** Pour water into the fill tube until water flows from the overflow hole. Note how much water this takes -- it should be approximately **30-40 liters** for this zone (larger than a narrower bed due to the 120cm width).
 2. **Hold test:** Wait 30 minutes. Check that the gravel zone is saturated (water visible between stones) and that no water is pooling on top of the geotextile.
 3. **Drainage test:** If water pools on top of the geotextile, the fabric may be too dense. Replace with a more permeable grade -- you need water to wick UP through it, not pool on the surface.
 4. **Overflow test:** Confirm the overflow drains freely when the reservoir is full. Water should drip or trickle from the outside of the bed at the overflow point.

@@ -10,12 +10,12 @@
   "tasks": [
     {
       "id": "W15-01",
-      "action": "Paint wooden plant markers for Bed A crops",
+      "action": "Paint wooden plant markers for Bed B crops",
       "priority": "must_do",
       "who": "together",
       "minutes": 30,
       "frequency": "once",
-      "bed": "bed-a",
+      "bed": "bed-b",
       "prompt": { "en": "Draw a picture or write the plant name on each marker -- spelling doesn't matter, pictures work great!", "da": "Tegn et billede eller skriv plantens navn paa hver markering -- stavning er ligegyldigt, billeder virker ogsaa!" }
     },
     {

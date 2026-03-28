@@ -36,16 +36,22 @@ All beds are corten steel from byJEMA. All prices are in DKK and were sourced in
 
 ### Reservoir Materials (for Bed A south zone only)
 
+The reservoir uses a 6-channel header manifold oriented so the channels run along the zone length (~100cm) and the header runs across the 120cm bed width (~110cm). The fill tube connects at one end of the header.
+
 | # | Item | Specification | Qty | Unit Price | Total | Supplier | Link |
 |---|------|---------------|-----|-----------|-------|----------|------|
-| 7 | PVC pipe | 50mm diameter, 3m length | 1 | ~50 | ~50 | Byggemarked (Silvan/Bauhaus) | In-store |
-| 8 | PVC 90-degree elbows | 50mm, push-fit or glued | 2 | ~15 | ~30 | Byggemarked | In-store |
-| 9 | PVC end caps | 50mm | 2 | ~10 | ~20 | Byggemarked | In-store |
-| 10 | PVC fill tube | 50mm diameter, 50cm length (cut from pipe) | 1 | -- | -- | (Cut from line 7) | -- |
-| 11 | Pond liner / EPDM | 0.5mm+ thickness, ~1.5x1.5m (lines south zone interior with 15cm up sides) | 1 | ~250 | ~250 | Byggemarked | In-store |
-| 12 | Geotextile fabric | Water-permeable, soil-blocking, ~1.4x1.2m | 1 | ~100 | ~100 | Byggemarked | In-store |
-| 13 | Overflow fitting | Bulkhead fitting or drilled pipe stub, 20-25mm | 1 | ~40 | ~40 | Byggemarked | In-store |
-| | | **Reservoir subtotal** | | | **~490** | | |
+| 7 | PVC pipe | 50mm diameter, 3m length | 3 | ~50 | ~150 | Byggemarked (Silvan/Bauhaus) | In-store |
+| 8 | PVC T-fittings | 50mm, connects each channel to the header | 6 | ~15 | ~90 | Byggemarked | In-store |
+| 9 | PVC end caps | 50mm (6 for channel ends + 1 for header end) | 7 | ~10 | ~70 | Byggemarked | In-store |
+| 10 | PVC 90-degree elbow | 50mm, connects header to fill tube | 1 | ~15 | ~15 | Byggemarked | In-store |
+| 11 | PVC fill tube | 50mm diameter, 50cm length (cut from pipe) | 1 | -- | -- | (Cut from line 7) | -- |
+| 12 | Pond liner / EPDM | 0.5mm+ thickness, ~1.6x1.6m (lines south zone interior with 20cm up sides + dam) | 1 | ~250 | ~250 | Byggemarked | In-store |
+| 13 | Geotextile / ukrudtsdug | Water-permeable, soil-blocking, ~1.2x1.2m | 1 | ~100 | ~100 | Byggemarked | In-store |
+| | | **Reservoir subtotal** | | | **~675** | | |
+
+**Pipe cut list:** 3x 3m lengths = 9m total. Cut to: 6x 100cm channels + 1x 110cm header + 1x 50cm fill tube = 8.6m (40cm spare). Drill 10-12mm holes every 10cm on the **top half** of each channel pipe before assembly.
+
+**Note:** Overflow is handled by liner height (8cm walls) rather than a drilled fitting -- excess water spills over the liner edge and drains through the bottomless bed into the grass below. A liner dam (folded liner edge supported by a timber batten) at the north end of the reservoir zone (~L=120cm) prevents water flowing into the non-reservoir zones.
 
 ### Trellis Materials (for Bed A south end, A-frame cucumber trellis)
 
@@ -84,12 +90,12 @@ Both beds sit bottomless on grass and need mesh to protect against burrowing pes
 | Soil and fill | ~1,290 |
 | Slug defense | ~200 |
 | Mole protection | ~90 |
-| Reservoir materials | ~490 |
+| Reservoir materials | ~675 |
 | Trellis materials | ~475 |
 | Tools/consumables | ~30 |
-| **TOTAL** | **~7,175-7,875** |
+| **TOTAL** | **~7,360-8,060** |
 
-Estimated range: **7,200 -- 7,900 DKK**
+Estimated range: **7,400 -- 8,100 DKK**
 
 ---
 

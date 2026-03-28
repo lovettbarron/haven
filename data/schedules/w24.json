@@ -1,34 +1,49 @@
 {
   "week": 24,
   "iso_week": "2026-W24",
-  "date_range": { "start": "2026-06-08", "end": "2026-06-14" },
+  "date_range": {
+    "start": "2026-06-08",
+    "end": "2026-06-14"
+  },
   "theme": {
-    "name": { "en": "Garden Growing Fast", "da": "Haven Gror Hurtigt" },
-    "tagline": { "en": "Everything is racing upward!", "da": "Alt skyder i vejret!" },
+    "name": {
+      "en": "Garden Growing Fast",
+      "da": "Haven Gror Hurtigt"
+    },
+    "tagline": {
+      "en": "Everything is racing upward!",
+      "da": "Alt skyder i vejret!"
+    },
     "hero_task": "Measure the sunflower height"
   },
   "tasks": [
     {
       "id": "W24-01",
-      "action": "Measure sunflower height in Bed A",
+      "action": "Measure sunflower height in Bed B",
       "priority": "must_do",
       "who": "child",
       "minutes": 5,
       "frequency": "weekly",
-      "bed": "bed-a",
+      "bed": "bed-b",
       "crop_id": "sunflower",
-      "prompt": { "en": "Stand next to the sunflower -- is it up to your knees? Your belly? Your shoulder?", "da": "Stil dig ved siden af solsikken -- naar den til dine knae? Din mave? Din skulder?" }
+      "prompt": {
+        "en": "Stand next to the sunflower -- is it up to your knees? Your belly? Your shoulder?",
+        "da": "Stil dig ved siden af solsikken -- naar den til dine knae? Din mave? Din skulder?"
+      }
     },
     {
       "id": "W24-02",
-      "action": "Pick strawberries from Bed A",
+      "action": "Pick strawberries from Bed B",
       "priority": "must_do",
       "who": "child",
       "minutes": 5,
       "frequency": "daily",
-      "bed": "bed-a",
+      "bed": "bed-b",
       "crop_id": "strawberry-ostara",
-      "prompt": { "en": "Daily strawberry check -- only the red ones!", "da": "Daglig jordbaertjek -- kun de roede!" }
+      "prompt": {
+        "en": "Daily strawberry check -- only the red ones!",
+        "da": "Daglig jordbaertjek -- kun de roede!"
+      }
     },
     {
       "id": "W24-03",
@@ -37,61 +52,76 @@
       "who": "child",
       "minutes": 10,
       "frequency": "daily",
-      "prompt": { "en": "Summer sun dries out beds faster -- check twice if it's really hot.", "da": "Sommersolen toerrer bedene hurtigere ud -- tjek to gange hvis det er rigtig varmt." }
+      "prompt": {
+        "en": "Summer sun dries out beds faster -- check twice if it's really hot.",
+        "da": "Sommersolen toerrer bedene hurtigere ud -- tjek to gange hvis det er rigtig varmt."
+      }
     },
     {
       "id": "W24-04",
-      "action": "Train cucumber onto trellis in Bed B",
+      "action": "Train cucumber onto trellis in Bed A",
       "priority": "must_do",
       "who": "together",
       "minutes": 5,
       "frequency": "weekly",
-      "bed": "bed-b",
+      "bed": "bed-a",
       "crop_id": "cucumber-mini-munch",
-      "prompt": { "en": "Gently tie the cucumber stem to the trellis with soft string.", "da": "Bind forsigtigt agurkstilken til espalieren med bloedt snor." }
+      "prompt": {
+        "en": "Gently tie the cucumber stem to the trellis with soft string.",
+        "da": "Bind forsigtigt agurkstilken til espalieren med bloedt snor."
+      }
     },
     {
       "id": "W24-05",
-      "action": "Harvest spring onions from Bed C (first batch ready)",
+      "action": "Harvest spring onions from Bed B (first batch ready)",
       "priority": "nice_to_do",
       "who": "child",
       "minutes": 5,
       "frequency": "once",
-      "bed": "bed-c",
+      "bed": "bed-b",
       "crop_id": "spring-onion-white-lisbon",
-      "prompt": { "en": "Pull a spring onion up -- smell it! Want to try a bite?", "da": "Traek et foraarsloeg op -- lugt til det! Vil du proeve en bid?" }
+      "prompt": {
+        "en": "Pull a spring onion up -- smell it! Want to try a bite?",
+        "da": "Traek et foraarsloeg op -- lugt til det! Vil du proeve en bid?"
+      }
     }
   ],
   "growth_events": [
     {
       "crop_id": "sunflower",
       "event": "Sunflower growing rapidly -- visible daily height increase",
-      "prompt": { "en": "The sunflower grew since yesterday! Can you see the difference?", "da": "Solsikken er vokset siden i gaar! Kan du se forskellen?" }
+      "prompt": {
+        "en": "The sunflower grew since yesterday! Can you see the difference?",
+        "da": "Solsikken er vokset siden i gaar! Kan du se forskellen?"
+      }
     },
     {
       "crop_id": "bush-bean-provider",
       "event": "Bean seedlings emerging in Bed B",
-      "prompt": { "en": "The bean pushed the soil up like a strongman! See the arch?", "da": "Boennen skubbede jorden op som en staerk mand! Ser du buen?" }
+      "prompt": {
+        "en": "The bean pushed the soil up like a strongman! See the arch?",
+        "da": "Boennen skubbede jorden op som en staerk mand! Ser du buen?"
+      }
     }
   ],
   "sowing_tasks": [
     {
       "crop_id": "radish",
-      "bed": "bed-c",
+      "bed": "bed-a",
       "slot": "S1",
-      "action": "Sow fifth succession radish in Bed C"
+      "action": "Sow fifth succession radish in Bed A"
     },
     {
       "crop_id": "spring-onion-white-lisbon",
-      "bed": "bed-c",
+      "bed": "bed-b",
       "slot": "S3",
-      "action": "Sow third spring onion batch in Bed C"
+      "action": "Sow third spring onion batch in Bed B"
     },
     {
       "crop_id": "bush-bean-provider",
-      "bed": "bed-b",
+      "bed": "bed-a",
       "slot": "S2",
-      "action": "Sow second bush bean seeds in Bed B"
+      "action": "Sow second bush bean seeds in Bed A"
     }
   ]
 }

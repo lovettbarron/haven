@@ -9,7 +9,7 @@
       "tasks": [
         {
           "id": "D3-00",
-          "action": "Take photos of each bed (A, B, C) for neighbor guide",
+          "action": "Take photos of each bed (A, B) for neighbor guide",
           "who": "together",
           "minutes": 5,
           "completed": false
@@ -23,7 +23,7 @@
         },
         {
           "id": "D3-02",
-          "action": "Spread bark mulch on Bed C (5-8cm depth)",
+          "action": "Spread bark mulch on Bed A vegetable section (5-8cm depth)",
           "who": "together",
           "minutes": 10,
           "completed": false
@@ -37,7 +37,7 @@
         },
         {
           "id": "D3-04",
-          "action": "Deep water all 3 beds after mulching",
+          "action": "Deep water both beds after mulching",
           "who": "child",
           "minutes": 15,
           "completed": false
@@ -112,7 +112,7 @@
         },
         {
           "id": "D1-05",
-          "action": "Final top-up watering all 3 beds",
+          "action": "Final top-up watering both beds",
           "who": "child",
           "minutes": 10,
           "completed": false

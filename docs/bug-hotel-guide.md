@@ -150,7 +150,7 @@ Two water stations create two observation points for the child -- one at the nat
 - Same as Station 1: shallow dish + pebbles + water
 
 #### Setup
-1. Choose a **sunny, sheltered spot** near the flower-heavy beds -- between Bed A and Bed C, or next to Bed A
+1. Choose a **sunny, sheltered spot** near the flower-heavy beds -- next to Bed B (His Bed) or between Bed A and Bed B
 2. Position it where edible flowers (calendula, viola, borage) will attract pollinators once they bloom
 3. Same construction: shallow dish, pebbles poking above water, water to just below stone tops
 
@@ -211,4 +211,4 @@ A simple observation checklist the child can use after the bug hotel is built. V
 
 - **Planting day script:** `docs/planting-day-script.md` -- the W16 planting sessions (mark the nature corner spot during planting day)
 - **Bed layout:** `docs/bed-layout.md` -- property map showing mature trees and fence boundaries for nature corner placement
-- **Grid maps:** `docs/planting-grid-bed-a.md` through `docs/planting-grid-bed-c.md` -- flower positions that attract pollinators to the water stations
+- **Grid maps:** `docs/planting-grid-bed-a.md` and `docs/planting-grid-bed-b.md` -- flower positions that attract pollinators to the water stations

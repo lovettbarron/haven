@@ -10,7 +10,7 @@
 
 > Walk past all beds. What changed overnight?
 
-**Bed A** -- **Bed B** -- **Bed C**
+**Bed A** -- **Bed B**
 
 *Far siger: "Gaa forbi alle bedene. Hvad har aendret sig siden i gaar?"*
 
@@ -38,11 +38,10 @@ Only the dry ones! Pour slowly at the base of the plants, not on the leaves.
 
 ### 4. PICK 🧺
 
-> Any ripe strawberries? Radish tops poking out? Lettuce to snip?
+> Any ripe fruits or veggies? Herbs to smell?
 
-- Bed A: Red strawberries (leave the white ones!), radish tops showing above soil
-- Bed B: Peas in fat pods, ripe tomatoes, cucumbers, herbs to smell
-- Bed C: Lettuce leaves big enough to snip, herbs for the kitchen
+- Bed A: Peas in fat pods, ripe tomatoes, cucumbers, herbs to smell, lettuce to snip, ripe raspberries
+- Bed B: Red strawberries (leave the white ones!), radish tops poking up, spring onions to pull
 
 *Far siger: "Pluk kun de RODE jordbaer -- lad de hvide sidde til i morgen!"*
 
@@ -52,7 +51,7 @@ Only the dry ones! Pour slowly at the base of the plants, not on the leaves.
 
 > How tall is the sunflower today? Mark on the ruler stick
 
-Stand next to the ruler stake in Bed A. Where does the sunflower reach today?
+Stand next to the ruler stake in Bed B. Where does the sunflower reach today?
 
 *Far siger: "Stil dig ved maalestokken -- hvor naar solsikken hen til i dag?"*
 
@@ -63,9 +62,9 @@ Stand next to the ruler stake in Bed A. Where does the sunflower reach today?
 *(Father fills in verbally or with a sticky note)*
 
 Seasonal examples:
-- **W18:** Can you find sunflower sprouts in Bed A? / Kan du finde solsikkespirer i Bed A?
-- **W24:** Count the green tomatoes in Bed B / Tael de groenne tomater i Bed B
-- **W34:** Which strawberry plant in Bed A has the most berries? / Hvilken jordbaerplante i Bed A har flest baer?
+- **W18:** Can you find sunflower sprouts in Bed B? / Kan du finde solsikkespirer i Bed B?
+- **W24:** Count the green tomatoes in Bed A / Tael de groenne tomater i Bed A
+- **W34:** Which strawberry plant in Bed B has the most berries? / Hvilken jordbaerplante i Bed B har flest baer?
 
 ---
 

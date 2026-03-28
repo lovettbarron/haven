@@ -1,256 +1,182 @@
-# Bed B: "Family Bed" -- Grid Map
+# Bed B: "His Bed" -- Grid Map
 
-**Physical position:** Backyard, west side (near glass stairway)
-**Dimensions:** 230 x 80 cm (L x W), 40 cm tall, corten steel (byJEMA)
-**Orientation:** Long axis N-S. West edge = stairway side (132cm walkway to stairway). East edge = path side (55cm path to Bed A).
-**Bottomless on grass** (earthworm access, deep root zone)
-**Mole mesh underneath**
-**Phase 2 role:** Pea nitrogen pre-crop on south trellis, raspberry canes in north zone, kale as cool-season placeholder
-**Phase 3 role:** Two-zone bed -- warm crops (south) and perennial raspberries (north), separated by buffer zone
-**Planting day:** W16 (Phase 2, mid-April); Phase 3 warm-crop transplants W21 (May 20+)
+**Physical position:** Backyard, closer to the house/terrace, on grass. Full sun all day.
+**Dimensions:** 150 x 60 cm (L x W), 40 cm tall, corten steel (byJEMA)
+**Orientation:** Long axis roughly N-S. West edge = path side (approach from house). East edge may face the other bed or grass.
+**Foundation:** Bottomless on grass (earthworm access, deep root zone). Mole mesh underneath.
+**Infrastructure:** No reservoir, no trellis -- simple, self-contained bed.
+**Phase 2 role:** The child's personal bed -- strawberries, pea shoots, edible flowers, sensory edge plants
+**Phase 3 additions:** Sunflower cluster at north end, nasturtium at east edge, spring onions, radish succession slot
+**Planting day:** W16 (Phase 2, mid-April); Phase 3 additions in W18-W21
 
-> **This is the family's shared bed.** Father handles warm-crop maintenance (suckering, training). The child's jobs are finger-length bean picking, cucumber harvesting at eye level, raspberry picking in late summer, and watching the pepper change color from green to red.
-
-> **Two-zone design:** The south zone (L=0-110cm) is a dense, productive warm-crop section with reservoir and trellis. The north zone (L=130-230cm) is a calm, low-maintenance perennial raspberry section. The contrast is intentional -- busy annual production meets set-and-forget perennials, separated by a 20cm buffer.
+> **Child ownership:** This is HIS bed. Sized at 150 x 60 cm so that a 7-year-old with ADHD/Autism can independently check on, care for, and harvest from every plant in it. The 150 cm length (vs 120 cm in previous designs) gives room for a bigger sunflower area and a spring onion row. Everything here has quick visual feedback or sensory engagement. Painted plant markers from the pre-planting craft activity go in this bed.
 
 ---
 
 ## Phase 2 (W16) Planting
 
-| Plant | Position / Zone | Notes |
-|-------|----------------|-------|
-| Peas (Kelvedon Wonder) | South trellis base, L=0-30cm | Nitrogen pre-crop. Same as original Bed C plan. |
-| Borage | (20, 35) | Pollinator companion for future cucumbers. |
-| Calendula | (60, 35) | Pest deterrent, color. |
-| Kale Nero di Toscana | (40, 65) | Cool-season placeholder in warm-crop zone. Remove W21 if space needed. |
-| Raspberry Autumn Bliss (3 canes) | North zone, center line W=40 | Bare-root canes, permanent. |
-| Chive divisions (8-10 clumps) | North zone perimeter | Raspberry companions. |
+| Plant | Position | Notes |
+|-------|----------|-------|
+| Strawberry Ostara #1 | (25, 35) | Everbearing, fruit Jun-Sep |
+| Strawberry Ostara #2 | (25, 80) | Everbearing, fruit Jun-Sep |
+| Strawberry Korona #1 | (35, 60) | June-bearing, fruit Jun-Jul, larger fruit |
+| Lamb's ear | (5, 60) | Center of west edge, soft silvery leaves for touch |
+| Lemon balm | (5, 30) | Crush-and-smell, in sunken pot for containment |
+| Creeping thyme #1 | (5, 5) | Aromatic ground cover, south corner |
+| Creeping thyme #2 | (5, 110) | Aromatic ground cover, north-west edge |
+| Creeping thyme #3 | (5, 145) | Aromatic ground cover, north corner |
+| Viola #1 | (15, 5) | Immediate color, south end |
+| Viola #2 | (55, 110) | Color, north-east area |
+| Calendula #1 | (35, 5) | Pest deterrent, south end |
+| Calendula #2 | (45, 100) | Pest deterrent, near succession slot |
+| Pea shoots | Zone: L=110-145, W=10-50 | Quick gratification crop, later replaced by sunflowers |
 
 ## Phase 3 Transition
 
 ### What STAYS from Phase 2
 
-| Plant | Position | Notes |
-|-------|----------|-------|
-| Borage | (20, 35) | Established. Pollinator attractor for cucumbers. Do not disturb. |
-| Raspberry Autumn Bliss (3 canes) | North zone | Perennial. Do not disturb. |
-| Chive divisions | North zone perimeter | Perennial. Do not disturb. |
+Everything from Phase 2 continues:
+- Strawberries (2 Ostara + 1 Korona) -- perennial, producing fruit Jun-Sep
+- Lamb's ear, lemon balm, creeping thyme -- sensory edge plants, perennial
+- Calendula, viola -- edible flowers, may self-sow
+- Radish succession slot -- continues through summer
 
-### What is REMOVED in Phase 3
-
-| Plant | Position | Action | Timing |
-|-------|----------|--------|--------|
-| ALL peas (Kelvedon Wonder) | Trellis base, L=0-30cm | Cut at ground level. Do NOT pull roots -- nitrogen-fixing nodules stay in soil. | W21 -- "Pea Harvest Party" |
-| Kale Nero di Toscana | (40, 65) | Harvest and remove if space needed for tomato/pepper zone. | W21 |
-| Calendula | (60, 35) | Remove if space needed. | W21 |
-
-> **Pea Harvest Party:** Before clearing the trellis, pick ALL remaining peas together as a celebration. "We grew these! Now the climbing frame gets cucumbers!" Frame the transition as an achievement, not a loss.
+**One change:** Pea shoot zone at north end (L=110-145 cm) is repurposed for sunflowers in W18. Final pea shoot harvest before sowing sunflowers. The pea shoots have had their run (W16-W18) and the sunflowers take their place.
 
 ### What is ADDED in Phase 3
 
 | Plant | Position | Session | Notes |
 |-------|----------|---------|-------|
-| Cucumber Mini Munch/Picolino #1 | (20, 10) | Session 2, W21 | Transplant at trellis base |
-| Cucumber Mini Munch/Picolino #2 | (60, 10) | Session 2, W21 | Transplant at trellis base |
-| Tomato Sungold (indeterminate) | (40, 55) | Session 2, W21 | Staked, center of warm zone |
-| Basil Genovese #1 | (20, 60) | Session 2, W21 | Flanking tomato |
-| Basil Genovese #2 | (60, 60) | Session 2, W21 | Flanking tomato |
-| Sweet pepper (Lipstick/King of the North) | (40, 80) | Session 2, W21 | Center, south of buffer |
-| Bush beans (Provider/Speedy), 5-6 plants | Row at W=70, L=25 to L=85 | Session 1, W18 | Direct sow, 12cm apart |
-| Dill | (60, 95) | Session 1, W18 | Direct sow near pepper |
+| Sunflower cluster (2-3 plants) | Around (30, 130) | W18 | Sow 5-6 seeds 15 cm apart, thin to strongest 2-3. Replaces pea shoot zone at NORTH end. |
+| Nasturtium (trailing) | (55, 60) | W18 | 1-2 plants at east edge, trailing outward. Trap crop for aphids. |
+| Spring onions | Row at (45, 25-50) | W18-W21 | 5-6 plants, easy for the child to pull |
+| Radish (succession) | Zone: (40-60, 40-60) | W18 start | Re-sow every 2 weeks |
+| Mint pot (NOT in bed) | Outside bed, on ground beside Bed B | W21 | 30 cm+ pot with drainage. Part of daily sensory route. |
 
-> **Why bush beans are here, not in Bed C:** Bed C now has leeks (alliums), which inhibit bean nitrogen fixation. Beans moved to Bed B's warm-crop zone. The chives in the north zone are 50cm+ away across the buffer -- acceptable separation since the zones are physically distinct.
+> **Mint containment:** The mint pot lives OUTSIDE the bed -- 30 cm+ pot on the ground beside Bed B. Mint is invasive and would take over the bed if planted directly in soil. This completes the daily sensory route: lamb's ear (touch) -> lemon balm (crush) -> mint (smell).
 
 ---
 
-## Layout (10cm grid, viewed from above) -- FINAL Phase 3 State
+## Layout (10 cm grid, viewed from above) -- FINAL Phase 3 State
 
-The bed is 230cm long and 80cm wide. Two zones plus buffer.
+The child approaches from the **west side** (left column). Sensory plants line the west edge so he can touch and smell them from the path approaching the house.
 
-Column 0 = west edge (stairway side). Column 70-80 = east edge (path side, toward Bed A).
-Row 0 = south end (trellis). Row 220-230 = north end.
+Row 0 = south end, Row 140-150 = north end.
+Column 0 = west edge (path side, approach from house), Column 50-60 = east edge.
 
-### South Zone: Warm Crops (L=0 to ~110cm)
-
-Reservoir installed in this zone. A-frame trellis at south end.
-
-```
-                    SOUTH END (trellis)
-    W: 0    10    20    30    40    50    60    70    80
-    +----+----+----+----+----+----+----+----+
-L=0 |    |    |~~~~TRELLIS BASE~~~~~~~~~~~~|    |
-    |    | CUC-1   |         | CUC-2   |    |
-L=10|    | (20,10) |         | (60,10) |    |
-    |    |    |    |         |    |    |    |
-L=20|    |    |    |         |    |    | BN-1  |
-    |    |    |    |         |    |    |(70,25)|
-L=30|    | BOR|    |         |    |    |    |
-    |    |(20,35)  |         |    |    | BN-2  |
-L=40|    |    |    |         |    |    |(70,37)|
-    |    |    |    | TOM     |    |    |    |
-L=50|    |    |    |(40,55)  |    |    | BN-3  |
-    |    |    |    | [staked]|    |    |(70,49)|
-L=60|    |BAS-1    |    |    |BAS-2    |    |
-    |    |(20,60)  |    |    |(60,60)  | BN-4  |
-L=70|    |    |    |         |    |    |(70,61)|
-    |    |    |    | PEP     |    |    |    |
-L=80|    |    |    |(40,80)  |    |    | BN-5  |
-    |    |    |    |         |    |    |(70,73)|
-L=90|    |    |    |    |    | DIL|    |    |
-    |    |    |    |    |    |(60,95)  | BN-6  |
-L=100|   |    |    |         |    |    |(70,85)|
-    |    |    |    |         |    |    |    |
-L=110+----+----+----+----+----+----+----+----+
-```
-
-### Buffer Zone (L=110-130cm)
-
-~20cm open area. Visual and physical boundary between annual warm crops and perennial raspberries. Can receive a small herb planting (e.g., a thyme clump) if desired, otherwise left open for airflow.
-
-### North Zone: Raspberry Section (L=130 to 230cm)
+| cm     | 0-10      | 10-20     | 20-30     | 30-40     | 40-50     | 50-60     |
+|--------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 0-10   | **THY**   | **VIO**   |           | **CAL**   |           |           |
+| 10-20  |           |           |           |           |           |           |
+| 20-30  | **LE**    |           |           |           | **SON**   |           |
+| 30-40  | (5,30)    |           | **ST-O**  |           | (row at   |           |
+| 40-50  |           |           | (25,35)   |           |  45,25-50)|           |
+| 50-60  | **LAM**   |           |           |  **ST-K** |  **SUCC** |           |
+| 60-70  | (5,60)    |           |           | (35,60)   | (radish   | **NAS**   |
+| 70-80  |  (center  |           | **ST-O**  |           |  40-60,   | (55,60)   |
+| 80-90  |   spreads |           | (25,80)   |           |  40-60)   |           |
+| 90-100 |   to 45cm)|           |           |           | **CAL**   |           |
+| 100-110| **THY**   |           |           |           | (45,100)  | **VIO**   |
+| 110-120| (5,110)   |           |           |           |           | (55,110)  |
+| 120-130|           |  **SUN**  | **SUN**   | **SUN**   |           |           |
+| 130-140|           | (cluster around 30, 130)  |           |           |           |
+| 140-150| **THY**   |           |           |           |           |           |
+|        | (5,145)   |           |           |           |           |           |
 
 ```
-                    NORTH ZONE
-    W: 0    10    20    30    40    50    60    70    80
-    +----+----+----+----+----+----+----+----+
-L=130| CHV|    |    |         |    |    | CHV|
-    |(5,130)  |    |         |    |    |(75,130)|
-L=140|    |    |    | RB-1    |    |    |    |
-    |    |    |    |(40,140) |    |    |    |
-L=150|    |    |    |         |    |    |    |
-    |    |    |    |         |    |    |    |
-L=160| CHV|    |    |         |    |    | CHV|
-    |(5,160)  |    |         |    |    |(75,160)|
-L=170|    |    |    |         |    |    |    |
-    |    |    |    |         |    |    |    |
-L=180|    |    |    | RB-2    |    |    |    |
-    |    |    |    |(40,185) |    |    |    |
-L=190| CHV|    |    |         |    |    | CHV|
-    |(5,190)  |    |         |    |    |(75,190)|
-L=200|    |    |    |         |    |    |    |
-    |    |    |    |         |    |    |    |
-L=210|    |    |    |         |    |    |    |
-    |    |    |    |         |    |    |    |
-L=220| CHV|    |    | RB-3    |    |    | CHV|
-    |(5,225)  |    |(40,225) |    |    |(75,225)|
-L=230+----+----+----+----+----+----+----+----+
-                    NORTH END
+                        EAST SIDE
+                        ==================
+                        |                |
+                        |  [MINT POT]    |  <-- 30cm+ pot on ground
+                        |  spearmint/    |      beside bed, NOT in bed
+                        |  peppermint    |      Part of sensory route:
+                        |                |      lamb's ear (touch) ->
+                        ==================      lemon balm (crush) ->
+                                                mint (smell)
 ```
 
 ---
 
 ## Precise Plant Positions
 
-### South Zone: Warm Crops
-
-| Symbol | Plant | Center Position (W,L cm) | Spread/Spacing | Sow/Plant |
-|--------|-------|--------------------------|----------------|-----------|
-| **CUC-1** | Cucumber Mini Munch/Picolino #1 | (20, 10) | Trained up trellis | W21 -- transplant seedling |
-| **CUC-2** | Cucumber Mini Munch/Picolino #2 | (60, 10) | Trained up trellis | W21 -- transplant seedling |
-| **BOR** | Borage (from Phase 2) | (20, 35) | 30-40cm spread | Phase 2 -- already established |
-| **TOM** | Tomato Sungold (indeterminate) | (40, 55) | 45cm+ staked vertically | W21 -- transplant seedling |
-| **BAS-1** | Basil Genovese #1 | (20, 60) | 20-30cm spread | W21 -- transplant seedling |
-| **BAS-2** | Basil Genovese #2 | (60, 60) | 20-30cm spread | W21 -- transplant seedling |
-| **PEP** | Sweet pepper (Lipstick/King of the North) | (40, 80) | 30-40cm spread | W21 -- transplant seedling |
-| **DIL** | Dill | (60, 95) | 20-30cm spread | W18 -- direct sow |
-| **BN-1** | Bush bean Provider/Speedy #1 | (70, 25) | 12cm apart in row | W18 -- direct sow |
-| **BN-2** | Bush bean #2 | (70, 37) | 12cm apart | W18 -- direct sow |
-| **BN-3** | Bush bean #3 | (70, 49) | 12cm apart | W18 -- direct sow |
-| **BN-4** | Bush bean #4 | (70, 61) | 12cm apart | W18 -- direct sow |
-| **BN-5** | Bush bean #5 | (70, 73) | 12cm apart | W18 -- direct sow |
-| **BN-6** | Bush bean #6 | (70, 85) | 12cm apart | W18 -- direct sow |
-
-### North Zone: Raspberries + Chives
-
-| Symbol | Plant | Center Position (W,L cm) | Spread/Spacing | Sow/Plant |
-|--------|-------|--------------------------|----------------|-----------|
-| **RB-1** | Raspberry Autumn Bliss #1 | (40, 140) | 45cm spacing | W16 -- bare-root cane |
-| **RB-2** | Raspberry Autumn Bliss #2 | (40, 185) | 45cm spacing | W16 -- bare-root cane |
-| **RB-3** | Raspberry Autumn Bliss #3 | (40, 225) | 45cm spacing | W16 -- bare-root cane |
-| **CHV** | Chive division #1 | (5, 130) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #2 | (75, 130) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #3 | (5, 160) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #4 | (75, 160) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #5 | (5, 190) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #6 | (75, 190) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #7 | (5, 225) | 15-20cm | W16 -- division |
-| **CHV** | Chive division #8 | (75, 225) | 15-20cm | W16 -- division |
+| Symbol | Plant | Center Position (W,L cm) | Spread/Radius | Sow/Plant |
+|--------|-------|--------------------------|---------------|-----------|
+| **ST-O** | Strawberry Ostara #1 | (25, 35) | 30 cm spacing | W16 -- plug |
+| **ST-O** | Strawberry Ostara #2 | (25, 80) | 30 cm spacing | W16 -- plug |
+| **ST-K** | Strawberry Korona #1 | (35, 60) | 40 cm spacing | W16 -- plug |
+| **LAM** | Lamb's ear | (5, 60) | 45 cm spread | W16 -- buy plant |
+| **THY** | Creeping thyme #1 | (5, 5) | 20 cm spread | W16 -- buy plant |
+| **THY** | Creeping thyme #2 | (5, 110) | 20 cm spread | W16 -- buy plant |
+| **THY** | Creeping thyme #3 | (5, 145) | 20 cm spread | W16 -- buy plant |
+| **LE** | Lemon balm | (5, 30) | 30 cm spread | W16 -- buy plant, in sunken pot |
+| **VIO** | Viola #1 | (15, 5) | 15 cm | W16 -- seedling |
+| **VIO** | Viola #2 | (55, 110) | 15 cm | W16 -- seedling |
+| **CAL** | Calendula #1 | (35, 5) | 25 cm | W17 -- direct sow |
+| **CAL** | Calendula #2 | (45, 100) | 25 cm | W17 -- direct sow |
+| **SON** | Spring onions (5-6 plants) | Row at (45, 25-50) | 5 cm apart | W18-W21 -- direct sow or seedling |
+| **SUCC** | Succession slot (radish) | Zone (40-60, 40-60) | 20x20 cm area | W18 start |
+| **SUN** | Sunflower cluster (2-3 plants) | Around (30, 130) | 15 cm apart, thin to 2-3 | W18 -- direct sow |
+| **NAS** | Nasturtium (trailing) | (55, 60) | Trails 1-1.5 m outward | W18 -- direct sow |
+| **MINT** | Mint pot (NOT in bed) | Outside bed, on ground beside Bed B | 30 cm+ pot | W21 -- buy plant |
 
 ---
 
 ## Detailed Layout Description
 
-### South Zone: Warm Crops (L=0-110cm)
+**West edge (path side, column 0-10 cm):**
+- Sensory plants line this edge so the child can touch and smell from the path approaching the house
+- Creeping thyme at the south corner (5, 5), mid-north (5, 110), and north corner (5, 145) -- aromatic, low-growing, walkway-friendly. Three positions along the 150 cm length provide continuous aromatic coverage.
+- Lemon balm at (5, 30) -- crush-and-smell plant. **CONTAINMENT: Plant in a bottomless 20 cm terracotta pot sunk into the soil to restrict root runners. Alternatively, trim runners monthly. If it escapes, move to a separate pot beside the bed in Season 2.**
+- Lamb's ear at (5, 60) -- center of the west edge, soft silvery leaves for tactile engagement. Spreads to 45 cm so it anchors the middle section of the edge.
 
-**Trellis end -- the Cucumber Tunnel (rows 0-20cm):**
-- A-frame trellis spans the south end of the bed: 120cm peak height, ~80cm base width (matching the 80cm bed width), legs resting on the ground on either side
-- Wire mesh panels for cucumbers to grip and climb
-- 2 cucumber seedlings at the trellis base: CUC-1 at (20, 10), CUC-2 at (60, 10)
-- As cucumbers climb and fruit hangs down, this creates a **cucumber tunnel effect** -- the child walks alongside and picks cucumbers dangling at his eye level. Mini Munch/Picolino varieties produce small fruits perfect for child-sized hands.
-- Cucumbers benefit from the nitrogen left in the soil by the Phase 2 pea roots
+**Center (columns 15-45 cm):**
+- 3 strawberry plants spread across the 150 cm length: 2 Ostara (everbearing, fruit Jun-Sep) and 1 Korona (June-bearing, fruit Jun-Jul)
+- Ostara #1 at (25, 35) and Ostara #2 at (25, 80) -- 45 cm apart along the long axis
+- Korona #1 at (35, 60) -- centered between the two Ostara, offset to the east to avoid crowding
+- 30-40 cm spacing between all three plants gives each room to spread runners
+- This gives continuous strawberry picking from June through September
+- Crown planted at soil level, NOT buried
+- Daily strawberry picking is the anchor of the child's garden routine
 
-**Borage -- the Bee Beacon (around row 35cm):**
-- 1 borage plant at (20, 35), established from Phase 2
-- Blue star-shaped flowers are magnets for bees -- "Count how many bees visit in one minute!"
-- Excellent cucumber companion: pollinators visiting borage also pollinate cucumber flowers
-- Edible flowers (freeze in ice cubes for a summer treat)
+**Scattered flowers:**
+- Calendula #1 near south end (35, 5) and #2 near the succession slot (45, 100) -- pest deterrent near strawberries
+- Viola #1 at south edge (15, 5) and #2 at north-east (55, 110) -- immediate color from seedlings
 
-**Tomato & Basil -- the Classic Pair (rows 50-70cm):**
-- Tomato Sungold at (40, 55) -- center of the warm zone, the bed's star plant
-- **STAKE ON TRANSPLANT DAY.** Sungold is indeterminate (grows 2-3m tall). Use a sturdy 2m bamboo stake or tomato cage. Prune suckers weekly to 1-2 main stems.
-- **Weekly suckering is a father-child activity:** "Find the Y-shape in the stem. The sucker grows in the V. Pinch it out." Simple, tactile, 2-minute task with a clear start and end.
-- Basil Genovese flanking the tomato: BAS-1 at (20, 60) and BAS-2 at (60, 60)
-- Both basil plants within 30cm of the tomato -- classic companion pairing (basil repels aphids/whiteflies, may improve tomato flavor)
-- **Pinch basil tips** to promote bushy growth -- another tactile child task. "Pinch above the second set of leaves."
-- Aromatic sensory element: crush a basil leaf, smell it. Then smell the tomato leaf. Different!
+**Spring onion row (column W=45, L=25-50):**
+- 5-6 spring onion plants in a short row along the east-center of the bed
+- Easy for the child to pull -- satisfying snap-and-pull action
+- Positioned away from strawberries so harvesting does not disturb crowns
+- Deters pests near strawberry plants (allium scent)
 
-**Pepper -- the Color-Change Watch (row 80cm):**
-- Sweet pepper (Lipstick or King of the North) at (40, 80)
-- Cold-hardy variety suited to Danish climate
-- **Color-change observation:** Peppers start green, ripen to red over 2-3 weeks. Mark a pepper with a small ribbon and check its color each visit. "Is it still green? Getting orange? Almost red?" This builds patience and observation skills -- the child watches a slow, visible transformation.
-- Compact plant, 40-60cm tall, no staking needed
+**Succession slot (40-60 cm W, 40-60 cm L):**
+- Left empty on planting day W16
+- SUCCESSION SLOT -- radish from W18, re-sow every 2 weeks
+- Sow radish 1 cm deep, 5 cm apart, harvest in 3-4 weeks
+- Quick turnaround gives the child repeated harvest experiences
 
-**Bush Beans -- Finger-Length Picking (east edge, W=70cm):**
-- 6 bush beans (Provider or Speedy) in a column along the east edge at W=70cm
-- 12cm apart: positions at L=25, 37, 49, 61, 73, 85
-- Direct-sow W18, 3-5cm deep, one seed per hole
-- 50-55 days to harvest (early-mid July)
-- **Finger-length picking activity:** Bush beans are perfect for a 7-year-old. The beans hang visibly, are easy to snap off, and the child can feel for ready ones ("Does it snap when you bend it? It is ready!"). Pick into a small basket -- tangible, immediate result.
-- Bush variety, 30-45cm tall, no staking needed
-- Positioned at the east edge (path side) for easy access without reaching over other plants
+**North end: Sunflower cluster (rows 120-145 cm, Phase 3):**
+- Replaces pea shoot zone (final pea shoot harvest before sowing sunflowers W18)
+- Sow 5-6 seeds at 15 cm spacing around center (30, 130)
+- Thin to strongest 2-3 plants once they reach 10 cm height
+- At the NORTH end so they don't shade strawberries to the south
+- The 150 cm bed length gives 30 cm more space for sunflowers than the old 120 cm design
+- **Ruler stake position:** Plant a 2 m+ marked stake next to the tallest sunflower for weekly height measurement. Mark in 10 cm increments with waterproof marker. He reads the height where the sunflower top reaches.
+- Weekly measurement, same day each week -- visible growth keeps it exciting
 
-**Dill (row 95cm):**
-- 1 dill plant at (60, 95) near the pepper
-- Attracts hoverflies that eat aphids -- biological pest control for the pepper and surrounding crops
-- Feathery foliage adds visual texture
-- Self-sows if allowed to flower -- free dill next year
+**East edge: Nasturtium (around (55, 60), Phase 3):**
+- 1-2 trailing nasturtium seeds sown at the east edge of the bed
+- Trailing outward from the bed edge toward the grass
+- Positioned on his daily route -- he already passes this bed every day
+- Acts as a trap crop: draws aphids away from strawberries
+- Big seeds, easy for child to handle during planting session
+- "These flowers are bee magnets -- let's see how many come!"
 
-### Buffer Zone (L=110-130cm)
-
-- 20cm open strip between the warm-crop zone and the raspberry zone
-- Provides physical separation so annual crop maintenance (digging, replanting) does not disturb raspberry roots
-- Allows airflow between zones, reducing disease pressure
-- Can optionally receive a small thyme or oregano clump
-
-### North Zone: Raspberry Section (L=130-230cm)
-
-**Raspberry canes -- the Late-Summer Treat:**
-- 3 Autumn Bliss raspberry canes along the center line (W=40cm)
-- Spaced 45cm apart: RB-1 at (40, 140), RB-2 at (40, 185), RB-3 at (40, 225)
-- Plant each cane 8cm deep with roots spread outward
-- Autumn Bliss is self-supporting (no staking required) and fruits on first-year canes
-- **First fruit expected Aug-Oct of year 1** -- this is the child's seasonal treat. Raspberries ripen over several weeks, so there is always something new to pick on each visit.
-- "Pick the red ones. If they come off easily, they are ready. If you have to tug, leave them for tomorrow."
-- The contrast between the busy warm-crop zone and this calm perennial section is deliberate: the raspberry zone requires almost no maintenance. It is the bed's quiet corner.
-
-**Chive perimeter:**
-- 8 chive clumps arranged around the raspberry zone edges
-- 2 clumps per long side at L=130, 160, 190, 225 (west at W=5, east at W=75)
-- Chives repel Japanese beetles and aphids -- proven raspberry companion
-- Purple globe flowers in May-Jun -- edible and attractive to pollinators
-- **Chive-bean separation note:** Chives (alliums) are 50cm+ from the nearest bush bean (at L=85) across the buffer zone. This distance, combined with the physical zone separation, is acceptable. Allium inhibition of bean nitrogen fixation is a root-zone effect, not airborne.
-
-> **Raspberries are perennial.** This zone stays planted year-round. Do not disturb canes. Prune spent canes to ground level in late autumn after fruiting ends.
+**Mint pot (outside the bed, Phase 3):**
+- NOT inside the bed -- mint is invasive and would take over
+- 30 cm+ pot with drainage hole, placed on the ground next to Bed B
+- Spearmint or peppermint
+- Completes the daily sensory route: lamb's ear (touch) -> lemon balm (crush) -> mint (smell)
+- Fill with standard potting soil, water regularly
 
 ---
 
@@ -258,15 +184,18 @@ L=230+----+----+----+----+----+----+----+----+
 
 | Symbol | Plant | Spacing | Depth | Sow/Plant Date | Notes |
 |--------|-------|---------|-------|----------------|-------|
-| CUC | Cucumber Mini Munch/Picolino | 40cm apart | Root ball depth | W21 (May 20+) | Train up A-frame trellis. Consistent watering via reservoir. Cucumber tunnel effect at child height. |
-| TOM | Tomato Sungold (indeterminate) | 45cm+ staked | Root ball depth (deep planting OK) | W21 (May 20+) | **Stake on transplant day. Prune suckers weekly to 1-2 main stems.** Father-child suckering activity. |
-| PEP | Sweet pepper Lipstick/King of the North | 30-40cm | Root ball depth | W21 (May 25+) | Cold-hardy variety. Color-change observation activity (green to red). |
-| BAS | Basil Genovese | 20-30cm | Root ball depth | W21 (May 20+) | Flanking tomato. Pinch tips for bushy growth. Aromatic sensory element. |
-| BN | Bush bean Provider/Speedy | 12cm apart in column | 3-5cm deep | W18 (May 1) | Direct sow. 50-55 days. Finger-length picking activity. No staking. |
-| DIL | Dill | 20-30cm | 0.5cm deep | W18 (May 1) | Direct sow. Attracts hoverflies. Self-sows if allowed to flower. |
-| BOR | Borage | 30-40cm spread | -- (established) | Phase 2 | Blue star flowers = bee magnets. Pollinator for cucumbers. Edible flowers. |
-| RB | Raspberry Autumn Bliss | 45cm apart, centered in bed | 8cm deep | W16 | Bare-root canes. Self-supporting. Fruit Aug-Oct year 1. Late-summer picking treat. |
-| CHV | Chive divisions | 15-20cm apart around perimeter | Root depth | W16 | Repel Japanese beetles + aphids. Purple flowers May-Jun. |
+| ST-O | Strawberry Ostara | 30 cm apart | Crown at soil level | W16 | Everbearing, fruit Jun-Sep. He places plugs in pre-dug holes. |
+| ST-K | Strawberry Korona | 40 cm apart | Crown at soil level | W16 | June-bearing, fruit Jun-Jul. Larger fruit, short season. |
+| LAM | Lamb's ear (Stachys) | 45-60 cm spread | Root depth | W16 | Buy plant. Soft silvery leaves -- tactile sensory. Drought tolerant. |
+| THY | Creeping thyme | 20-30 cm apart | Root depth | W16 | Buy plant. Low aromatic ground cover at bed edges. |
+| LE | Lemon balm | 30-45 cm spread | Root depth | W16 | Buy plant. **Plant in sunken pot for containment.** Crush-and-smell sensory. |
+| VIO | Viola | 15-20 cm apart | -- (seedling) | W16 | Buy seedlings. Immediate color. Edible petals -- crystallize for cakes. |
+| CAL | Calendula | 20-25 cm apart | 0.5 cm deep | W17 (Apr 20) | Direct sow. Pest deterrent (repels whiteflies/aphids). |
+| SON | Spring onion | 5 cm apart | 1 cm deep | W18-W21 | Direct sow or seedling. Easy pull-harvest for child. Allium pest deterrent. |
+| SUCC | Radish (succession) | 5 cm apart | 1 cm deep | W18, then every 2 weeks | Fill the succession slot after strawberries are established. |
+| SUN | Sunflower (tall variety) | 15 cm apart, thin to 30 cm | 2.5 cm deep | W18 (May 1) | Direct sow 5-6 seeds, thin to 2-3. Ruler stake for weekly measurement. |
+| NAS | Nasturtium (trailing) | 30 cm | 1-2 cm deep | W18 (May 1) | Big seeds -- child sows. Trap crop for aphids. Trailing off bed edge. |
+| MINT | Mint (spearmint/peppermint) | Pot only | Root depth | W21 | Buy plant. 30 cm+ pot with drainage. NOT in bed. Daily sensory route. |
 
 ---
 
@@ -274,7 +203,8 @@ L=230+----+----+----+----+----+----+----+----+
 
 | Slot | Location (W,L cm) | First Sow | Re-sow Every | Crop | Notes |
 |------|-------------------|-----------|--------------|------|-------|
-| S1 | (70, 25-85) -- bean row gaps | W22 (after first bean harvest) | 3 weeks | Bush beans | Re-sow in gaps where first beans are spent. 2-3 cycles possible through summer. |
+| S1 | 40-60, 40-60 | W18 | 2 weeks | Radish | Leave empty W16. Sow radish W18, W20, W22... Harvest in 3-4 weeks each cycle. |
+| ~~S2~~ | ~~10-50, 110-145~~ | ~~W16~~ | -- | ~~Pea shoots~~ | **PHASE 3: Replaced by sunflower cluster.** Final pea shoot harvest before W18 sowing. |
 
 ---
 
@@ -282,44 +212,24 @@ L=230+----+----+----+----+----+----+----+----+
 
 | Pairing | Relationship | Status |
 |---------|-------------|--------|
-| Tomato + basil | Classic companion: basil repels aphids/whiteflies, may improve tomato flavor | GOOD |
-| Cucumber + borage | Borage attracts pollinators for cucumber flowers, may improve flavor | GOOD |
-| Dill + pepper | Dill attracts hoverflies that eat aphids near pepper plants | GOOD |
-| Bush beans + tomato | Neutral -- no conflict, beans fix nitrogen | GOOD |
-| Bush beans + cucumber | Neutral to beneficial -- no conflict | GOOD |
-| Raspberry + chives | Chives repel Japanese beetles and aphids around raspberry canes | GOOD |
-| Raspberry + strawberry | **NOT IN THIS BED** -- verticillium wilt cross-contamination | AVOIDED (strawberries in Bed A) |
-| Chives (allium) + bush beans | Alliums inhibit bean nitrogen fixation -- zones separated by 50cm+ buffer | ACCEPTABLE (zone separation enforced) |
-
----
-
-## Trellis
-
-Same A-frame design as documented in `docs/trellis-build.md`:
-- 120cm peak height, ~80cm base width (matching the 80cm bed width)
-- Legs rest on the ground on either side of the bed
-- Wire mesh panels for cucumbers to grip and climb
-- Cucumbers climb up one side, fruit hangs down at child picking height (80-120cm)
-- Positioned at the south end of the bed (L=0-20cm area)
-
-## Reservoir
-
-Installed in the south warm-crop zone only (L=0-100cm area):
-- Same PVC pipe system as documented in `docs/reservoir-build.md`
-- Fill tube at south corner (accessible without reaching over plants)
-- Overflow at 8cm depth
-- Serves cucumbers, tomato, pepper, basil, and beans -- all high-water-demand crops
-- Raspberry zone (north) has NO reservoir -- raspberries prefer free-draining soil
+| Strawberry + calendula | Calendula repels aphids/whiteflies from strawberries | GOOD |
+| Strawberry + thyme | Thyme deters slugs, low ground cover doesn't compete | GOOD |
+| Strawberry + viola | Neutral -- viola at edges, no competition | GOOD |
+| Nasturtium + strawberry | Nasturtium as trap crop -- draws aphids AWAY from strawberries | GOOD (Phase 3) |
+| Sunflower + strawberry | Sunflowers at north end -- no shading of strawberries to the south | GOOD (Phase 3) |
+| Spring onion + strawberry | Allium scent deters pests near strawberry plants | GOOD (Phase 3) |
+| Strawberry + raspberry | **NOT IN THIS BED** -- verticillium wilt risk. Raspberries are in Bed A. | AVOIDED |
 
 ---
 
 ## Cross-References
 
-- **Physical placement:** See `docs/bed-layout.md` -- backyard west position, near glass stairway
-- **Trellis construction:** See `docs/trellis-build.md` -- A-frame design
-- **Reservoir construction:** See `docs/reservoir-build.md` -- PVC pipe system in south zone only
-- **Phase 2 baseline:** Peas on trellis (nitrogen pre-crop), borage, calendula, kale placeholder, raspberry canes, chives
-- **Phase 3 handoff:** Peas cut back W21. Cucumbers transplant onto trellis. Warm crops fill south zone. Raspberry zone unchanged.
+- **Bed layout and position:** See `docs/bed-layout.md` -- Bed B, backyard position closer to house/terrace
+- **Dimensions:** 150 x 60 x 40 cm corten steel, bottomless on grass with mole mesh, no reservoir, no trellis
+- **Shopping list:** See `docs/shopping-list.md` for Phase 1/2 materials; `docs/warm-season-shopping-list.md` for Phase 3 seeds
+- **Session scripts:** See `docs/planting-day-script.md` for Phase 2 planting; `docs/warm-season-session-scripts.md` for Phase 3
+- **Slug defense:** See `docs/slug-defense.md` -- copper tape applied to all beds including Bed B
+- **Other bed grids:** `docs/planting-grid-bed-a.md`
 
 ---
 
@@ -330,34 +240,36 @@ This bed satisfies or contributes to:
 | Req ID | Requirement | How |
 |--------|-------------|-----|
 | SCHED-01 | Bed-by-bed planting distribution | This grid map provides exact positions for Bed B |
-| ENGM-04 | Companion planting layout | Tomato+basil, cucumber+borage, dill+pepper, raspberry+chives verified |
-| CROP-02 | Cherry tomatoes planted | Sungold at (40, 55), indeterminate, staked |
-| CROP-03 | Cucumbers planted | 2 Mini Munch/Picolino at trellis base (20, 10) and (60, 10) |
-| CROP-04 | Sweet peppers planted | Lipstick/King of the North at (40, 80) |
-| CROP-05 | Raspberries planted (Autumn Bliss) | 3 bare-root canes at (40, 140), (40, 185), (40, 225) |
-| SENS-05 | Basil alongside tomatoes | 2 Genovese at (20, 60) and (60, 60), within 30cm of tomato |
-| CRTR-01 | Borage and dill for pollinators/hoverflies | Borage at (20, 35), dill at (60, 95) |
-| COOK-04 | Bush beans direct-sown | 6 Provider/Speedy at 12cm intervals along east edge |
-| FLWR-05 | Chive flowers harvested May-Jun | 8 chive divisions around raspberry perimeter |
+| ENGM-04 | Companion planting layout | Strawberry companions verified, nasturtium trap crop, sunflowers no-shade, spring onion pest deterrent |
+| CROP-01 | Strawberries planted (Ostara + Korona) | 2 Ostara + 1 Korona positioned with correct spacing |
+| CROP-06 | Radish succession sowing | Succession slot S1 from W18 |
+| FLWR-02 | Calendula as pest deterrent | 2 calendula near strawberries |
+| FLWR-04 | Viola at bed edges | 2 viola seedlings at south and north-east |
+| SENS-01 | Lamb's ear for tactile engagement | West edge center position (5, 60) |
+| SENS-02 | Lemon balm for crush-and-smell | West edge with containment note (5, 30) |
+| SENS-04 | Thyme at bed edges | 3 creeping thyme on west edge |
+| ENGM-01 | Sunflowers for daily height measurement | Cluster at (30, 130), ruler stake, weekly measurement (Phase 3) |
+| FLWR-01 | Nasturtium at bed edge | Trailing nasturtium at (55, 60), on daily route (Phase 3) |
+| SENS-03 | Mint pot for pick-and-smell | 30 cm+ pot on ground beside Bed B (Phase 3) |
+| CRTR-02 | Nasturtium as trap crop for aphid/ladybug dynamic | Nasturtium draws aphids from strawberries, ladybug observation (Phase 3) |
+| COOK-01 | Spring onions for child harvest | 5-6 plants at (45, 25-50), easy pull-harvest (Phase 3) |
 
 ---
 
-## Bed Summary -- All 5 Beds Requirement Distribution
+## Bed Summary -- 2-Bed Requirement Distribution
 
-| Req ID | Bed A | Bed B | Bed C | Bed D | Bed E |
-|--------|-------|-------|-------|-------|-------|
-| CROP-02 | | x | | | |
-| CROP-03 | | x | | | |
-| CROP-04 | | x | | | |
-| CROP-05 | | x | | | |
-| CROP-01 | x | | | | |
-| ENGM-01 | x | | | | |
-| FLWR-01 | x | | | | |
-| SENS-03 | x | | | | |
-| SENS-05 | | x | | | |
-| COOK-03 | | | x | | |
-| COOK-04 | | x | | | |
-| COOK-07 | | | x | | |
-| CRTR-01 | | x | x | | |
-| CRTR-02 | x | | | | |
-| FLWR-05 | | x | | | |
+| Req ID | Bed A | Bed B |
+|--------|-------|-------|
+| CROP-01 | | x |
+| CROP-06 | | x |
+| ENGM-01 | | x |
+| ENGM-04 | | x |
+| FLWR-01 | | x |
+| FLWR-02 | | x |
+| FLWR-04 | | x |
+| SENS-01 | | x |
+| SENS-02 | | x |
+| SENS-03 | | x |
+| SENS-04 | | x |
+| CRTR-02 | | x |
+| COOK-01 | | x |

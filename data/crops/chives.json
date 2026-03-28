@@ -111,7 +111,7 @@
     "attention_minutes_per_week": 5,
     "sensory": ["taste", "smell", "sight"]
   },
-  "beds": ["bed-b"],
+  "beds": ["bed-a"],
   "sowing": {
     "method": "division",
     "indoor_start": null,

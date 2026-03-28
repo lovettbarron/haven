@@ -4,7 +4,7 @@
 
 Copper tape creates a mild galvanic reaction with slug slime, producing a sensation that deters slugs from crossing the barrier. With proper application using 50mm or wider tape, effectiveness is 60-85%. Combined with the 40cm raised bed height (which slugs must climb before reaching the tape), this provides strong slug protection without chemicals -- safe for the child, the soil, and the food.
 
-Copper tape is applied to all 3 beds. All beds are corten steel.
+Copper tape is applied to both beds. Both beds are corten steel.
 
 ---
 
@@ -12,17 +12,17 @@ Copper tape is applied to all 3 beds. All beds are corten steel.
 
 | Item | Specification | Quantity |
 |------|--------------|----------|
-| Copper tape | 50mm wide, self-adhesive | 2 rolls of 25m (~14m needed, extra for mistakes) |
+| Copper tape | 50mm wide, self-adhesive | 1 roll of 25m (~11.2m needed, ample margin for mistakes) |
 | Rubbing alcohol | Isopropyl, 70%+ | 1 bottle |
 | Clean cloth | Lint-free | 2-3 pieces |
-| Stainless steel screws (optional) | Small, 8-10mm | ~40 pieces |
+| Stainless steel screws (optional) | Small, 8-10mm | ~30 pieces |
 | Screwdriver or drill (optional) | For securing screws | 1 |
 
 ---
 
 ## When to Apply
 
-Apply the copper tape on assembly day, before the beds are filled with soil. All 3 beds are corten steel, so apply before the corten patina develops. The new steel surface is smooth and provides a much better adhesive bond than the rough, textured rust patina that develops over weeks.
+Apply the copper tape on assembly day, before the beds are filled with soil. Both beds are corten steel, so apply before the corten patina develops. The new steel surface is smooth and provides a much better adhesive bond than the rough, textured rust patina that develops over weeks.
 
 If you miss the window and patina has already formed, clean the application area thoroughly with rubbing alcohol and consider using the optional screw reinforcement (Step 6 below).
 
@@ -79,11 +79,10 @@ Use stainless steel screws only. Ordinary steel screws will rust and stain both 
 
 | Bed | Dimensions (cm) | Perimeter (cm) | Tape Needed (m) |
 |-----|-----------------|-----------------|------------------|
-| Bed A | 120 x 60 | 2 x (120 + 60) = 360 | 3.6 |
-| Bed B | 230 x 80 | 2 x (230 + 80) = 620 | 6.2 |
-| Bed C | 150 x 40 | 2 x (150 + 40) = 380 | 3.8 |
-| **Total** | | | **13.6** |
+| Bed A | 230 x 120 | 2 x (230 + 120) = 700 | 7.0 |
+| Bed B | 150 x 60 | 2 x (150 + 60) = 420 | 4.2 |
+| **Total** | | | **11.2** |
 
-**With overlap allowance (2cm per bed x 3 beds = 6cm):** 13.66m minimum.
+**With overlap allowance (2cm per bed x 2 beds = 4cm):** 11.24m minimum.
 
-**Recommendation:** Purchase two 25m rolls (50m total). This provides ample supply with margin for mistakes, corner waste, and future replacement strips.
+**Recommendation:** Purchase one 25m roll. This provides ample supply with margin for mistakes, corner waste, and future replacement strips.

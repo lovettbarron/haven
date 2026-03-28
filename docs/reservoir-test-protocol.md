@@ -12,9 +12,9 @@ This test confirms that the self-watering reservoir sustains plants for 5+ conse
 
 ## Which Bed to Test
 
-Test the **south zone of Bed B** -- this is the only bed with a reservoir. The south zone (L=0 to L=100cm) contains the warm crops (cucumbers, tomato, pepper, basil, dill, borage, bush beans) with high water demand.
+Test the **south zone of Bed A** -- this is the only bed with a reservoir. The south zone (L=0 to L=120cm, spanning the full 120cm width) contains the warm crops (cucumbers, tomato, pepper, basil, dill, borage, bush beans) with high water demand.
 
-All other beds (Bed A, Bed B north zone, Bed C) rely on mulch plus neighbor watering and do not need this test.
+Bed B and the non-reservoir zones of Bed A (middle and north zones) rely on mulch plus neighbor watering and do not need this test.
 
 ---
 
@@ -22,7 +22,7 @@ All other beds (Bed A, Bed B north zone, Bed C) rely on mulch plus neighbor wate
 
 1. **Fill the reservoir completely** via the fill tube. Pour water until it flows from the overflow hole. Note the date and time.
 2. **Top-water the bed once** to saturate the full soil column (replicates what you would do on departure day).
-3. **Stop all manual watering** for the south zone of Bed B. Do not water it again for 5 days.
+3. **Stop all manual watering** for the south zone of Bed A. Do not water it again for 5 days.
 4. **Each morning for 5 consecutive days**, the child does the finger test:
    - Push a finger into the soil at the bed edge, 5-10cm deep
    - Report: **surface** (top 2-3cm) -- dry or damp?
@@ -44,7 +44,7 @@ Root depth goes **dry** on any day before Day 5. Note which day it dried out -- 
 
 Print one copy. Fill in during the test.
 
-**Bed:** B (south zone)
+**Bed:** A (south zone)
 **Start date:** ___
 **Reservoir filled:** ___ (time)
 **Last manual watering:** ___ (date/time)
@@ -66,8 +66,8 @@ Print one copy. Fill in during the test.
 
 Do not add new hardware. Instead:
 
-- **Increase neighbor visit frequency** to every 2-3 days for Bed B (instead of every 3 days)
-- **Note the failure in the neighbor guide** so the neighbor knows Bed B south zone needs priority watering
+- **Increase neighbor visit frequency** to every 2-3 days for Bed A (instead of every 3 days)
+- **Note the failure in the neighbor guide** so the neighbor knows Bed A south zone needs priority watering
 - If the reservoir sustained 3-4 days, the combination of reservoir + neighbor visits every 2-3 days provides adequate coverage
 
 ---
