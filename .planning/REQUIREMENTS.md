@@ -97,6 +97,57 @@
 - [x] **VACN-03**: Pre-vacation harvest protocol (pick everything showing color)
 - [x] **VACN-04**: Neighbor guide delivered as printable document with photos, per-bed instructions, and emergency contacts
 
+## v1.1 Requirements
+
+Requirements for gap closure and operational readiness. Each maps to roadmap phases 7-12.
+
+### Data Consistency
+
+- [ ] **DFIX-01**: All Phase 1 docs (bed-layout, setup-guide, reservoir-build) use canonical Bed A-E naming with clear mapping from original Bed 1-5
+- [ ] **DFIX-02**: CLAUDE.md bed assignment table matches actual Phase 2+ planting grid assignments
+- [ ] **DFIX-03**: Bed JSON feature arrays correctly reflect which beds have reservoirs after Phase 2 remapping
+- [ ] **DFIX-04**: HA alert rule messages reference correct crops per bed (fix Bed E tomato references)
+- [ ] **DFIX-05**: Vacation countdown script references correct reservoir beds
+- [ ] **DFIX-06**: Missing dill.json crop file created with proper schema fields
+- [ ] **DFIX-07**: Radish crop JSON beds array includes bed-e or documents why it is excluded
+- [ ] **DFIX-08**: Weekly schedule sowing tasks audited against Phase 3 grid maps for stopped succession slots
+
+### Child Engagement
+
+- [ ] **CENG-01**: Printable daily routine card exists for the child's 5-minute garden check (visual, child-facing)
+- [ ] **CENG-02**: Structured between-session activities for W19-W20 gap (sunflower check, germination watch, sensory walk)
+- [ ] **CENG-03**: Weekly garden walk checklist with 3-5 recurring quick activities
+- [ ] **CENG-04**: Simple photo log approach documented (low friction, one photo per visit)
+
+### Operational Readiness
+
+- [ ] **OPRD-01**: Spring planting shopping list covering all Phase 2 plant purchases (plugs, canes, herbs, seedlings)
+- [ ] **OPRD-02**: Purchase priority ordering added to shopping lists (lead times, what to order first)
+- [ ] **OPRD-03**: Tool inventory section covering all required tools across build and planting days
+- [ ] **OPRD-04**: PROJECT.md budget constraint updated to reflect actual ~10,000 DKK cost
+
+### HA Integration
+
+- [ ] **HAIG-01**: Step-by-step HA setup walkthrough for configuring sensors, plant monitors, and alerts
+- [ ] **HAIG-02**: Basic Lovelace dashboard YAML showing per-bed moisture and temperature cards
+- [ ] **HAIG-03**: Alert rule notification target documented as requiring user-specific configuration
+
+### Season 2 Preparation
+
+- [ ] **SSN2-01**: End-of-season cleanup guide (W44-W46) covering plant removal, composting, reservoir draining
+- [ ] **SSN2-02**: Perennial management notes for strawberry crowns, raspberry canes, and herb plants
+- [ ] **SSN2-03**: Year 2 soil refresh documentation (when and how to amend raised bed soil)
+- [ ] **SSN2-04**: Season review template for capturing lessons learned
+- [ ] **SSN2-05**: Crop failure recovery section added to troubleshooting guide with mid-season replanting windows
+
+### Planning Maintenance
+
+- [ ] **PMNT-01**: All 15 v1.0 plan checkboxes in ROADMAP.md updated to checked
+- [ ] **PMNT-02**: PROJECT.md Key Decisions outcomes updated from Pending to actual results
+- [ ] **PMNT-03**: REQUIREMENTS.md DOCS-04 and COOK-02 traceability statuses corrected
+- [ ] **PMNT-04**: Vacation week schedule files flag neighbor override for child-assigned tasks
+- [ ] **PMNT-05**: W40 schedule includes garlic planting hero task per garlic-autumn-plan.md
+
 ## v2 Requirements
 
 ### Season 2 Crops
@@ -209,4 +260,4 @@
 
 ---
 *Requirements defined: 2026-03-26*
-*Last updated: 2026-03-26 after roadmap creation*
+*Last updated: 2026-03-28 after v1.1 milestone requirements*
