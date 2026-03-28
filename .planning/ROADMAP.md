@@ -12,6 +12,9 @@ This roadmap delivers a complete backyard learning garden for a 7-year-old in Ve
 
 Decimal phases appear between their surrounding integers in numeric order.
 
+<details>
+<summary>v1.0 Foundation Season (Phases 1-6) -- Complete 2026-03-28</summary>
+
 - [x] **Phase 1: Bed Infrastructure** - Order, build, and fill 5 raised beds with soil, drainage, and slug defense (completed 2026-03-26)
 - [ ] **Phase 2: Spring Planting** - Plant all cold-hardy crops, perennials, edible flowers, and sensory plants (W16-W18)
 - [ ] **Phase 3: Warm Season Planting** - Transplant frost-tender seedlings and complete companion planting layouts (W21-W22)
@@ -19,7 +22,21 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 5: Documentation and Guides** - Property visualization, troubleshooting guide, difficulty tiers, and project CLAUDE.md (completed 2026-03-27)
 - [ ] **Phase 6: Vacation Preparation** - Test reservoirs, mulch beds, finalize neighbor guide, execute pre-departure protocol
 
+</details>
+
+### v1.1 Gap Closure and Operational Readiness (Phases 7-12)
+
+- [ ] **Phase 7: Data Consistency and Identity Fix** - Resolve bed naming discrepancy (1-5 vs A-E) and fix all cross-reference inconsistencies across docs and data
+- [ ] **Phase 8: Child Engagement Bridge** - Create daily routine card and between-session activities so the child can independently engage with the garden
+- [ ] **Phase 9: Operational Readiness** - Spring planting shopping list, purchase prioritization, and tool inventory for build and planting days
+- [ ] **Phase 10: Home Assistant Setup** - Step-by-step HA configuration walkthrough and basic Lovelace dashboard for sensor deployment
+- [ ] **Phase 11: Season 2 Preparation** - End-of-season cleanup, perennial management, soil refresh, and crop failure recovery documentation
+- [ ] **Phase 12: Planning Artifact Maintenance** - Update stale checkboxes, statuses, and metadata across ROADMAP.md, PROJECT.md, and REQUIREMENTS.md
+
 ## Phase Details
+
+<details>
+<summary>v1.0 Foundation Season (Phases 1-6)</summary>
 
 ### Phase 1: Bed Infrastructure
 **Goal**: Five raised beds are physically in place, filled with layered soil, and ready to receive plants
@@ -34,9 +51,9 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans:** 3/3 plans complete
 
 Plans:
-- [ ] 01-01-PLAN.md — Shopping list (dual-priced) and bed layout with placement diagrams
-- [ ] 01-02-PLAN.md — Soil layers, slug defense, reservoir build, and trellis build guides
-- [ ] 01-03-PLAN.md — Master setup guide sequencing all construction + user review checkpoint
+- [x] 01-01-PLAN.md -- Shopping list (dual-priced) and bed layout with placement diagrams
+- [x] 01-02-PLAN.md -- Soil layers, slug defense, reservoir build, and trellis build guides
+- [x] 01-03-PLAN.md -- Master setup guide sequencing all construction + user review checkpoint
 
 ### Phase 2: Spring Planting
 **Goal**: All cold-hardy crops, perennials, edible flowers, sensory plants, and creature habitats are in the ground and the child has experienced his first planting sessions
@@ -48,11 +65,11 @@ Plans:
   3. Calendula, borage, viola, and chive divisions are planted for edible flowers
   4. Sensory plants (lamb's ear, lemon balm, thyme) are at bed edges where the child can touch and smell them
   5. A bed-by-bed planting layout document exists showing exactly which plant goes where with spacing
-**Plans:** 2 plans
+**Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 02-01-PLAN.md — Bed-by-bed planting grid maps (5 beds) with exact cm positions, companion planting, and succession slots
-- [ ] 02-02-PLAN.md — Planting day session script (W16-W18) and bug hotel / pollinator water station guide
+- [x] 02-01-PLAN.md -- Bed-by-bed planting grid maps (5 beds) with exact cm positions, companion planting, and succession slots
+- [x] 02-02-PLAN.md -- Planting day session script (W16-W18) and bug hotel / pollinator water station guide
 
 ### Phase 3: Warm Season Planting
 **Goal**: All frost-tender crops are transplanted after May 20, completing the garden's full planting plan and starting the continuous harvest engine
@@ -64,11 +81,11 @@ Plans:
   3. Nasturtiums are trailing from bed edges and positioned as aphid trap crops near the creature observation zone
   4. Basil, mint (potted), bush beans, leeks, and broccoli are planted in their designated positions
   5. Borage and dill are positioned to attract bees and beneficial insects, with a pollinator water dish nearby
-**Plans:** 2 plans
+**Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 03-01-PLAN.md — Updated grid maps (Beds A, C, D, E) with warm-season crop positions and shopping list
-- [ ] 03-02-PLAN.md — Session 1 (W18 direct-sow) and Session 2 (W21 transplant) scripts with pea harvest party
+- [x] 03-01-PLAN.md -- Updated grid maps (Beds A, C, D, E) with warm-season crop positions and shopping list
+- [x] 03-02-PLAN.md -- Session 1 (W18 direct-sow) and Session 2 (W21 transplant) scripts with pea harvest party
 
 ### Phase 4: Data System and Schedules
 **Goal**: A structured JSON data system covers every planted crop, every week of the season, and the Home Assistant integration schema -- ready for IoT sensors in season 2
@@ -83,9 +100,9 @@ Plans:
 **Plans:** 3/3 plans complete
 
 Plans:
-- [ ] 04-01-PLAN.md — Crop JSON database (27 files) with schemas and bed mapping files
-- [ ] 04-02-PLAN.md — Weekly schedules (W15-W44) and succession calendar with harvest gap analysis
-- [ ] 04-03-PLAN.md — Home Assistant entity schemas and sensor hardware recommendations
+- [x] 04-01-PLAN.md -- Crop JSON database (27 files) with schemas and bed mapping files
+- [x] 04-02-PLAN.md -- Weekly schedules (W15-W44) and succession calendar with harvest gap analysis
+- [x] 04-03-PLAN.md -- Home Assistant entity schemas and sensor hardware recommendations
 
 ### Phase 5: Documentation and Guides
 **Goal**: Father and son have reference documents for every garden situation -- what to do when something goes wrong, which crops are easy vs hard, what the garden looks like from above, and a project file for Claude continuity
@@ -100,9 +117,9 @@ Plans:
 **Plans:** 3/3 plans complete
 
 Plans:
-- [ ] 05-01-PLAN.md — Property visualization (ASCII) and CLAUDE.md project continuity file
-- [ ] 05-02-PLAN.md — Troubleshooting guide (symptom-based) and difficulty-tiered crop classification
-- [ ] 05-03-PLAN.md — Neighbor vacation guide and garlic autumn planting documentation
+- [x] 05-01-PLAN.md -- Property visualization (ASCII) and CLAUDE.md project continuity file
+- [x] 05-02-PLAN.md -- Troubleshooting guide (symptom-based) and difficulty-tiered crop classification
+- [x] 05-03-PLAN.md -- Neighbor vacation guide and garlic autumn planting documentation
 
 ### Phase 6: Vacation Preparation
 **Goal**: The garden survives 2-3 weeks of family absence in July-August with zero crop loss, and a neighbor can maintain it using a printed guide
@@ -116,20 +133,96 @@ Plans:
 **Plans:** 2 plans
 
 Plans:
-- [ ] 06-01-PLAN.md — Reservoir test protocol and per-bed mulching guide
-- [ ] 06-02-PLAN.md — 3-day pre-departure countdown script, printable checklist, and JSON data
+- [ ] 06-01-PLAN.md -- Reservoir test protocol and per-bed mulching guide
+- [ ] 06-02-PLAN.md -- 3-day pre-departure countdown script, printable checklist, and JSON data
+
+</details>
+
+### Phase 7: Data Consistency and Identity Fix
+**Goal**: Every document, data file, and automation rule references beds by their canonical A-E names with correct crop assignments, so build day instructions match actual planting plans
+**Depends on**: Phase 6 (v1.0 milestone); no v1.1 internal dependencies
+**Requirements**: DFIX-01, DFIX-02, DFIX-03, DFIX-04, DFIX-05, DFIX-06, DFIX-07, DFIX-08
+**Success Criteria** (what must be TRUE):
+  1. Phase 1 docs (bed-layout, setup-guide, reservoir-build) use Bed A-E naming with a clear mapping table from the original Bed 1-5
+  2. CLAUDE.md bed assignment table matches the Phase 2+ planting grid assignments (Bed A = strawberry/sensory, Bed B = raspberry, Bed C = warm crops)
+  3. Bed JSON feature arrays and HA alert messages reference the correct crops per bed (no tomato references in Bed E, correct reservoir beds)
+  4. Weekly schedule sowing tasks align with Phase 3 grid maps -- stopped succession slots have no future sowing tasks
+  5. A dill.json crop file exists with proper schema fields, and the radish crop JSON correctly documents its bed assignments
+**Plans**: TBD
+
+### Phase 8: Child Engagement Bridge
+**Goal**: The child has a simple visual daily routine and structured between-session activities that let him independently engage with the garden every day, not just on planting event days
+**Depends on**: Phase 7 (needs correct bed names for routine card)
+**Requirements**: CENG-01, CENG-02, CENG-03, CENG-04
+**Success Criteria** (what must be TRUE):
+  1. A printable daily routine card exists with a visual 5-minute checklist the child can follow without reading (check beds, water, pick, measure)
+  2. Structured activities exist for the W19-W20 gap between planting sessions (sunflower check, germination watch, sensory walk)
+  3. A weekly garden walk checklist provides 3-5 recurring quick activities that take 5-10 minutes
+  4. A simple photo log approach is documented (one photo per visit, shared album, low friction)
+**Plans**: TBD
+
+### Phase 9: Operational Readiness
+**Goal**: The father can execute build day and planting day without re-consulting Claude -- he knows what to buy, in what order, and has a complete tool list
+**Depends on**: Phase 7 (needs correct bed/crop assignments for shopping list accuracy)
+**Requirements**: OPRD-01, OPRD-02, OPRD-03, OPRD-04
+**Success Criteria** (what must be TRUE):
+  1. A spring planting shopping list covers all Phase 2 plant purchases (strawberry plugs, raspberry canes, herb plants, viola seedlings) with specific varieties and quantities
+  2. Purchase priority ordering exists across all shopping lists showing what to order first based on lead times
+  3. A tool inventory section lists every required tool across build day and planting days
+  4. PROJECT.md budget constraint reflects the actual ~10,000 DKK cost with documented rationale for the increase
+**Plans**: TBD
+
+### Phase 10: Home Assistant Setup
+**Goal**: A father with Home Assistant running can configure sensors, plant monitors, and alerts using a step-by-step walkthrough and see bed status on a dashboard
+**Depends on**: Phase 7 (needs correct bed/crop references in HA schemas)
+**Requirements**: HAIG-01, HAIG-02, HAIG-03
+**Success Criteria** (what must be TRUE):
+  1. A setup walkthrough guides the user through configuring HA sensors, Plant Monitor entities, and alert automations using the prepared JSON/YAML
+  2. A basic Lovelace dashboard YAML shows per-bed moisture and temperature cards that can be pasted into HA
+  3. Alert rule notification targets are documented as requiring user-specific configuration with instructions for finding the correct service name
+**Plans**: TBD
+
+### Phase 11: Season 2 Preparation
+**Goal**: Documentation exists for everything that happens after the growing season ends -- cleanup, perennial care, soil refresh, and lessons learned -- so the family is not stranded at W44
+**Depends on**: Phases 8, 9 (engagement and operational docs should be complete first); can execute any time before W44
+**Requirements**: SSN2-01, SSN2-02, SSN2-03, SSN2-04, SSN2-05
+**Success Criteria** (what must be TRUE):
+  1. An end-of-season cleanup guide covers W44-W46 tasks: plant removal, composting, reservoir draining, tool storage
+  2. Perennial management notes exist for strawberry crowns, raspberry canes, and herb plants (what to cut, what to protect, when)
+  3. Year 2 soil refresh documentation explains when and how to amend raised bed soil (compost vs fresh hojbedsmuld, timing)
+  4. A season review template captures what worked, what failed, crop-by-crop assessment, and child engagement observations
+  5. A crop failure recovery section in the troubleshooting guide documents mid-season replanting windows and replacement options
+**Plans**: TBD
+
+### Phase 12: Planning Artifact Maintenance
+**Goal**: All planning files accurately reflect project state -- no stale checkboxes, outdated statuses, or missing traceability entries
+**Depends on**: Phase 7 (identity fixes must land first so statuses are correct)
+**Requirements**: PMNT-01, PMNT-02, PMNT-03, PMNT-04, PMNT-05
+**Success Criteria** (what must be TRUE):
+  1. All 15 v1.0 plan checkboxes in ROADMAP.md are checked to match actual completion status
+  2. PROJECT.md Key Decisions outcomes are updated from Pending to actual results
+  3. REQUIREMENTS.md DOCS-04 and COOK-02 traceability statuses are corrected to reflect deliverable state
+  4. Vacation week schedule files (W30-W33) flag neighbor override for child-assigned tasks
+  5. W40 schedule includes garlic planting hero task per garlic-autumn-plan.md
+**Plans**: TBD
 
 ## Progress
 
 **Execution Order:**
-Phases execute in numeric order: 1 -> 2 -> 3 -> 4 -> 5 -> 6
-Note: Phase 4 (Data) and Phase 5 (Docs) can run in parallel with physical planting phases.
+- v1.0: 1 -> 2 -> 3 -> 4 -> 5 -> 6 (4 and 5 ran parallel with physical planting)
+- v1.1: 7 -> 8 -> 9 -> 10 -> 11 -> 12 (7-9 before W16; 10 in-season; 11 before W44; 12 any time)
 
-| Phase | Plans Complete | Status | Completed |
-|-------|----------------|--------|-----------|
-| 1. Bed Infrastructure | 3/3 | Complete   | 2026-03-26 |
-| 2. Spring Planting | 0/2 | Planned | - |
-| 3. Warm Season Planting | 0/2 | Planned | - |
-| 4. Data System and Schedules | 3/3 | Complete   | 2026-03-27 |
-| 5. Documentation and Guides | 3/3 | Complete   | 2026-03-27 |
-| 6. Vacation Preparation | 0/2 | Planned | - |
+| Phase | Milestone | Plans Complete | Status | Completed |
+|-------|-----------|----------------|--------|-----------|
+| 1. Bed Infrastructure | v1.0 | 3/3 | Complete | 2026-03-26 |
+| 2. Spring Planting | v1.0 | 2/2 | Complete | 2026-03-27 |
+| 3. Warm Season Planting | v1.0 | 2/2 | Complete | 2026-03-27 |
+| 4. Data System and Schedules | v1.0 | 3/3 | Complete | 2026-03-27 |
+| 5. Documentation and Guides | v1.0 | 3/3 | Complete | 2026-03-27 |
+| 6. Vacation Preparation | v1.0 | 2/2 | Complete | 2026-03-28 |
+| 7. Data Consistency and Identity Fix | v1.1 | 0/? | Not started | - |
+| 8. Child Engagement Bridge | v1.1 | 0/? | Not started | - |
+| 9. Operational Readiness | v1.1 | 0/? | Not started | - |
+| 10. Home Assistant Setup | v1.1 | 0/? | Not started | - |
+| 11. Season 2 Preparation | v1.1 | 0/? | Not started | - |
+| 12. Planning Artifact Maintenance | v1.1 | 0/? | Not started | - |

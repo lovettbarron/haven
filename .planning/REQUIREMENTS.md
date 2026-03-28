@@ -186,6 +186,8 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 
 ## Traceability
 
+### v1.0
+
 | Requirement | Phase | Status |
 |-------------|-------|--------|
 | INFRA-01 | Phase 1 | Complete |
@@ -248,16 +250,60 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 | VACN-03 | Phase 6 | Complete |
 | VACN-04 | Phase 6 | Complete |
 
-**Coverage:**
-- v1 requirements: 59 total
+**v1.0 Coverage:**
+- v1.0 requirements: 59 total
 - Mapped to phases: 59
 - Unmapped: 0
 
-**Notes:**
+**v1.0 Notes:**
 - DOCS-06 and INFRA-07 overlap (both are shopping lists with pricing). Both mapped to Phase 1; DOCS-06 will be satisfied by the same deliverable as INFRA-07.
 - INFRA-05 (build reservoirs) and VACN-01 (test reservoirs) are complementary -- build in Phase 1, verify in Phase 6.
 - COOK-02 (garlic) is an October 2026 planting; mapped to Phase 5 as documentation of the autumn plan.
 
+### v1.1
+
+| Requirement | Phase | Status |
+|-------------|-------|--------|
+| DFIX-01 | Phase 7 | Pending |
+| DFIX-02 | Phase 7 | Pending |
+| DFIX-03 | Phase 7 | Pending |
+| DFIX-04 | Phase 7 | Pending |
+| DFIX-05 | Phase 7 | Pending |
+| DFIX-06 | Phase 7 | Pending |
+| DFIX-07 | Phase 7 | Pending |
+| DFIX-08 | Phase 7 | Pending |
+| CENG-01 | Phase 8 | Pending |
+| CENG-02 | Phase 8 | Pending |
+| CENG-03 | Phase 8 | Pending |
+| CENG-04 | Phase 8 | Pending |
+| OPRD-01 | Phase 9 | Pending |
+| OPRD-02 | Phase 9 | Pending |
+| OPRD-03 | Phase 9 | Pending |
+| OPRD-04 | Phase 9 | Pending |
+| HAIG-01 | Phase 10 | Pending |
+| HAIG-02 | Phase 10 | Pending |
+| HAIG-03 | Phase 10 | Pending |
+| SSN2-01 | Phase 11 | Pending |
+| SSN2-02 | Phase 11 | Pending |
+| SSN2-03 | Phase 11 | Pending |
+| SSN2-04 | Phase 11 | Pending |
+| SSN2-05 | Phase 11 | Pending |
+| PMNT-01 | Phase 12 | Pending |
+| PMNT-02 | Phase 12 | Pending |
+| PMNT-03 | Phase 12 | Pending |
+| PMNT-04 | Phase 12 | Pending |
+| PMNT-05 | Phase 12 | Pending |
+
+**v1.1 Coverage:**
+- v1.1 requirements: 29 total
+- Mapped to phases: 29
+- Unmapped: 0
+
+**v1.1 Notes:**
+- DFIX requirements address gap analysis findings 1.1-1.5, 3.3, 10.1, 11.4
+- PMNT-01 overlaps with the v1.0 ROADMAP.md plan checkboxes -- updates the same file
+- PMNT-03 resolves the DOCS-04 and COOK-02 status discrepancies noted in v1.0 traceability
+
 ---
 *Requirements defined: 2026-03-26*
-*Last updated: 2026-03-28 after v1.1 milestone requirements*
+*Last updated: 2026-03-27 after v1.1 roadmap creation*
