@@ -27,7 +27,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 ### v1.1 Gap Closure and Operational Readiness (Phases 7-12)
 
 - [x] **Phase 7: Data Consistency and Identity Fix** - Resolve bed naming discrepancy (1-5 vs A-E) and fix all cross-reference inconsistencies across docs and data (completed 2026-03-28)
-- [ ] **Phase 8: Child Engagement Bridge** - Create daily routine card and between-session activities so the child can independently engage with the garden
+- [x] **Phase 8: Child Engagement Bridge** - Create daily routine card and between-session activities so the child can independently engage with the garden (completed 2026-03-28)
 - [ ] **Phase 9: Operational Readiness** - Spring planting shopping list, purchase prioritization, and tool inventory for build and planting days
 - [ ] **Phase 10: Home Assistant Setup** - Step-by-step HA configuration walkthrough and basic Lovelace dashboard for sensor deployment
 - [ ] **Phase 11: Season 2 Preparation** - End-of-season cleanup, perennial management, soil refresh, and crop failure recovery documentation
@@ -163,7 +163,7 @@ Plans:
   2. Structured activities exist for the W19-W20 gap between planting sessions (sunflower check, germination watch, sensory walk)
   3. A weekly garden walk checklist provides 3-5 recurring quick activities that take 5-10 minutes
   4. A simple photo log approach is documented (one photo per visit, shared album, low friction)
-**Plans:** 2 plans
+**Plans:** 2/2 plans complete
 
 Plans:
 - [ ] 08-01-PLAN.md -- Daily routine card (5-min visual checklist) and weekly garden walk checklist (3-5 activities)
@@ -232,7 +232,7 @@ Plans:
 | 5. Documentation and Guides | v1.0 | 3/3 | Complete | 2026-03-27 |
 | 6. Vacation Preparation | v1.0 | 2/2 | Complete | 2026-03-28 |
 | 7. Data Consistency and Identity Fix | 2/2 | Complete   | 2026-03-28 | - |
-| 8. Child Engagement Bridge | v1.1 | 0/2 | Not started | - |
+| 8. Child Engagement Bridge | 2/2 | Complete   | 2026-03-28 | - |
 | 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
 | 10. Home Assistant Setup | v1.1 | 0/? | Not started | - |
 | 11. Season 2 Preparation | v1.1 | 0/? | Not started | - |

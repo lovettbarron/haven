@@ -85,6 +85,11 @@ None - no external service configuration required.
 - Between-session activities complete; combined with 08-01 (daily routine card and weekly garden walk), Phase 8 child engagement bridge is fully documented
 - Ready for Phase 9 operational readiness
 
+## Self-Check: PASSED
+
+- FOUND: docs/between-session-activities.md
+- FOUND: commit 213de89
+
 ---
 *Phase: 08-child-engagement-bridge*
 *Completed: 2026-03-28*
