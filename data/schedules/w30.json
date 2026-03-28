@@ -77,12 +77,6 @@
       "bed": "bed-c",
       "slot": "S1",
       "action": "Sow eighth succession radish in Bed C"
-    },
-    {
-      "crop_id": "lettuce-baby-mix",
-      "bed": "bed-e",
-      "slot": "S1",
-      "action": "Sow sixth (final) succession lettuce in Bed E"
     }
   ]
 }

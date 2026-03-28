@@ -66,7 +66,8 @@
       "crop_id": "lettuce-baby-mix",
       "bed": "bed-e",
       "slot": "S1",
-      "action": "Sow second succession lettuce in Bed E"
+      "action": "Sow second succession lettuce in Bed E",
+      "note": "Last valid Bed E lettuce sowing -- Bed E transitions to warm-season crops from W20-W21."
     }
   ]
 }

@@ -73,12 +73,5 @@
       "prompt": { "en": "See the round leaves like little lily pads? The flowers are coming soon!", "da": "Ser du de runde blade som smaa aakandeblade? Blomsterne kommer snart!" }
     }
   ],
-  "sowing_tasks": [
-    {
-      "crop_id": "lettuce-baby-mix",
-      "bed": "bed-e",
-      "slot": "S1",
-      "action": "Sow fourth succession lettuce in Bed E"
-    }
-  ]
+  "sowing_tasks": []
 }
