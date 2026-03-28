@@ -206,7 +206,11 @@ Plans:
   3. Year 2 soil refresh documentation explains when and how to amend raised bed soil (compost vs fresh hojbedsmuld, timing)
   4. A season review template captures what worked, what failed, crop-by-crop assessment, and child engagement observations
   5. A crop failure recovery section in the troubleshooting guide documents mid-season replanting windows and replacement options
-**Plans**: TBD
+**Plans:** 2 plans
+
+Plans:
+- [ ] 11-01-PLAN.md -- End-of-season countdown guide, perennial care, and soil refresh documentation
+- [ ] 11-02-PLAN.md -- Season review template (markdown + JSON schema) and crop failure recovery in troubleshooting guide
 
 ### Phase 12: Planning Artifact Maintenance
 **Goal**: All planning files accurately reflect project state -- no stale checkboxes, outdated statuses, or missing traceability entries
@@ -238,5 +242,5 @@ Plans:
 | 8. Child Engagement Bridge | 2/2 | Complete   | 2026-03-28 | - |
 | 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
 | 10. Home Assistant Setup | 1/1 | Complete    | 2026-03-28 | - |
-| 11. Season 2 Preparation | v1.1 | 0/? | Not started | - |
+| 11. Season 2 Preparation | v1.1 | 0/2 | Not started | - |
 | 12. Planning Artifact Maintenance | v1.1 | 0/? | Not started | - |
