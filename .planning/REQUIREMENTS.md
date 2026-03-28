@@ -105,12 +105,12 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 
 - [ ] **DFIX-01**: All Phase 1 docs (bed-layout, setup-guide, reservoir-build) use canonical Bed A-E naming with clear mapping from original Bed 1-5
 - [ ] **DFIX-02**: CLAUDE.md bed assignment table matches actual Phase 2+ planting grid assignments
-- [ ] **DFIX-03**: Bed JSON feature arrays correctly reflect which beds have reservoirs after Phase 2 remapping
-- [ ] **DFIX-04**: HA alert rule messages reference correct crops per bed (fix Bed E tomato references)
+- [x] **DFIX-03**: Bed JSON feature arrays correctly reflect which beds have reservoirs after Phase 2 remapping
+- [x] **DFIX-04**: HA alert rule messages reference correct crops per bed (fix Bed E tomato references)
 - [ ] **DFIX-05**: Vacation countdown script references correct reservoir beds
-- [ ] **DFIX-06**: Missing dill.json crop file created with proper schema fields
-- [ ] **DFIX-07**: Radish crop JSON beds array includes bed-e or documents why it is excluded
-- [ ] **DFIX-08**: Weekly schedule sowing tasks audited against Phase 3 grid maps for stopped succession slots
+- [x] **DFIX-06**: Missing dill.json crop file created with proper schema fields
+- [x] **DFIX-07**: Radish crop JSON beds array includes bed-e or documents why it is excluded
+- [x] **DFIX-08**: Weekly schedule sowing tasks audited against Phase 3 grid maps for stopped succession slots
 
 ### Child Engagement
 
@@ -266,12 +266,12 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 |-------------|-------|--------|
 | DFIX-01 | Phase 7 | Pending |
 | DFIX-02 | Phase 7 | Pending |
-| DFIX-03 | Phase 7 | Pending |
-| DFIX-04 | Phase 7 | Pending |
+| DFIX-03 | Phase 7 | Complete |
+| DFIX-04 | Phase 7 | Complete |
 | DFIX-05 | Phase 7 | Pending |
-| DFIX-06 | Phase 7 | Pending |
-| DFIX-07 | Phase 7 | Pending |
-| DFIX-08 | Phase 7 | Pending |
+| DFIX-06 | Phase 7 | Complete |
+| DFIX-07 | Phase 7 | Complete |
+| DFIX-08 | Phase 7 | Complete |
 | CENG-01 | Phase 8 | Pending |
 | CENG-02 | Phase 8 | Pending |
 | CENG-03 | Phase 8 | Pending |
