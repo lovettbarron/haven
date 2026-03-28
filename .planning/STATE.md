@@ -76,6 +76,9 @@ Recent decisions affecting current work:
 - [07-02]: Tumbling Tom kept as crop file with beds=[] (pot-only backup) rather than deleted
 - [07-02]: bed_notes field used for documenting exclusion rationale on crop files
 - [Phase 08]: Combined CENG-02 and CENG-04 into single between-session-activities.md document
+- [08-01]: Danish cues are father-spoken prompts, not child-readable text
+- [08-01]: No checkboxes on daily card -- walk-through routine, not a form
+- [08-01]: Weekly walk uses pick-2-of-4 model for child choice and agency
 
 ### Pending Todos
 
