@@ -163,7 +163,11 @@ Plans:
   2. Structured activities exist for the W19-W20 gap between planting sessions (sunflower check, germination watch, sensory walk)
   3. A weekly garden walk checklist provides 3-5 recurring quick activities that take 5-10 minutes
   4. A simple photo log approach is documented (one photo per visit, shared album, low friction)
-**Plans**: TBD
+**Plans:** 2 plans
+
+Plans:
+- [ ] 08-01-PLAN.md -- Daily routine card (5-min visual checklist) and weekly garden walk checklist (3-5 activities)
+- [ ] 08-02-PLAN.md -- Between-session gap activities (W19-W20 treasure hunts) and photo log approach
 
 ### Phase 9: Operational Readiness
 **Goal**: The father can execute build day and planting day without re-consulting Claude -- he knows what to buy, in what order, and has a complete tool list
@@ -225,7 +229,7 @@ Plans:
 | 5. Documentation and Guides | v1.0 | 3/3 | Complete | 2026-03-27 |
 | 6. Vacation Preparation | v1.0 | 2/2 | Complete | 2026-03-28 |
 | 7. Data Consistency and Identity Fix | 2/2 | Complete   | 2026-03-28 | - |
-| 8. Child Engagement Bridge | v1.1 | 0/? | Not started | - |
+| 8. Child Engagement Bridge | v1.1 | 0/2 | Not started | - |
 | 9. Operational Readiness | v1.1 | 0/? | Not started | - |
 | 10. Home Assistant Setup | v1.1 | 0/? | Not started | - |
 | 11. Season 2 Preparation | v1.1 | 0/? | Not started | - |
