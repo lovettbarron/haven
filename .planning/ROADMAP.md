@@ -191,7 +191,10 @@ Plans:
   1. A setup walkthrough guides the user through configuring HA sensors, Plant Monitor entities, and alert automations using the prepared JSON/YAML
   2. A basic Lovelace dashboard YAML shows per-bed moisture and temperature cards that can be pasted into HA
   3. Alert rule notification targets are documented as requiring user-specific configuration with instructions for finding the correct service name
-**Plans**: TBD
+**Plans:** 1 plan
+
+Plans:
+- [ ] 10-01-PLAN.md -- HA setup walkthrough with sensors, plant monitors, automations, and Lovelace dashboard
 
 ### Phase 11: Season 2 Preparation
 **Goal**: Documentation exists for everything that happens after the growing season ends -- cleanup, perennial care, soil refresh, and lessons learned -- so the family is not stranded at W44
