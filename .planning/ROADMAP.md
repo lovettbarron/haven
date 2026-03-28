@@ -222,7 +222,11 @@ Plans:
   3. REQUIREMENTS.md DOCS-04 and COOK-02 traceability statuses are corrected to reflect deliverable state
   4. Vacation week schedule files (W30-W33) flag neighbor override for child-assigned tasks
   5. W40 schedule includes garlic planting hero task per garlic-autumn-plan.md
-**Plans**: TBD
+**Plans:** 2 plans
+
+Plans:
+- [ ] 12-01-PLAN.md -- Fix stale checkboxes, decisions, and traceability in ROADMAP, PROJECT, and REQUIREMENTS markdown files
+- [ ] 12-02-PLAN.md -- Add vacation_note to W30-W33 schedule files and align W40 garlic task with docs
 
 ## Progress
 
@@ -243,4 +247,4 @@ Plans:
 | 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
 | 10. Home Assistant Setup | 1/1 | Complete    | 2026-03-28 | - |
 | 11. Season 2 Preparation | 2/2 | Complete    | 2026-03-28 | - |
-| 12. Planning Artifact Maintenance | v1.1 | 0/? | Not started | - |
+| 12. Planning Artifact Maintenance | v1.1 | 0/2 | Not started | - |
