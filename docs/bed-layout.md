@@ -13,12 +13,12 @@ This document shows where each of the 2 raised beds goes in the backyard, with d
 **Orientation:** The house faces west toward the street. The backyard extends east and northeast from the house. A glass stairway on the west side of the house leads down to the backyard.
 
 **Key features:**
-- ~600 m2 total plot, 
+- ~600 m2 total plot
 - Backyard has two distinct ground surfaces: a cobblestone area near the north/back fence and a grass area closer to the house
 - Covered terrace near the house with an outdoor water tap
 - In-ground trampoline to the east/northeast of the grass area
 - Mature trees cluster along the eastern and northern property boundaries, creating afternoon shade on parts of the backyard
-- Roof terrace (~70 m2 above the carport) is available for seating and furniture. No raised beds are placed on the terrace.
+- Roof terrace above the carport is available for seating and furniture. No raised beds are placed on the terrace.
 
 ---
 
@@ -83,7 +83,7 @@ Both beds are positioned on the grass in the backyard, between the cobblestone a
  |   +----------------------------------------------------+       |
  |   |                                                    |       |
  |   |                     HOUSE                          |       |
- |   |                   (~120 m2)                         |       |
+ |   |                                                    |       |
  |   |                                                    |       |
  |   +----------------------------------------------------+       |
  |                                                                 |

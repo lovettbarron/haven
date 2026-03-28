@@ -102,14 +102,14 @@ Mistakes that cause project abandonment, child disengagement, or major rework.
 
 ### Pitfall 5: Roof Terrace Structural Overload
 
-**What goes wrong:** Wet soil weighs approximately 1,200 kg per cubic meter. A 1m x 0.5m x 0.3m raised bed contains 0.15 m3 of soil = ~180 kg when saturated. Place two of those on a roof terrace built decades ago above a carport, and you risk structural damage, cracking, or (worst case) collapse.
+**What goes wrong:** Wet soil weighs approximately 1,200 kg per cubic meter. A 1m x 0.5m x 0.3m raised bed contains 0.15 m3 of soil = ~180 kg when saturated. Place two of those on a roof terrace built in older above a carport, and you risk structural damage, cracking, or (worst case) collapse.
 
 **Why it happens:** People visualize soil as "light, fluffy garden stuff." Wet soil is essentially liquid mud -- dense and heavy. A older carport roof was not designed for distributed static loads of this magnitude.
 
 **Consequences:** Structural damage to the carport. Water damage from drainage. Expensive repairs. Safety hazard.
 
 **Prevention:**
-- Get the roof's load-bearing capacity assessed before placing any beds. This is non-negotiable for an olderstructure.
+- Get the roof's load-bearing capacity assessed before placing any beds. This is non-negotiable for a older structure.
 - Use lightweight soil mixes: perlite, vermiculite, coconut coir instead of standard topsoil. Can reduce weight by 30-50%.
 - Shallower beds on terrace (maximum 20 cm depth). Herbs and strawberries do fine in 15-20 cm.
 - Place beds over structural supports (walls/beams below), never in the center of an unsupported span.

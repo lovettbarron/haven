@@ -11,7 +11,7 @@
 
 ### 1. Raised Beds -- Corten Steel (Primary Recommendation)
 
-Use corten steel. It develops a self-sealing rust patina that stops further corrosion (20+ year lifespan), is food-safe for vegetable growing, and gives the garden a warm architectural look that complements an oldervilla. Danish-made options keep shipping costs down and support local manufacturing.
+Use corten steel. It develops a self-sealing rust patina that stops further corrosion (20+ year lifespan), is food-safe for vegetable growing, and gives the garden a warm architectural look that complements a older villa. Danish-made options keep shipping costs down and support local manufacturing.
 
 | Supplier | Product | Dimensions (cm) | Price (DKK) | Notes |
 |----------|---------|-----------------|-------------|-------|

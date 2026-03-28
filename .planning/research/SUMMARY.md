@@ -11,13 +11,13 @@ Haven is a backyard learning garden in Vejle, Denmark (zone 7b) designed around 
 
 The recommended approach is to prioritize physical beds and planting above all else, given that it is late March and the growing season clock is ticking. Beds must be ordered immediately (week 13), placed and filled by week 15, and first cold-hardy crops in the ground by week 16. Data architecture and IoT sensors are explicitly secondary -- the JSON schemas and HA configuration can be developed in parallel or after planting. Sensors should be deferred to season two as a "level up" moment. The budget reality is that the premium path (corten beds + soil + sensors + tools) exceeds the 5,000 DKK ceiling at 6,500-8,000 DKK. A hybrid approach using corten for visible backyard beds and galvanized steel for the terrace bed, with sensors deferred, lands at approximately 6,200-6,750 DKK.
 
-The critical risks are: (1) the child loses interest in the first two weeks if nothing visible happens (buy seedlings, do not rely on seeds), (2) the 2-3 week summer vacation kills tomato and cucumber beds without self-watering reservoirs and a neighbor care plan, (3) the 1932 roof terrace may not support the weight of wet soil without structural assessment, and (4) Danish slug invasion destroys seedlings overnight without copper tape defenses on bed edges. Each of these is preventable with upfront planning but catastrophic if ignored.
+The critical risks are: (1) the child loses interest in the first two weeks if nothing visible happens (buy seedlings, do not rely on seeds), (2) the 2-3 week summer vacation kills tomato and cucumber beds without self-watering reservoirs and a neighbor care plan, (3) the older roof terrace may not support the weight of wet soil without structural assessment, and (4) Danish slug invasion destroys seedlings overnight without copper tape defenses on bed edges. Each of these is preventable with upfront planning but catastrophic if ignored.
 
 ## Key Findings
 
 ### Recommended Stack
 
-Corten steel raised beds from Danish manufacturers (byJEMA, Gronfeld) form the durable backbone -- 20+ year lifespan, food-safe, aesthetically suited to an oldervilla. Soil is a purchased big bag of hojbedsmuld (1,000L from Grat.dk or HaveHandel.dk, ~1,200 DKK delivered free to Jutland) layered over free garden waste. Zigbee 3.0 soil sensors (Haozee recommended, IP66, confirmed winner of HA community shootout) connect through the family's existing Zigbee network to Home Assistant via Zigbee2MQTT. OpenPlantbook provides species threshold data. A custom JSON schema per crop structures all garden data.
+Corten steel raised beds from Danish manufacturers (byJEMA, Gronfeld) form the durable backbone -- 20+ year lifespan, food-safe, aesthetically suited to a older villa. Soil is a purchased big bag of hojbedsmuld (1,000L from Grat.dk or HaveHandel.dk, ~1,200 DKK delivered free to Jutland) layered over free garden waste. Zigbee 3.0 soil sensors (Haozee recommended, IP66, confirmed winner of HA community shootout) connect through the family's existing Zigbee network to Home Assistant via Zigbee2MQTT. OpenPlantbook provides species threshold data. A custom JSON schema per crop structures all garden data.
 
 **Core technologies:**
 - **Corten steel raised beds (byJEMA CUBY):** 2mm bent corten, Danish-made, 150x80x40cm for backyard -- durable, child-height, food-safe
@@ -68,7 +68,7 @@ The architecture has two distinct halves: physical and data. Physically, the gar
 2. **Sensory landmines (PROJECT KILLER)** -- One slug encounter or slimy texture causes garden aversion. Prevention: gardening gloves as standard "gear," pre-check beds for slugs before child sessions, hand-washing station at garden, remove rotting produce before child sees it.
 3. **Vacation gap kills crops (PROJECT KILLER)** -- Raised beds in full sun dry out in 2-3 days. Tomatoes and cucumbers die during 2-3 week July absence. Prevention: self-watering reservoirs designed into tomato/cucumber beds from construction, thick mulch, neighbor guide as actual project deliverable.
 4. **Danish slug apocalypse (HIGH)** -- Spanish slugs eat all seedlings overnight. Beer traps and eggshells do not work (Aarhus University research). Prevention: copper tape on all bed edges, 40cm smooth-sided metal beds, evening slug patrol as a game.
-5. **Roof terrace structural overload (SAFETY CRITICAL)** -- Wet soil at 1,200 kg/m3 on an oldercarport roof. Prevention: structural assessment mandatory before any terrace beds, shallow beds (max 20-25cm), lightweight soil mix with perlite, beds positioned over structural supports only.
+5. **Roof terrace structural overload (SAFETY CRITICAL)** -- Wet soil at 1,200 kg/m3 on a older carport roof. Prevention: structural assessment mandatory before any terrace beds, shallow beds (max 20-25cm), lightweight soil mix with perlite, beds positioned over structural supports only.
 
 ## Implications for Roadmap
 
@@ -120,7 +120,7 @@ Based on research, suggested phase structure:
 ### Research Flags
 
 Phases likely needing deeper research during planning:
-- **Phase 1 (Bed Infrastructure):** Terrace structural assessment requires professional input -- research cannot resolve load-bearing capacity of an oldercarport roof
+- **Phase 1 (Bed Infrastructure):** Terrace structural assessment requires professional input -- research cannot resolve load-bearing capacity of a older carport roof
 - **Phase 4 (Vacation Prep):** Self-watering reservoir design for corten steel beds needs specific DIY plans or product research (SIP inserts vs wicking systems)
 - **Phase 5 (IoT):** HA template entity deprecation in 2025.12 (removed 2026.6) means configuration must use newer format -- verify current HA version
 
