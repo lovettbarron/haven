@@ -151,8 +151,8 @@ Plans:
 **Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 07-01-PLAN.md -- Phase 1 doc naming fix (bed-layout, setup-guide, reservoir-build) + CLAUDE.md bed table + vacation script reservoir refs
-- [ ] 07-02-PLAN.md -- JSON data fixes (bed features, HA alerts, dill.json, radish note, schedule succession audit)
+- [x] 07-01-PLAN.md -- Phase 1 doc naming fix (bed-layout, setup-guide, reservoir-build) + CLAUDE.md bed table + vacation script reservoir refs
+- [x] 07-02-PLAN.md -- JSON data fixes (bed features, HA alerts, dill.json, radish note, schedule succession audit)
 
 ### Phase 8: Child Engagement Bridge
 **Goal**: The child has a simple visual daily routine and structured between-session activities that let him independently engage with the garden every day, not just on planting event days
@@ -178,7 +178,10 @@ Plans:
   2. Purchase priority ordering exists across all shopping lists showing what to order first based on lead times
   3. A tool inventory section lists every required tool across build day and planting days
   4. PROJECT.md budget constraint reflects the actual ~10,000 DKK cost with documented rationale for the increase
-**Plans**: TBD
+**Plans:** 1 plan
+
+Plans:
+- [ ] 09-01-PLAN.md -- Spring planting shopping list, purchase priority timeline, tool inventory, and budget fix
 
 ### Phase 10: Home Assistant Setup
 **Goal**: A father with Home Assistant running can configure sensors, plant monitors, and alerts using a step-by-step walkthrough and see bed status on a dashboard
@@ -230,7 +233,7 @@ Plans:
 | 6. Vacation Preparation | v1.0 | 2/2 | Complete | 2026-03-28 |
 | 7. Data Consistency and Identity Fix | 2/2 | Complete   | 2026-03-28 | - |
 | 8. Child Engagement Bridge | v1.1 | 0/2 | Not started | - |
-| 9. Operational Readiness | v1.1 | 0/? | Not started | - |
+| 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
 | 10. Home Assistant Setup | v1.1 | 0/? | Not started | - |
 | 11. Season 2 Preparation | v1.1 | 0/? | Not started | - |
 | 12. Planning Artifact Maintenance | v1.1 | 0/? | Not started | - |
