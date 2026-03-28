@@ -9,7 +9,7 @@ Benefits:
 - **Reduced surface moisture** -- the soil surface stays drier, which discourages slugs and fungal diseases
 - **Vacation survival** -- fill the reservoir before leaving and the bed sustains itself for days
 
-Install a reservoir in the **south zone of Bed A** (the 230x120cm "Family Bed") during construction. The south zone (approximately L=0 to L=120cm) contains the warm crops -- cucumbers, tomato, pepper, basil, dill, borage, and bush beans -- which have high water demand and must survive vacation periods. The middle and north zones of Bed A (herbs/lettuce/leeks and raspberries/chives) have standard drainage and no reservoir.
+Install a reservoir in the **north zone of Bed A** (the 230x120cm "Family Bed") during construction. The north zone (approximately L=0 to L=120cm) contains the warm crops -- cucumbers, tomato, pepper, basil, dill, borage, and bush beans -- which have high water demand and must survive vacation periods. The middle and south zones of Bed A (herbs/lettuce/leeks and raspberries/chives) have standard drainage and no reservoir.
 
 ---
 
@@ -21,8 +21,8 @@ Install a reservoir in the **south zone of Bed A** (the 230x120cm "Family Bed") 
 | PVC 90-degree elbows | 50mm | 2 |
 | PVC end caps | 50mm | 2-4 |
 | Vertical fill tube | 50mm PVC, 50cm length | 1 |
-| Pond liner / EPDM | 0.5mm+ thickness, sized ~160cm x 160cm (south zone footprint + 20cm overlap on each side) | 1 sheet |
-| Geotextile fabric | Water-permeable, soil-blocking | 1 piece, ~120cm x 120cm (south zone floor size) |
+| Pond liner / EPDM | 0.5mm+ thickness, sized ~160cm x 160cm (north zone footprint + 20cm overlap on each side) | 1 sheet |
+| Geotextile fabric | Water-permeable, soil-blocking | 1 piece, ~120cm x 120cm (north zone floor size) |
 | Coarse gravel | 16-32mm | ~60 liters |
 | Overflow fitting | Short PVC stub or bulkhead fitting | 1 |
 | Drill with 10-12mm bit | For perforating pipes and overflow hole | 1 |
@@ -34,11 +34,11 @@ Install a reservoir in the **south zone of Bed A** (the 230x120cm "Family Bed") 
 
 ## Build Sequence
 
-### Step 1: Line the South Zone with Pond Liner
+### Step 1: Line the North Zone with Pond Liner
 
-Lay the EPDM/pond liner inside the south zone of Bed A (L=0 to L=120cm) so it covers the entire floor of that zone and folds up the bed walls to at least 10cm above the bed floor. The liner creates the waterproof reservoir zone -- water must stay in the bottom of the bed, not leak out through the metal walls.
+Lay the EPDM/pond liner inside the north zone of Bed A (L=0 to L=120cm) so it covers the entire floor of that zone and folds up the bed walls to at least 10cm above the bed floor. The liner creates the waterproof reservoir zone -- water must stay in the bottom of the bed, not leak out through the metal walls.
 
-On the internal boundary (where the south zone meets the middle zone at approximately L=120cm), fold the liner up to at least 10cm to create a dam that keeps reservoir water from flowing into the free-draining middle zone.
+On the internal boundary (where the north zone meets the middle zone at approximately L=120cm), fold the liner up to at least 10cm to create a dam that keeps reservoir water from flowing into the free-draining middle zone.
 
 Smooth the liner flat against the floor and press it into the corners. Avoid creasing it sharply -- gentle folds are fine.
 
@@ -50,7 +50,7 @@ Drill 10-12mm holes every 10cm along the **top half** of each pipe. These holes 
 
 ### Step 3: Lay the Pipes on the Bed Floor
 
-Place 4-5 perforated PVC pipes parallel across the south zone floor on top of the liner, running lengthwise (north-south) and spaced evenly (approximately 25-30cm apart across the 120cm width). Cap both ends with PVC end caps.
+Place 4-5 perforated PVC pipes parallel across the north zone floor on top of the liner, running east-west and spaced evenly (approximately 25-30cm apart across the 120cm length of the zone). Cap both ends with PVC end caps.
 
 You can either:
 - **Independent channels:** Leave each pipe separate (simpler)
@@ -62,7 +62,7 @@ For most gardens, independent channels work well.
 
 Connect a 50cm vertical PVC pipe to one end of the horizontal pipe system using a 90-degree elbow. This tube extends above the final soil line -- it is where you pour water to fill the reservoir.
 
-Position the fill tube near the south corner of the zone for easy access. The top of the tube should extend approximately 5-10cm above the final soil surface. You can mark the fill tube with tape or paint so it is easy to identify.
+Position the fill tube near the north corner of the zone for easy access. The top of the tube should extend approximately 5-10cm above the final soil surface. You can mark the fill tube with tape or paint so it is easy to identify.
 
 ### Step 5: Install the Overflow
 

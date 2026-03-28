@@ -10,19 +10,19 @@ Thank you so much for looking after the garden while we're away. Everything here
 
 Run through this list once a day, ideally in the morning or evening (not midday sun):
 
-1. **Water Bed A -- the BIG rusty-brown bed on the grass** (the long one, 230cm). This one has a built-in water tank in the south end. Check the indicator tube on the side -- if the water level is low, pour water into the fill pipe until water comes out the overflow. Also water the soil surface if it looks dry on top, especially the north end (raspberries) and middle zone (herbs/lettuce) which have no tank.
+1. **Water Bed A -- the BIG rusty-brown bed on the grass** (the long one, 230cm). This one has a built-in water tank in the north end. Check the indicator tube on the side -- if the water level is low, pour water into the fill pipe until water comes out the overflow. Also water the soil surface if it looks dry on top, especially the south end (raspberries) and middle zone (herbs/lettuce) which have no tank.
 
 2. **Water Bed B -- the SMALLER rusty-brown bed near the house/terrace** (150cm). This one does NOT have a water tank. Poke your finger 2cm into the soil -- if it's dry, give it a good water. In hot weather, this is usually every day.
 
 3. **Pick ripe cherry tomatoes (tomat)** from Bed A (the big bed). Ripe = orange to deep red, slightly soft when gently squeezed. If it comes off easily with a gentle twist, it's ready.
 
-4. **Pick ripe cucumbers (agurk)** from Bed A -- they climb up the A-frame trellis at the south end. Ripe = 10-12cm long, firm, dark green. Pick them before they get fat and yellow.
+4. **Pick ripe cucumbers (agurk)** from Bed A -- they climb up the lean-to trellis on the east side, north end. Ripe = 10-12cm long, firm, dark green. Pick them before they get fat and yellow.
 
 5. **Pick ripe peppers (peberfrugt)** from Bed A. Pick when they've turned from green to red (or when they're large and glossy green if you prefer them mild). One gentle twist to snap off.
 
 6. **Pick ripe strawberries (jordbaer)** from Bed B (the smaller bed near the house). Ripe = red all over, comes off with a gentle tug. Don't pull hard -- if it resists, it's not ready yet.
 
-7. **Pick ripe raspberries (hindbaer)** from the north end of Bed A (the big bed). Ripe = deep red and they come off with a very gentle tug. Check every 1-2 days -- they ripen quickly and go soft fast.
+7. **Pick ripe raspberries (hindbaer)** from the south end of Bed A (the big bed). Ripe = deep red and they come off with a very gentle tug. Check every 1-2 days -- they ripen quickly and go soft fast.
 
 8. **Quick scan** -- walk past both beds and look for anything wilting badly. If a plant looks droopy and sad, give it extra water. That usually fixes it.
 
@@ -34,12 +34,12 @@ Run through this list once a day, ideally in the morning or evening (not midday 
 
 ### Bed A -- "Family Bed" (the BIG one on the grass)
 
-**Where it is:** The large rusty-brown metal box on the grass. 230cm long, 120cm wide, 40cm tall. Has an A-frame trellis over the south end with cucumbers climbing it, a staked tomato plant, and tall raspberry canes at the north end.
+**Where it is:** The large rusty-brown metal box on the grass. 230cm long, 120cm wide, 40cm tall. Has a lean-to trellis extending outward from the east side at the north end with cucumbers climbing it, a staked tomato plant, and tall raspberry canes at the south end.
 
-[PHOTO: Take a photo of Bed A showing the full length -- trellis and warm crops at the south end, herbs and lettuce in the middle, raspberries at the north end]
+[PHOTO: Take a photo of Bed A showing the full length -- trellis and warm crops at the north end, herbs and lettuce in the middle, raspberries at the south end]
 
-**What's growing (south end -- warm crops):**
-- 2 cucumber plants (agurk) climbing the A-frame trellis
+**What's growing (north end -- warm crops):**
+- 2 cucumber plants (agurk) climbing the lean-to trellis
 - 1 cherry tomato plant (tomat) -- tall, staked, with clusters of small orange/red fruit
 - 1 sweet pepper plant (peberfrugt) -- shorter, bushy, with green/red peppers
 - Basil (basilikum) near the tomato
@@ -54,11 +54,11 @@ Run through this list once a day, ideally in the morning or evening (not midday 
 - Dill (dild) -- feathery herb
 - Herbs
 
-**What's growing (north end -- berries):**
+**What's growing (south end -- berries):**
 - Raspberry canes (hindbaer) -- tall upright stems with berries
 - Chives (purloeg) -- small clumps with purple flower balls
 
-**Watering:** The south end has a built-in water tank (reservoir). Check the indicator tube on the side -- if the level is low, pour water into the fill pipe sticking up until water comes out the overflow. The middle zone and north end (raspberries) have no tank -- check soil and water if dry. Raspberries are fairly drought-tolerant, so the north end needs less water. Every 2-3 days in normal weather, daily only in extreme heat (30C+).
+**Watering:** The north end has a built-in water tank (reservoir). Check the indicator tube on the side -- if the level is low, pour water into the fill pipe sticking up until water comes out the overflow. The middle zone and south end (raspberries) have no tank -- check soil and water if dry. Raspberries are fairly drought-tolerant, so the south end needs less water. Every 2-3 days in normal weather, daily only in extreme heat (30C+).
 
 **Harvesting:**
 - **Cherry tomatoes:** Pick when orange to deep red. They should come off easily with a gentle twist. Check daily.
@@ -68,7 +68,7 @@ Run through this list once a day, ideally in the morning or evening (not midday 
 - **Beans:** Pick when pods are 10-12cm long, firm, and snap cleanly when bent. Check every 2-3 days -- picking encourages more beans!
 - **Chive flowers:** You can snip them if you like -- they're edible and taste mildly oniony.
 
-**Leave alone:** Don't move or adjust the trellis. Don't cut the tomato plant (even the side branches). Don't pull out the blue-flowered plant (borage) -- it's supposed to be there. Don't cut or bend the raspberry canes.
+**Leave alone:** Don't move or adjust the lean-to trellis. Don't cut the tomato plant (even the side branches). Don't pull out the blue-flowered plant (borage) -- it's supposed to be there. Don't cut or bend the raspberry canes.
 
 ---
 
@@ -105,7 +105,7 @@ Run through this list once a day, ideally in the morning or evening (not midday 
 Text [PHONE NUMBER] with a photo. Don't worry -- most things can wait until we're back. Plants are tougher than they look.
 
 **If we've had no rain for a week AND it's very hot (30C+):**
-Give both beds a deep soak -- water slowly until the soil is thoroughly wet and water starts draining out. For Bed A, also fill the reservoir pipe in the south end completely.
+Give both beds a deep soak -- water slowly until the soil is thoroughly wet and water starts draining out. For Bed A, also fill the reservoir pipe in the north end completely.
 
 **If a plant falls over:**
 Just prop it back up against the trellis, stake, or bed edge. A bit of string or a clip works if you have one handy.

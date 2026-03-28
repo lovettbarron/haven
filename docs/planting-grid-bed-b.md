@@ -6,7 +6,7 @@
 **Foundation:** Bottomless on grass (earthworm access, deep root zone). Mole mesh underneath.
 **Infrastructure:** No reservoir, no trellis -- simple, self-contained bed.
 **Phase 2 role:** The child's personal bed -- strawberries, pea shoots, edible flowers, sensory edge plants
-**Phase 3 additions:** Sunflower cluster at north end, nasturtium at east edge, spring onions, radish succession slot
+**Phase 3 additions:** Sunflower cluster at south end (house side), nasturtium at east edge, spring onions, radish succession slot
 **Planting day:** W16 (Phase 2, mid-April); Phase 3 additions in W18-W21
 
 > **Child ownership:** This is HIS bed. Sized at 150 x 60 cm so that a 7-year-old with ADHD/Autism can independently check on, care for, and harvest from every plant in it. The 150 cm length (vs 120 cm in previous designs) gives room for a bigger sunflower area and a spring onion row. Everything here has quick visual feedback or sensory engagement. Painted plant markers from the pre-planting craft activity go in this bed.
@@ -29,7 +29,7 @@
 | Viola #2 | (55, 110) | Color, north-east area |
 | Calendula #1 | (35, 5) | Pest deterrent, south end |
 | Calendula #2 | (45, 100) | Pest deterrent, near succession slot |
-| Pea shoots | Zone: L=110-145, W=10-50 | Quick gratification crop, later replaced by sunflowers |
+| Pea shoots | Zone: L=110-145, W=10-50 | South end. Quick gratification crop, later replaced by sunflowers |
 
 ## Phase 3 Transition
 
@@ -41,13 +41,13 @@ Everything from Phase 2 continues:
 - Calendula, viola -- edible flowers, may self-sow
 - Radish succession slot -- continues through summer
 
-**One change:** Pea shoot zone at north end (L=110-145 cm) is repurposed for sunflowers in W18. Final pea shoot harvest before sowing sunflowers. The pea shoots have had their run (W16-W18) and the sunflowers take their place.
+**One change:** Pea shoot zone at south end (L=110-145 cm, house side) is repurposed for sunflowers in W18. Final pea shoot harvest before sowing sunflowers. The pea shoots have had their run (W16-W18) and the sunflowers take their place. Sunflowers at the south end means their shadows fall toward the house, not onto the strawberries and sensory plants.
 
 ### What is ADDED in Phase 3
 
 | Plant | Position | Session | Notes |
 |-------|----------|---------|-------|
-| Sunflower cluster (2-3 plants) | Around (30, 130) | W18 | Sow 5-6 seeds 15 cm apart, thin to strongest 2-3. Replaces pea shoot zone at NORTH end. |
+| Sunflower cluster (2-3 plants) | Around (30, 130) | W18 | Sow 5-6 seeds 15 cm apart, thin to strongest 2-3. Replaces pea shoot zone at SOUTH end (house side). Shadows fall south, not onto bed. |
 | Nasturtium (trailing) | (55, 60) | W18 | 1-2 plants at east edge, trailing outward. Trap crop for aphids. |
 | Spring onions | Row at (45, 25-50) | W18-W21 | 5-6 plants, easy for the child to pull |
 | Radish (succession) | Zone: (40-60, 40-60) | W18 start | Re-sow every 2 weeks |
@@ -61,7 +61,7 @@ Everything from Phase 2 continues:
 
 The child approaches from the **west side** (left column). Sensory plants line the west edge so he can touch and smell them from the path approaching the house.
 
-Row 0 = south end, Row 140-150 = north end.
+Row 0 = north end, Row 140-150 = south end (house side).
 Column 0 = west edge (path side, approach from house), Column 50-60 = east edge.
 
 | cm     | 0-10      | 10-20     | 20-30     | 30-40     | 40-50     | 50-60     |
@@ -154,11 +154,12 @@ Column 0 = west edge (path side, approach from house), Column 50-60 = east edge.
 - Sow radish 1 cm deep, 5 cm apart, harvest in 3-4 weeks
 - Quick turnaround gives the child repeated harvest experiences
 
-**North end: Sunflower cluster (rows 120-145 cm, Phase 3):**
+**South end: Sunflower cluster (rows 120-145 cm, Phase 3):**
 - Replaces pea shoot zone (final pea shoot harvest before sowing sunflowers W18)
 - Sow 5-6 seeds at 15 cm spacing around center (30, 130)
 - Thin to strongest 2-3 plants once they reach 10 cm height
-- At the NORTH end so they don't shade strawberries to the south
+- At the SOUTH end (house side) so shadows fall toward the house, not onto the bed
+- The child sees them first when approaching from the house -- engaging
 - The 150 cm bed length gives 30 cm more space for sunflowers than the old 120 cm design
 - **Ruler stake position:** Plant a 2 m+ marked stake next to the tallest sunflower for weekly height measurement. Mark in 10 cm increments with waterproof marker. He reads the height where the sunflower top reaches.
 - Weekly measurement, same day each week -- visible growth keeps it exciting
@@ -216,7 +217,7 @@ Column 0 = west edge (path side, approach from house), Column 50-60 = east edge.
 | Strawberry + thyme | Thyme deters slugs, low ground cover doesn't compete | GOOD |
 | Strawberry + viola | Neutral -- viola at edges, no competition | GOOD |
 | Nasturtium + strawberry | Nasturtium as trap crop -- draws aphids AWAY from strawberries | GOOD (Phase 3) |
-| Sunflower + strawberry | Sunflowers at north end -- no shading of strawberries to the south | GOOD (Phase 3) |
+| Sunflower + strawberry | Sunflowers at south end -- shadows fall toward house, not onto bed | GOOD (Phase 3) |
 | Spring onion + strawberry | Allium scent deters pests near strawberry plants | GOOD (Phase 3) |
 | Strawberry + raspberry | **NOT IN THIS BED** -- verticillium wilt risk. Raspberries are in Bed A. | AVOIDED |
 

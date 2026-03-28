@@ -14,11 +14,11 @@
 
 ## Day -2: Harvest Party
 
-- [ ] Fill Bed A south zone reservoir via fill tube (before child joins)
-- [ ] Harvest all ripe tomatoes, cucumbers, peppers from Bed A south zone
-- [ ] Harvest all ripe beans from Bed A south zone
+- [ ] Fill Bed A north zone reservoir via fill tube (before child joins)
+- [ ] Harvest all ripe tomatoes, cucumbers, peppers from Bed A north zone
+- [ ] Harvest all ripe beans from Bed A north zone
 - [ ] Harvest all ripe lettuce/herbs from Bed A middle zone
-- [ ] Harvest all ripe raspberries from Bed A north end
+- [ ] Harvest all ripe raspberries from Bed A south end
 - [ ] Harvest any ripe broccoli from Bed A middle zone
 - [ ] Harvest all ripe strawberries from Bed B
 - [ ] Wash, count, and celebrate the harvest together

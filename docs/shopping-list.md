@@ -34,7 +34,7 @@ All beds are corten steel from byJEMA. All prices are in DKK and were sourced in
 | 6 | Copper tape | Self-adhesive, 50mm width, 25m roll | 1 | ~200 | ~200 | Amazon.de or byggemarked | [Amazon.de search](https://www.amazon.de/s?k=kupferband+50mm+selbstklebend) |
 | | | **Slug defense subtotal** | | | **~200** | | |
 
-### Reservoir Materials (for Bed A south zone only)
+### Reservoir Materials (for Bed A north zone only)
 
 The reservoir uses a 6-channel header manifold oriented so the channels run along the zone length (~100cm) and the header runs across the 120cm bed width (~110cm). The fill tube connects at one end of the header.
 
@@ -45,23 +45,23 @@ The reservoir uses a 6-channel header manifold oriented so the channels run alon
 | 9 | PVC end caps | 50mm (6 for channel ends + 1 for header end) | 7 | ~10 | ~70 | Byggemarked | In-store |
 | 10 | PVC 90-degree elbow | 50mm, connects header to fill tube | 1 | ~15 | ~15 | Byggemarked | In-store |
 | 11 | PVC fill tube | 50mm diameter, 50cm length (cut from pipe) | 1 | -- | -- | (Cut from line 7) | -- |
-| 12 | Pond liner / EPDM | 0.5mm+ thickness, ~1.6x1.6m (lines south zone interior with 20cm up sides + dam) | 1 | ~250 | ~250 | Byggemarked | In-store |
+| 12 | Pond liner / EPDM | 0.5mm+ thickness, ~1.6x1.6m (lines north zone interior with 20cm up sides + dam) | 1 | ~250 | ~250 | Byggemarked | In-store |
 | 13 | Geotextile / ukrudtsdug | Water-permeable, soil-blocking, ~1.2x1.2m | 1 | ~100 | ~100 | Byggemarked | In-store |
 | | | **Reservoir subtotal** | | | **~675** | | |
 
 **Pipe cut list:** 3x 3m lengths = 9m total. Cut to: 6x 100cm channels + 1x 110cm header + 1x 50cm fill tube = 8.6m (40cm spare). Drill 10-12mm holes every 10cm on the **top half** of each channel pipe before assembly.
 
-**Note:** Overflow is handled by liner height (8cm walls) rather than a drilled fitting -- excess water spills over the liner edge and drains through the bottomless bed into the grass below. A liner dam (folded liner edge supported by a timber batten) at the north end of the reservoir zone (~L=120cm) prevents water flowing into the non-reservoir zones.
+**Note:** Overflow is handled by liner height (8cm walls) rather than a drilled fitting -- excess water spills over the liner edge and drains through the bottomless bed into the grass below. A liner dam (folded liner edge supported by a timber batten) at the south end of the reservoir zone (~L=120cm) prevents water flowing into the non-reservoir zones.
 
-### Trellis Materials (for Bed A south end, A-frame cucumber trellis)
+### Trellis Materials (for Bed A north end, lean-to cucumber trellis)
 
 | # | Item | Specification | Qty | Unit Price | Total | Supplier | Link |
 |---|------|---------------|-----|-----------|-------|----------|------|
-| 14 | Frame uprights | Pressure-treated 45x45mm timber batten, 150cm | 4 | ~45 | ~180 | Byggemarked | In-store |
-| 15 | Ridge beam | Pressure-treated 45x45mm timber batten, 120cm | 1 | ~40 | ~40 | Byggemarked | In-store |
-| 16 | Climbing surface | Galvanized wire mesh 10x10cm grid, 120x120cm panel | 2 | ~90 | ~180 | Byggemarked | In-store |
-| 17 | Hardware | Galvanized bolts, hinges, and brackets for ridge connection | 1 set | ~75 | ~75 | Byggemarked | In-store |
-| | | **Trellis subtotal** | | | **~475** | | |
+| 14 | Frame uprights | Pressure-treated 45x45mm timber batten, 150cm | 2 | ~45 | ~90 | Byggemarked | In-store |
+| 15 | Top rail | Pressure-treated 45x45mm timber batten, 120cm | 1 | ~40 | ~40 | Byggemarked | In-store |
+| 16 | Climbing surface | Galvanized wire mesh 10x10cm grid, 120x120cm panel | 1 | ~90 | ~90 | Byggemarked | In-store |
+| 17 | Hardware | Galvanized bolts, brackets, and ground stakes for anchoring | 1 set | ~75 | ~75 | Byggemarked | In-store |
+| | | **Trellis subtotal** | | | **~295** | | |
 
 ### Mole and Vole Protection
 
@@ -91,11 +91,11 @@ Both beds sit bottomless on grass and need mesh to protect against burrowing pes
 | Slug defense | ~200 |
 | Mole protection | ~90 |
 | Reservoir materials | ~675 |
-| Trellis materials | ~475 |
+| Trellis materials | ~295 |
 | Tools/consumables | ~30 |
-| **TOTAL** | **~7,360-8,060** |
+| **TOTAL** | **~7,180-7,880** |
 
-Estimated range: **7,400 -- 8,100 DKK**
+Estimated range: **7,200 -- 7,900 DKK**
 
 ---
 
@@ -106,7 +106,7 @@ Estimated range: **7,400 -- 8,100 DKK**
 - **The beds are the biggest cost driver:** ~60-65% of the total budget goes to the 2 corten steel beds.
 - **Trellis from scrap wood:** If you have leftover treated timber or access to pallet wood, trellis cost drops to near zero.
 - **Compare soil suppliers:** Get delivery quotes from both sandshoppen.dk and droemmehave.dk to your address in Vejle. Delivery surcharges vary significantly.
-- **One reservoir only:** The 2-bed layout needs only 1 reservoir set (Bed A south zone), keeping reservoir material cost low.
+- **One reservoir only:** The 2-bed layout needs only 1 reservoir set (Bed A north zone), keeping reservoir material cost low.
 - **One roll of copper tape:** With only 2 beds totaling ~11.2m of perimeter, a single 25m roll is more than enough.
 
 ---
@@ -169,7 +169,7 @@ All of the above, plus:
 | Tool | Status | Notes |
 |------|--------|-------|
 | Ruler stake (2m+ wood lath) | **buy/confirm** | Mark in 10 cm increments with waterproof marker. For sunflower height measurement. Already on warm-season shopping list. |
-| Tomato stake or cage (1.5m+) | **buy/confirm** | For Sungold cherry tomato in Bed A south zone. Already on warm-season shopping list. |
+| Tomato stake or cage (1.5m+) | **buy/confirm** | For Sungold cherry tomato in Bed A north zone. Already on warm-season shopping list. |
 | Twine / soft ties | **buy/confirm** | For tying tomato stems to stake. Already on warm-season shopping list. |
 | Dibber or thick stick | *likely have* | For making leek planting holes. Any sturdy stick works. |
 | Waterproof marker | **buy/confirm** | For marking ruler stake in 10 cm increments. |

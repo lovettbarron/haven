@@ -78,18 +78,19 @@
       "crop_id": "pea-shoots",
       "shortcode": "PS",
       "positions": [
-        { "center_w": 25, "center_l": 130, "spread_cm": 30 }
+        { "center_w": 30, "center_l": 130, "spread_cm": 30 }
       ],
       "planted_week": 16,
-      "notes": "Replaced by sunflowers in W18"
+      "notes": "South end. Replaced by sunflowers in W18."
     },
     {
       "crop_id": "sunflower",
       "shortcode": "SUN",
       "positions": [
-        { "center_w": 30, "center_l": 130, "spread_cm": 15 }
+        { "center_w": 30, "center_l": 135, "spread_cm": 30 }
       ],
-      "planted_week": 18
+      "planted_week": 18,
+      "notes": "South end (house side). Shadows fall south toward house, not onto bed. Child sees them first when approaching."
     },
     {
       "crop_id": "nasturtium",

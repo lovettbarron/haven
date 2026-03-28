@@ -28,14 +28,14 @@ Both beds are positioned on the grass in the backyard, between the cobblestone a
 
 - **Bed A (230 x 120 cm)** is farther from the house, positioned with one long side adjacent to the cobblestone edge and the other long side facing open grass. It sits on the dug-up patch of earth visible in the site photos. Long axis runs roughly N-S.
 
-- **Bed B (150 x 60 cm)** is closer to the house/terrace, near the covered stairway. It sits in a full-sun position on the grass. Long axis runs roughly N-S.
+- **Bed B (150 x 60 cm)** is east of Bed A's south end, positioned on the grass in a full-sun location. The top (north edge) of Bed B aligns with the bottom (south edge) of Bed A, offset to the east. Long axis runs roughly N-S.
 
 - A **walking path** between the two beds provides access from all sides.
 
 - The **water tap** is on the covered terrace near the house -- within easy watering can reach of both beds.
 
 **Sun exposure:**
-- Bed A gets good morning sun but receives some **afternoon shade around 14:00** from nearby trees and structures. This actually benefits shade-tolerant crops (lettuce, leeks, broccoli) planted in the middle zone.
+- Bed A's **north end** (fence side) gets **full sun all day** -- best position for warm crops. The **south end** (house side) receives **afternoon shade from the house around 14:00**. This actually benefits shade-tolerant crops (raspberries, chives) and the middle zone (lettuce, leeks, broccoli).
 - Bed B gets **full sun all day** -- the best position for strawberries, sunflowers, and sensory plants.
 
 ### ASCII Diagram
@@ -58,29 +58,24 @@ Both beds are positioned on the grass in the backyard, between the cobblestone a
  |   |    "Family Bed"            |                                |
  |   |    230 x 120 cm            |                                |
  |   |                            |                                |
- |   |  SOUTH: warm crops         |                                |
- |   |    trellis + reservoir     |                                |
- |   |  MIDDLE: herbs, salad,     |                  (O)           |
- |   |    broccoli, leeks         |               Trampoline       |
+ |   |  NORTH: warm crops         |                                |
+ |   |    lean-to trellis (east)  |                                |
+ |   |    + reservoir             |                  (O)           |
+ |   |  MIDDLE: herbs, salad,     |               Trampoline       |
+ |   |    broccoli, leeks         |                                |
  |   |    (afternoon shade)       |                                |
- |   |  NORTH: raspberries        |                                |
+ |   |  SOUTH: raspberries        |                                |
  |   |    + chives (perennial)    |                                |
  |   |                            |                                |
- |   +----------------------------+                                |
- |          |                                                      |
- |          | walking path                                         |
- |          |                                                      |
- |   +-------------------+                                         |
- |   |                   |                                         |
- |   |      Bed B        |                                         |
- |   |   "His Bed"       |                                         |
- |   |   150 x 60 cm     |                                         |
- |   |                   |                                         |
- |   |  Strawberries,    |                                         |
- |   |  sensory plants,  |                                         |
- |   |  flowers, radish  |                                         |
- |   |                   |                                         |
- |   +-------------------+                                         |
+ |   +----------------------------+---+                            |
+ |          |                     |   |                            |
+ |          | walking path        | B |  "His Bed"                |
+ |          |                     |150x60 cm                       |
+ |          |                     |   |  Strawberries,             |
+ |          |                     |   |  sensory plants,           |
+ |          |                     |   |  flowers, radish           |
+ |          |                     |   |                            |
+ |          |                     +---+                            |
  |                                                                 |
  |               * Water tap (covered terrace)                     |
  |   +----------------------------------------------------+       |
@@ -99,7 +94,7 @@ Both beds are positioned on the grass in the backyard, between the cobblestone a
  * Water tap (on covered terrace near stairway)
  (O) In-ground trampoline (east of grass area)
  Bed A: 230cm (N-S) x 120cm (E-W) x 40cm tall -- on grass near cobblestones ("Family Bed")
- Bed B: 150cm (N-S) x 60cm (E-W) x 40cm tall -- on grass near house ("His Bed")
+ Bed B: 150cm (N-S) x 60cm (E-W) x 40cm tall -- east of Bed A's south end ("His Bed")
  Both beds: long axis N-S, bottomless on grass, mole mesh underneath
 ```
 
@@ -109,14 +104,14 @@ Both beds are positioned on the grass in the backyard, between the cobblestone a
 
 | Bed | Location | Dimensions (cm) | Material | Ground | Purpose | Special Features |
 |-----|----------|-----------------|----------|--------|---------|-----------------|
-| Bed A | Grass, near cobblestones, farther from house | 230 x 120 x 40 | byJEMA corten steel | Bottomless on grass, mole mesh | "Family Bed" -- south zone: warm crops (cucumber, tomato, pepper, basil, dill, borage, bush beans) / middle zone: herbs, salad, broccoli, leeks / north zone: raspberries + chives | Self-watering reservoir (south zone), A-frame trellis (south end), afternoon shade on middle zone |
-| Bed B | Grass, near house/terrace, full sun | 150 x 60 x 40 | byJEMA corten steel | Bottomless on grass, mole mesh | "His Bed" -- strawberries, sensory plants (lamb's ear, lemon balm), flowers (sunflowers, nasturtium), radish succession | Full sun all day, near house for high visibility |
+| Bed A | Grass, near cobblestones, farther from house | 230 x 120 x 40 | byJEMA corten steel | Bottomless on grass, mole mesh | "Family Bed" -- north zone: warm crops (cucumber, tomato, pepper, basil, dill, borage, bush beans) / middle zone: herbs, salad, broccoli, leeks / south zone: raspberries + chives | Self-watering reservoir (north/warm crop zone), lean-to trellis extending outward from east side, afternoon shade on middle and south zones |
+| Bed B | Grass, east of Bed A's south end, full sun | 150 x 60 x 40 | byJEMA corten steel | Bottomless on grass, mole mesh | "His Bed" -- strawberries, sensory plants (lamb's ear, lemon balm), flowers (sunflowers, nasturtium), radish succession | Full sun all day, near house for high visibility |
 
 ### Assignment Rationale
 
-- **Bed A -- "Family Bed" (Shared Production Bed):** The largest bed at 230 x 120 cm, positioned on the grass near the cobblestone edge, farther from the house. At 120 cm wide, it allows **two-lane planting** (reachable from both long sides at 60 cm each). Three distinct zones run along its length: the **south zone** holds warm-season crops (cucumber, tomato, pepper, basil, dill, borage, bush beans) with a self-watering reservoir to handle their high water demand and an A-frame trellis at the south end for climbing cucumbers; the **middle zone** holds herbs, salad, broccoli, and leeks, which benefit from the afternoon shade this bed receives around 14:00; the **north zone** is a dedicated perennial section for raspberries and chives -- low-maintenance and long-lived. This single large bed absorbs all production crops that were previously spread across three beds.
+- **Bed A -- "Family Bed" (Shared Production Bed):** The largest bed at 230 x 120 cm, positioned on the grass near the cobblestone edge, farther from the house. At 120 cm wide, it allows **two-lane planting** (reachable from both long sides at 60 cm each). Three distinct zones run along its length: the **north zone** (fence side, full sun) holds warm-season crops (cucumber, tomato, pepper, basil, dill, borage, bush beans) with a self-watering reservoir to handle their high water demand and a lean-to trellis extending outward from the east side for climbing cucumbers; the **middle zone** holds herbs, salad, broccoli, and leeks, which benefit from the afternoon shade this bed receives around 14:00; the **south zone** (house side, most afternoon shade) is a dedicated perennial section for raspberries and chives -- low-maintenance and long-lived. This single large bed absorbs all production crops that were previously spread across three beds.
 
-- **Bed B -- "His Bed" (Child's Personal Bed):** At 150 x 60 cm, positioned closer to the house/terrace in a full-sun location. Full sun all day makes it the best position for strawberries. The 150 x 60 cm size is manageable for independent care by a 7-year-old. Strawberries provide daily picking rewards, sensory plants (lamb's ear, lemon balm) offer tactile and aromatic engagement, and flowers (sunflowers, nasturtium) deliver visible results. Sensory plants are placed on the path side so the child touches them as he walks by. The bed's position near the house means the child sees it constantly -- from the terrace, from the stairway, on the way to the trampoline. High visibility drives daily engagement.
+- **Bed B -- "His Bed" (Child's Personal Bed):** At 150 x 60 cm, positioned east of Bed A's south end in a full-sun location. Full sun all day makes it the best position for strawberries. The 150 x 60 cm size is manageable for independent care by a 7-year-old. Strawberries provide daily picking rewards, sensory plants (lamb's ear, lemon balm) offer tactile and aromatic engagement, and flowers (sunflowers, nasturtium) deliver visible results. Sensory plants are placed on the path side so the child touches them as he walks by. The bed's position near the house means the child sees it constantly -- from the terrace, from the stairway, on the way to the trampoline. High visibility drives daily engagement.
 
 ### 120 cm Width -- Ergonomic Note
 
@@ -125,8 +120,8 @@ Bed A's 120 cm width is reachable from both long sides (60 cm reach from each si
 ### Infrastructure Notes
 
 - Both beds are **bottomless on grass** with **mole mesh** underneath, allowing earthworms and beneficial soil organisms to colonize from below while keeping moles out.
-- The **self-watering reservoir** is in Bed A only (south/warm crop zone).
-- The **A-frame trellis** sits over the south end of Bed A.
+- The **self-watering reservoir** is in Bed A only (north/warm crop zone).
+- The **lean-to trellis** extends outward from the east side of Bed A (north zone). Single mesh panel leaning away from the bed at ~70 degrees. Cucumbers are planted at the east edge of the warm crop zone and trained outward onto the panel. Fruit hangs on the west-facing underside.
 - **Copper tape** slug defense is applied to both beds.
 
 ---
@@ -146,8 +141,8 @@ The animal/insect hotel is planned for the **shaded area behind the swing set** 
 The quantities in `docs/shopping-list.md` match this layout:
 - **1 corten bed** (230 x 120 x 40 cm) = Bed A, byJEMA corten steel
 - **1 corten bed** (150 x 60 x 40 cm) = Bed B, byJEMA corten steel
-- **1 reservoir set** (PVC pipe, liner, geotextile, overflow) = Bed A (south/warm crop zone)
-- **1 trellis set** (timber, mesh, hardware) = Bed A (south end, cucumber trellis)
+- **1 reservoir set** (PVC pipe, liner, geotextile, overflow) = Bed A (north/warm crop zone)
+- **1 trellis set** (timber, mesh, hardware) = Bed A (lean-to trellis extending outward from east side, cucumber trellis)
 - **Mole mesh** = Both beds (underneath, on grass)
 - **Copper tape** = Both beds
 

@@ -45,18 +45,18 @@ This prevents moles and voles from tunneling up into the growing medium from bel
 - **People:** 1-2 adults
 - **Child can:** Hold parts during assembly, hand over screws/bolts
 
-Assemble Bed A per manufacturer instructions on top of the mesh sheet at the position marked from [bed-layout.md](bed-layout.md). This is the "Family Bed" -- the large bed holding warm crops (south zone), herbs and greens (middle zone), and raspberries (north zone). Once placed, fold the excess mesh up against the inner walls.
+Assemble Bed A per manufacturer instructions on top of the mesh sheet at the position marked from [bed-layout.md](bed-layout.md). This is the "Family Bed" -- the large bed holding warm crops (north zone), herbs and greens (middle zone), and raspberries (south zone). Once placed, fold the excess mesh up against the inner walls.
 
 **Verify:** Bed is level, positioned per layout, mesh folded up inside walls with no gaps, all sides accessible.
 
-### Step 3: Install Reservoir in Bed A South Zone (~30 min)
+### Step 3: Install Reservoir in Bed A North Zone (~30 min)
 
 - **Time:** ~30 min
 - **People:** 1 adult (child should step back -- sharp tools and heavy liner)
 
-Follow [reservoir-build.md](reservoir-build.md) for the Bed A south zone only. This includes lining the south zone of the bed, perforating and laying PVC pipes, installing the fill tube and overflow fitting, and filling the reservoir zone with gravel and geotextile.
+Follow [reservoir-build.md](reservoir-build.md) for the Bed A north zone only. This includes lining the north zone of the bed, perforating and laying PVC pipes, installing the fill tube and overflow fitting, and filling the reservoir zone with gravel and geotextile.
 
-The south zone of Bed A holds the warm crops (cucumber, tomato, pepper, basil) which have high water demand -- the reservoir is essential here. The middle zone (herbs, lettuce, broccoli) and north zone (raspberries + chives) do not need a reservoir; raspberries prefer free-draining soil.
+The north zone of Bed A holds the warm crops (cucumber, tomato, pepper, basil) which have high water demand -- the reservoir is essential here. The middle zone (herbs, lettuce, broccoli) and south zone (raspberries + chives) do not need a reservoir; raspberries prefer free-draining soil.
 
 **CRITICAL:** Test the reservoir with water before proceeding. Fill via the fill tube until overflow triggers. Fix any issues now -- they are impossible to fix after soil is added.
 
@@ -98,7 +98,7 @@ Follow [slug-defense.md](slug-defense.md). Same method as Bed A.
 
 ## Day 2: Soil Fill + Trellis (~2.5-3 hours)
 
-### Step 7: Fill Bed A South Zone (Reservoir Zone) (~25 min)
+### Step 7: Fill Bed A North Zone (Reservoir Zone) (~25 min)
 
 - **Time:** ~25 min
 - **People:** 1-2 adults
@@ -112,13 +112,13 @@ Layer sequence above the reservoir:
 
 **Verify:** Layers at correct depths, fill tube accessible above soil line.
 
-### Step 8: Fill Bed A Middle and North Zones (Standard 3-Layer) (~30 min)
+### Step 8: Fill Bed A Middle and South Zones (Standard 3-Layer) (~30 min)
 
 - **Time:** ~30 min
 - **People:** 1-2 adults
 - **Child can:** Help spread all three layers
 
-Follow [soil-layers.md](soil-layers.md) for the standard bed fill. The middle zone (herbs, lettuce, broccoli) and north zone (raspberries, chives) use the standard 3-layer system:
+Follow [soil-layers.md](soil-layers.md) for the standard bed fill. The middle zone (herbs, lettuce, broccoli) and south zone (raspberries, chives) use the standard 3-layer system:
 1. Drainage gravel (16-32mm): 8-10cm
 2. Garden waste (branches, leaves, clippings): 10-15cm
 3. Hojbedsmuld (raised bed soil mix): 15-20cm
@@ -138,17 +138,17 @@ Follow [soil-layers.md](soil-layers.md) for the standard 40cm bed:
 
 **Verify:** Drainage layer 8-10cm, waste layer 10-15cm, soil layer 15-20cm.
 
-### Step 10: Build and Install A-Frame Trellis on Bed A South End (~60 min)
+### Step 10: Build and Install Lean-To Trellis on Bed A North End (~60 min)
 
 - **Time:** ~60 min
 - **People:** 1-2 adults
-- **Child can:** Hold mesh panels during attachment, test stability after
+- **Child can:** Hold mesh panel during attachment, test stability after
 
-Follow [trellis-build.md](trellis-build.md) completely. Build the two mesh panels, connect them at the ridge with hinges, spread the legs to 70cm base width, and position the A-frame over the south end of Bed A (where the cucumbers will go) with legs on either side of the bed.
+Follow [trellis-build.md](trellis-build.md) completely. Build the single mesh panel, attach it to the east side of the bed at the north end, and lean it outward from the bed. Cucumbers are planted at the east edge and trained outward onto the mesh.
 
-Anchor the legs to prevent wind toppling -- use ground stakes, L-brackets, or weighted bases.
+Anchor the base to prevent wind toppling -- use ground stakes or weighted bases.
 
-**Verify:** Stable under firm push from each side, mesh securely attached, peak at ~120cm.
+**Verify:** Stable under firm push, mesh securely attached, lean angle allows cucumber access.
 
 ### Step 11: First Watering (~15 min)
 
@@ -158,7 +158,7 @@ Anchor the legs to prevent wind toppling -- use ground stakes, L-brackets, or we
 
 Water both beds thoroughly from the top:
 1. Water each bed until water drains from the bottom
-2. Fill the reservoir in Bed A south zone via the fill tube until overflow triggers
+2. Fill the reservoir in Bed A north zone via the fill tube until overflow triggers
 3. Let water soak in for 5-10 minutes, then water again
 
 Beds will settle 5-10cm over the next week. Plan to top up with hojbedsmuld before planting (Phase 2).
@@ -170,11 +170,11 @@ Beds will settle 5-10cm over the next week. Plan to top up with hojbedsmuld befo
 - [ ] Mole mesh laid under Bed A and Bed B positions
 - [ ] Bed A (230x120) assembled and positioned -- "Family Bed"
 - [ ] Bed B (150x60) assembled and positioned -- "His Bed"
-- [ ] Reservoir installed and tested in Bed A south zone
+- [ ] Reservoir installed and tested in Bed A north zone
 - [ ] Copper tape applied to both beds (no gaps)
 - [ ] Both beds filled with correct soil layers
-- [ ] A-frame trellis installed on Bed A south end, stable and anchored
-- [ ] Fill tube accessible above soil in Bed A south zone
+- [ ] Lean-to trellis installed on Bed A north end (east side), stable and anchored
+- [ ] Fill tube accessible above soil in Bed A north zone
 - [ ] Both beds watered thoroughly
 - [ ] Ready for Phase 2: planting
 
@@ -190,6 +190,6 @@ All Phase 1 documents:
 | [bed-layout.md](bed-layout.md) | Where to put it -- backyard placement with ASCII diagrams |
 | [soil-layers.md](soil-layers.md) | How to fill beds -- three-layer system |
 | [slug-defense.md](slug-defense.md) | Copper tape application -- step-by-step with per-bed tape lengths |
-| [reservoir-build.md](reservoir-build.md) | Self-watering system -- DIY wicking bed construction for Bed A south zone |
-| [trellis-build.md](trellis-build.md) | Cucumber A-frame -- child-accessible trellis for Bed A south end |
+| [reservoir-build.md](reservoir-build.md) | Self-watering system -- DIY wicking bed construction for Bed A north zone |
+| [trellis-build.md](trellis-build.md) | Cucumber lean-to trellis -- child-accessible trellis for Bed A north end, east side |
 | [setup-guide.md](setup-guide.md) | This document -- master construction sequence from delivery through first watering |

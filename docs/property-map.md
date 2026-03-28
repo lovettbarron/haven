@@ -28,12 +28,12 @@ This document provides a spatial overview of the entire property showing both ra
  |  |     "Family Bed"             |                                   |
  |  |     230 x 120 cm             |                                   |
  |  |                              |                                   |
- |  |   SOUTH: warm crops          |                                   |
+ |  |   NORTH: warm crops          |                                   |
  |  |     trellis + reservoir      |                                   |
  |  |   MIDDLE: herbs, salad,      |                     (O)          |
  |  |     broccoli, leeks          |                  Trampoline       |
  |  |     (afternoon shade ~14:00) |                                   |
- |  |   NORTH: raspberries         |                                   |
+ |  |   SOUTH: raspberries         |                                   |
  |  |     + chives (perennial)     |                                   |
  |  |                              |                                   |
  |  +------------------------------+                                   |
@@ -107,7 +107,7 @@ The roof terrace (~70 m2 above the carport) is available for seating and furnitu
 - Morning sun comes from the east. Afternoon sun from the south and west is strongest.
 - **Bed B** (near the house) sits in the most open, full-sun position -- ideal for strawberries, sunflowers, and sensory plants that thrive in maximum light.
 - **Bed A** (near the cobblestones, farther from house) gets good morning and midday sun, but receives some afternoon shade around 14:00. This is actually beneficial: the middle zone of Bed A holds lettuce, broccoli, and leeks, which prefer some relief from intense afternoon sun.
-- The warm crops in Bed A's south zone still get adequate sun for tomatoes, cucumbers, and peppers -- the shade arrives late enough in the day that they receive their peak sun hours.
+- The warm crops in Bed A's north zone get the best sun exposure for tomatoes, cucumbers, and peppers -- positioned at the north end closer to the fence for maximum direct sun.
 - East side of the backyard gets progressively more shade from mature trees, especially after midday.
 
 ---

@@ -53,7 +53,7 @@ Three mini-sessions over three days. Each day has a clear theme, a prep checklis
 **FATHER:** Guide framing if needed. "Stand here so we can see all the plants."
 
 Beds to photograph:
-- Bed A (Family Bed, farther from house) -- south zone: tomatoes, cucumbers on trellis, peppers, basil, dill, borage, bush beans; middle zone: herbs, lettuce, broccoli, leeks; north zone: raspberries, chives
+- Bed A (Family Bed, farther from house) -- north zone: tomatoes, cucumbers on trellis, peppers, basil, dill, borage, bush beans; middle zone: herbs, lettuce, broccoli, leeks; south zone: raspberries, chives
 - Bed B (His Bed, near house) -- strawberries, sunflowers, flowers, sensory plants, spring onions, nasturtium
 
 **Say:** "We're making a photo album of the garden so the neighbor knows what everything looks like."
@@ -121,7 +121,7 @@ Walk through the whole garden. Both beds get a deep soak.
 
 ### Prep Checklist (Father, ~15 min before)
 
-- [ ] Fill reservoir completely via fill tube on Bed A (south zone -- warm crops). Fill until water comes out the overflow. This takes about 10 minutes -- do it before the child joins.
+- [ ] Fill reservoir completely via fill tube on Bed A (north zone -- warm crops). Fill until water comes out the overflow. This takes about 10 minutes -- do it before the child joins.
 - [ ] Harvest basket or bowl ready (big enough for tomatoes, cucumbers, beans, berries)
 - [ ] Camera/phone ready for harvest photos
 - [ ] Snack ready at garden table for the post-harvest celebration
@@ -138,12 +138,12 @@ Walk through the whole garden. Both beds get a deep soak.
 - Count berries as they go into the basket
 
 **Bed A -- The big harvest bed:**
-- **HE:** Picks ripe cherry tomatoes (orange to deep red, gentle twist) from south zone
-- **HE:** Picks ripe cucumbers from the trellis (10-12cm, firm, dark green) from south zone
-- **HE:** Picks ripe peppers if any have turned color from south zone
+- **HE:** Picks ripe cherry tomatoes (orange to deep red, gentle twist) from north zone
+- **HE:** Picks ripe cucumbers from the trellis (10-12cm, firm, dark green) from north zone
+- **HE:** Picks ripe peppers if any have turned color from north zone
 - **HE:** Pinches basil leaves for the kitchen ("Smell this!")
 - **HE:** Picks all bush beans that are finger-length or longer (snap test: bend it -- if it snaps cleanly, it's ready)
-- **HE:** Picks any ripe raspberries from the north zone of Bed A
+- **HE:** Picks any ripe raspberries from the south zone of Bed A
 - **HE:** Snips a few herb sprigs if desired (thyme) from middle zone
 - Check for any ripe broccoli side shoots in middle zone
 
@@ -213,12 +213,12 @@ Bring the harvest basket inside together.
    - Child shows the neighbor his strawberry plants
 
 3. **Bed A** (Family Bed, farther from house) -- "This is the big family bed."
-   - **Show the south zone:** "Tomatoes, cucumbers on the trellis, peppers, basil, bush beans."
+   - **Show the north zone:** "Tomatoes, cucumbers on the trellis, peppers, basil, bush beans."
    - **Show the reservoir fill tube:** "Pour water into this pipe until it overflows. The tank does most of the watering for the warm crops."
    - **Show the trellis:** "Cucumbers hang down from here -- pick them when they're this long" (gesture 10-12cm)
    - **Show tomato clusters:** "These turn orange then red. Twist gently to pick."
    - **Show the middle zone:** "Herbs, lettuce, broccoli, and leeks here."
-   - **Show the north zone:** "Raspberries and chives up here. Pick raspberries when they come off with a gentle tug."
+   - **Show the south zone:** "Raspberries and chives down here. Pick raspberries when they come off with a gentle tug."
 
 **Key messages during walk-through:**
 - "Everything you pick is yours -- it's our thank-you for helping!"

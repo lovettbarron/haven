@@ -25,8 +25,8 @@ Bed letters A-B are canonical identifiers used throughout all documentation.
 
 ### Infrastructure
 
-- **Self-watering reservoir** in Bed A south zone (warm crops -- cucumber, tomato, pepper, basil)
-- **A-frame trellis** on Bed A south end for cucumbers to climb
+- **Self-watering reservoir** in Bed A north zone (warm crops -- cucumber, tomato, pepper, basil). North end gets full sun.
+- **Lean-to trellis** extending outward from Bed A east side for cucumbers to climb
 - **Copper tape** slug defense on both beds
 - **Mole mesh** under both beds (bottomless on grass)
 - **Mint** lives in a pot beside Bed B (contained to prevent spread)
@@ -66,7 +66,7 @@ Detailed grid maps with cm-level positions are in `docs/planting-grid-bed-a.md` 
 | `setup-guide.md` | 12-step bed construction sequence |
 | `soil-layers.md` | Soil layer recipes per bed type |
 | `reservoir-build.md` | Self-watering reservoir construction |
-| `trellis-build.md` | A-frame trellis for Bed A |
+| `trellis-build.md` | Lean-to cucumber trellis for Bed A east side |
 | `slug-defense.md` | Copper tape application guide |
 | `bug-hotel-guide.md` | Insect hotel build + treasure hunt activity |
 

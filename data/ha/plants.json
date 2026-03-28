@@ -14,9 +14,9 @@
         "max_moisture": 55,
         "min_temperature": 0,
         "notes": {
-          "min_moisture_from": "cucumber-mini-munch (45% south zone) / broccoli (40% middle zone) -- using 40% as bed-wide minimum",
+          "min_moisture_from": "cucumber-mini-munch (45% north zone) / broccoli (40% middle zone) -- using 40% as bed-wide minimum",
           "max_moisture_from": "thyme (55% -- lowest max among bed crops in middle zone)",
-          "min_temperature_from": "cucumber-mini-munch (4C -- highest frost threshold, tied with basil and pepper). Using 0C as bed-wide alert since north zone has hardy raspberries."
+          "min_temperature_from": "cucumber-mini-munch (4C -- highest frost threshold, tied with basil and pepper). Using 0C as bed-wide alert since south zone has hardy raspberries."
         }
       },
       "yaml_output": "# Plant Monitor for Bed A\nplant:\n  havn_bed_a:\n    sensors:\n      moisture: sensor.havn_bed_a_moisture\n      temperature: sensor.havn_bed_a_temperature\n    min_moisture: 40\n    max_moisture: 55\n    min_temperature: 0\n"

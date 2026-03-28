@@ -14,12 +14,12 @@
 |------|-----|---------|-------|------------|-------------|-------|
 | Strawberry plug | 2 | Ostara (everbearing) | Garden center | 20-35 each | Bed B (child's bed) | Fruit Jun-Sep. Buy healthy plugs with green crowns, no brown/mushy roots. Often sold in packs of 3-6. |
 | Strawberry plug | 1 | Korona (June-bearing) | Garden center | 20-35 | Bed B (child's bed) | Fruit Jun-Jul. Larger fruit than Ostara. Plant crown at soil level, NOT buried. |
-| Raspberry bare-root cane | 3 | Autumn Bliss (primocane) | Garden center or online | 40-60 each | Bed A north zone | Fruit on first-year canes (Aug-Oct). Check stock locally first; if unavailable, order from plantetorvet.dk or blomsterlandet.dk by W14. |
+| Raspberry bare-root cane | 3 | Autumn Bliss (primocane) | Garden center or online | 40-60 each | Bed A south zone | Fruit on first-year canes (Aug-Oct). Check stock locally first; if unavailable, order from plantetorvet.dk or blomsterlandet.dk by W14. |
 | Lamb's ear plant | 1 | Stachys byzantina | Garden center | 25-40 | Bed B west edge (path side) | Soft silvery leaves for tactile sensory. Drought tolerant. |
 | Creeping thyme plant | 3 | Thymus serpyllum | Garden center | 20-30 each | Bed B west edge (3 positions along path side) | Aromatic ground cover at bed edges. Low-growing, walkway-friendly. |
 | Lemon balm plant | 1 | Melissa officinalis | Garden center | 20-35 | Bed B west edge, in sunken pot | Crush-and-smell sensory plant. **Plant in a bottomless pot sunk into soil to contain root runners.** |
 | Viola seedlings | 2 | Any variety (pansy/viola) | Garden center | 15-25 each | Bed B (south end + north-east) | Immediate color from day one. Edible petals -- crystallize for cakes. |
-| Chive plants | 2-3 | Common chives | Garden center | 20-30 each | Bed A north zone (divide into clumps around raspberry canes) | Buy 2-3 plants and divide each into 4 clumps at planting. **Skip if you already have chives at home to divide.** |
+| Chive plants | 2-3 | Common chives | Garden center | 20-30 each | Bed A south zone (divide into clumps around raspberry canes) | Buy 2-3 plants and divide each into 4 clumps at planting. **Skip if you already have chives at home to divide.** |
 
 **Plants and seedlings subtotal: ~345-575 DKK**
 

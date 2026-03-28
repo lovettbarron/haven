@@ -2,18 +2,18 @@
 
 **Physical position:** Backyard, east side (grass, near trampoline)
 **Dimensions:** 230 x 120 cm (L x W), 40 cm tall, corten steel (byJEMA)
-**Orientation:** Long axis roughly N-S. L=0 is south end (trellis). L=230 is north end (raspberries).
+**Orientation:** Long axis roughly N-S. L=0 is north end (fence, full sun). L=230 is south end (house side, afternoon shade).
 **Bottomless on grass** (earthworm access, deep root zone). Mole mesh underneath.
-**Sun:** Good morning sun, some afternoon shade from ~14:00 (fence/trees cast shadow on middle and north zones). South zone gets the most sun. Afternoon shade is a feature for the middle zone -- lettuce, leeks, and broccoli benefit from it.
+**Sun:** North end (L=0) gets full sun all day. Afternoon shade from the house starts ~14:00, affecting the middle and south zones progressively. South zone gets the most shade -- a feature for raspberries and chives. Middle zone shade benefits lettuce, leeks, and broccoli.
 **120cm width:** Reachable from both long sides (60cm reach per side). Center row is suitable for low-maintenance items.
-**Infrastructure:** A-frame trellis at south end. Self-watering reservoir in south zone (L=0-120cm). Mint pot outside bed (east side).
+**Infrastructure:** Lean-to trellis extending outward from east side (north zone). Self-watering reservoir in north zone (L=0-120cm). Mint pot outside bed (east side).
 **Phase 2 role:** Pea nitrogen pre-crop at trellis, borage/calendula companions, kale cool-season placeholder, baby lettuce, spring onions, raspberry canes, chives
-**Phase 3 role:** All production crops -- warm crops (south), herbs/salad/leeks/broccoli (middle), perennial raspberries (north)
+**Phase 3 role:** All production crops -- warm crops (north), herbs/salad/leeks/broccoli (middle), perennial raspberries (south)
 **Planting day:** W16 (Phase 2, mid-April); Phase 3 additions W18-W21
 
 > **This bed absorbs ALL production crops.** Warm crops, raspberries, herbs, salad, broccoli, leeks, and beans -- everything that was previously split across old Beds A-E is now consolidated here. The 230 x 120cm footprint and 120cm width (vs the old 80cm) provide ample room for a third column of plants and generous spacing throughout.
 
-> **Three-zone design:** South zone (warm crops with reservoir and trellis), middle zone (herbs, salad, leeks, broccoli -- benefits from afternoon shade), and north zone (perennial raspberries with chive perimeter). Each zone has its own microclimate and maintenance profile.
+> **Three-zone design:** North zone (warm crops with reservoir and lean-to trellis, full sun), middle zone (herbs, salad, leeks, broccoli -- benefits from afternoon shade), and south zone (perennial raspberries with chive perimeter -- most afternoon shade). Each zone has its own microclimate and maintenance profile.
 
 ---
 
@@ -21,14 +21,14 @@
 
 | Plant | Position / Zone | Notes |
 |-------|----------------|-------|
-| Peas (Kelvedon Wonder) | South trellis base, L=0-30cm | Nitrogen pre-crop. Cut at ground level before W21 cucumber transplant. |
+| Peas (Kelvedon Wonder) | North trellis base, L=0-30cm | Nitrogen pre-crop. Cut at ground level before W21 cucumber transplant. |
 | Borage | (30, 40) | Pollinator companion for future cucumbers. |
 | Calendula #1 | (90, 40) | Pest deterrent, color, near future warm crops. |
 | Kale Nero di Toscana | (60, 65) | Cool-season placeholder in warm-crop zone. Remove W21 if space needed. |
 | Baby lettuce (broadcast) | Zone: 20-60cm W, 125-140cm L | Cut-and-come-again baby lettuce mix in middle zone. |
 | Spring onion White Lisbon | Row at L=130, W=60-110cm | 5-8cm apart. |
-| Raspberry Autumn Bliss (3 canes) | North zone, center line W=60 | Bare-root canes, permanent. |
-| Chive divisions (8-10 clumps) | North zone perimeter | Raspberry companions. |
+| Raspberry Autumn Bliss (3 canes) | South zone, center line W=60 | Bare-root canes, permanent. |
+| Chive divisions (8-10 clumps) | South zone perimeter | Raspberry companions. |
 
 ## Phase 3 Transition
 
@@ -37,8 +37,8 @@
 | Plant | Position | Notes |
 |-------|----------|-------|
 | Borage | (30, 40) | Established. Pollinator attractor for cucumbers. Do not disturb. |
-| Raspberry Autumn Bliss (3 canes) | North zone | Perennial. Do not disturb. |
-| Chive divisions | North zone perimeter | Perennial. Do not disturb. |
+| Raspberry Autumn Bliss (3 canes) | South zone | Perennial. Do not disturb. |
+| Chive divisions | South zone perimeter | Perennial. Do not disturb. |
 | Spring onion White Lisbon | Row at L=130 | Continue growing; harvest as needed. Compatible with leeks (both alliums). |
 | Baby lettuce | Middle zone broadcast area | Bolts Jun+. Zone replaced by leeks after bolting. |
 
@@ -56,22 +56,22 @@
 
 | Plant | Position | Session | Notes |
 |-------|----------|---------|-------|
-| Cucumber Mini Munch #1 | (30, 10) | Session 2, W21 | Transplant at trellis base |
-| Cucumber Mini Munch #2 | (90, 10) | Session 2, W21 | Transplant at trellis base |
+| Cucumber Mini Munch #1 | (100, 10) | Session 2, W21 | Transplant at east edge, trained outward onto lean-to trellis |
+| Cucumber Mini Munch #2 | (100, 80) | Session 2, W21 | Transplant at east edge, trained outward onto lean-to trellis |
 | Tomato Sungold (indeterminate) | (60, 55) | Session 2, W21 | Staked, center of warm zone |
 | Basil Genovese #1 | (30, 60) | Session 2, W21 | Flanking tomato (west side) |
-| Basil Genovese #2 | (90, 60) | Session 2, W21 | Flanking tomato (east side) |
-| Sweet pepper (Lipstick) | (60, 85) | Session 2, W21 | Center, south of bean row |
-| Bush beans (Provider/Speedy), 5-6 plants | Column at W=110, L=25 to L=85 | Session 1, W18 | Direct sow, 12cm apart |
-| Dill #1 | (90, 100) | Session 1, W18 | Direct sow near pepper |
+| Basil Genovese #2 | (80, 60) | Session 2, W21 | Flanking tomato (east side) |
+| Sweet pepper (Lipstick) | (60, 85) | Session 2, W21 | Center, south of tomato |
+| Bush beans (Provider/Speedy), 6 plants | Column at W=10, L=20 to L=90 | Session 1, W18 | Direct sow, 12cm apart along west edge |
+| Dill #1 | (80, 100) | Session 1, W18 | Direct sow near pepper |
 | Leek Musselburgh #1 | (60, 145) | Session 2, W21 | Pencil-thick transplant, 15cm deep for blanching |
 | Leek Musselburgh #2 | (60, 155) | Session 2, W21 | Pencil-thick transplant, 15cm deep for blanching |
 | Leek Musselburgh #3 | (60, 165) | Session 2, W21 | Pencil-thick transplant, 15cm deep for blanching |
 | Broccoli Calabrese | (100, 150) | Session 2, W21 | 1 transplant. 120cm width gives room for leaf spread. |
-| Dill #2 | (110, 140) | Session 1, W18 | Near broccoli -- hoverflies for pest control |
+| Dill #2 | (100, 140) | Session 1, W18 | Near broccoli -- hoverflies for pest control |
 | Borage #2 | (30, 155) | Session 1, W18 | Pollinator near middle zone |
 
-> **Bean/leek separation note:** Bush beans are in the south zone (W=110, L=25-85) and leeks are in the middle zone (L=145-165). The ~60cm separation between the nearest bean and nearest leek, combined with the physical zone boundary, is acceptable. Allium inhibition of bean nitrogen fixation is a root-zone effect -- this distance is safe.
+> **Bean/leek separation note:** Bush beans are in the north zone (W=10, L=20-90) and leeks are in the middle zone (L=145-165). The ~55cm separation between the nearest bean and nearest leek, combined with the physical zone boundary, is acceptable. Allium inhibition of bean nitrogen fixation is a root-zone effect -- this distance is safe.
 
 ---
 
@@ -80,40 +80,41 @@
 The bed is 230cm long and 120cm wide. Three zones plus buffer areas.
 
 Column 0 = west edge. Column 110-120 = east edge.
-Row 0 = south end (trellis). Row 220-230 = north end.
+Row 0 = north end (fence, full sun). Row 220-230 = south end (house side, afternoon shade).
 
-### South Zone: Warm Crops (L=0 to ~120cm)
+### North Zone: Warm Crops (L=0 to ~120cm)
 
-Self-watering reservoir underneath this zone. A-frame trellis at south end. Full sun exposure.
+Self-watering reservoir underneath this zone. Lean-to trellis extends outward from the east side. Full sun exposure. Cucumbers planted at east edge (W=100-110) and trained outward onto the lean-to panel. Bush beans along the west edge (W=10).
 
 ```
-                        SOUTH END (trellis)
+                        NORTH END (fence, full sun)
     W: 0    10    20    30    40    50    60    70    80    90   100   110   120
     +----+----+----+----+----+----+----+----+----+----+----+----+
-L=0 |         |~~~~TRELLIS BASE~~~~~~~~~~~~~~~~~~~~~~~|         |
-    |         | CUC-1              |              CUC-2|         |
-L=10|         | (30,10)            |            (90,10)|         |
-    |         |                    |                   |    BN-1 |
-L=20|         |                    |                   |  (110,25)|
+L=0 |         |                    |                   |~TRELLIS~|>>>
+    |         |                    |                   | (east   |>>> lean-to
+L=10| BN-1    |                    |              CUC-1| edge)   |>>> extends
+    |(10,20)  |                    |            (100,10)|        |>>> outward
+L=20|         |                    |                   |         |
     |         |                    |                   |         |
-L=30|         |                    |                   |    BN-2 |
-    |         | BOR                |                   |  (110,37)|
-L=40|         | (30,40)            |            CAL*   |         |
-    |         |                    |           (*Phase2|    BN-3 |
-L=50|         |                    |  TOM       rmvd?) |  (110,49)|
-    |         |                    | (60,55)           |         |
-L=60|         | BAS-1              | [staked]   BAS-2  |    BN-4 |
-    |         | (30,60)            |            (90,60)|  (110,61)|
-L=70|         |                    |                   |         |
-    |         |                    |                   |    BN-5 |
-L=80|         |                    |  PEP              |  (110,73)|
-    |         |                    | (60,85)           |         |
-L=90|         |                    |            DIL-1  |    BN-6 |
-    |         |                    |           (90,100)|  (110,85)|
-L=100|        |                    |                   |         |
-     |        |                    |                   |         |
-L=110|        |                    |                   |         |
-     |   ~~~RESERVOIR LINER TERMINATES AT ~L=120~~~    |         |
+L=30|  BN-2   |                    |                   |         |
+    | (10,32) |                    |                   |         |
+L=40|         | BOR                |            CAL*   |         |
+    |         | (30,40)            |           (*Phase2|         |
+L=50|  BN-3   |                    |  TOM       rmvd?) |         |
+    | (10,44) |                    | (60,55)           |         |
+L=60|         | BAS-1              | [staked]   BAS-2  |         |
+    |         | (30,60)            |            (80,60)|         |
+L=70|  BN-4   |                    |                   |         |
+    | (10,56) |                    |                   |         |
+L=80|         |                    |              CUC-2|         |
+    |         |                    |  PEP       (100,80)|        |
+L=90|  BN-5   |                    | (60,85)           |         |
+    | (10,68) |                    |                   |         |
+L=100|        |                    |  DIL-1            |         |
+     |        |                    | (80,100)          |         |
+L=110| BN-6   |                    |                   |         |
+     |(10,80) |                    |                   |         |
+     |   ~~~RESERVOIR LINER DAM AT ~L=120~~~           |         |
 L=120+----+----+----+----+----+----+----+----+----+----+----+----+
 ```
 
@@ -132,11 +133,11 @@ L=125|        | (broadcast: 20-60, 125-140)            |         |
 L=130|        |                    |  ===SON ROW===    |         |
      |        |                    |  (W=60-110, L=130,|         |
 L=135|        |                    |   5-8cm apart)    |         |
-     |        |                    |                   |         |
-L=140|        |                    |           DIL-2   |         |
-     |        |                    |          (110,140)|         |
-L=145|        |                    |  LEK-1            |         |
-     |        |                    | (60,145)   BRC    |         |
+     |        |                    |           DIL-2   |         |
+L=140|        |                    |          (100,140)|         |
+     |        |                    |  LEK-1            |         |
+L=145|        |                    | (60,145)          |         |
+     |        |                    |           BRC     |         |
 L=150|        |                    |          (100,150)|         |
      |        |  BOR-2             |                   |         |
 L=155|        | (30,155)           |  LEK-2            |         |
@@ -152,12 +153,12 @@ L=170+----+----+----+----+----+----+----+----+----+----+----+----+
 
 ~10cm open area between middle zone crops and raspberry zone. Visual and physical boundary between annual and perennial sections. Consider a vertical root barrier here to prevent raspberry root spread (optional for year 1).
 
-### North Zone: Raspberry Section (L=180 to 230cm)
+### South Zone: Raspberry Section (L=180 to 230cm)
 
-Low-maintenance perennial section. Afternoon shade is fine for raspberries.
+Low-maintenance perennial section. Receives the most afternoon shade (house side) -- fine for raspberries.
 
 ```
-                        NORTH ZONE
+                        SOUTH ZONE
     W: 0    10    20    30    40    50    60    70    80    90   100   110   120
     +----+----+----+----+----+----+----+----+----+----+----+----+
 L=180| CHV|                        |                        | CHV|
@@ -179,31 +180,31 @@ L=220| CHV|                        |                        | CHV|
 L=225|    |                     RB-3                        |    |
      |    |                    (60,225)                     |    |
 L=230+----+----+----+----+----+----+----+----+----+----+----+----+
-                        NORTH END
+                        SOUTH END (house side, afternoon shade)
 ```
 
 ---
 
 ## Precise Plant Positions
 
-### South Zone: Warm Crops (L=0-120cm)
+### North Zone: Warm Crops (L=0-120cm)
 
 | Symbol | Plant | Center Position (W,L cm) | Spread/Spacing | Sow/Plant |
 |--------|-------|--------------------------|----------------|-----------|
-| **CUC-1** | Cucumber Mini Munch #1 | (30, 10) | Trained up trellis | W21 -- transplant seedling |
-| **CUC-2** | Cucumber Mini Munch #2 | (90, 10) | Trained up trellis | W21 -- transplant seedling |
+| **CUC-1** | Cucumber Mini Munch #1 | (100, 10) | Trained outward onto lean-to trellis | W21 -- transplant seedling |
+| **CUC-2** | Cucumber Mini Munch #2 | (100, 80) | Trained outward onto lean-to trellis | W21 -- transplant seedling |
 | **BOR-1** | Borage #1 (from Phase 2) | (30, 40) | 30-40cm spread | Phase 2 -- already established |
 | **TOM** | Tomato Sungold (indeterminate) | (60, 55) | 45cm+ staked vertically | W21 -- transplant seedling |
 | **BAS-1** | Basil Genovese #1 | (30, 60) | 20-30cm spread | W21 -- transplant seedling |
-| **BAS-2** | Basil Genovese #2 | (90, 60) | 20-30cm spread | W21 -- transplant seedling |
+| **BAS-2** | Basil Genovese #2 | (80, 60) | 20-30cm spread | W21 -- transplant seedling |
 | **PEP** | Sweet pepper (Lipstick) | (60, 85) | 30-40cm spread | W21 -- transplant seedling |
-| **DIL-1** | Dill #1 | (90, 100) | 20-30cm spread | W18 -- direct sow |
-| **BN-1** | Bush bean Provider/Speedy #1 | (110, 25) | 12cm apart in column | W18 -- direct sow |
-| **BN-2** | Bush bean #2 | (110, 37) | 12cm apart | W18 -- direct sow |
-| **BN-3** | Bush bean #3 | (110, 49) | 12cm apart | W18 -- direct sow |
-| **BN-4** | Bush bean #4 | (110, 61) | 12cm apart | W18 -- direct sow |
-| **BN-5** | Bush bean #5 | (110, 73) | 12cm apart | W18 -- direct sow |
-| **BN-6** | Bush bean #6 | (110, 85) | 12cm apart | W18 -- direct sow |
+| **DIL-1** | Dill #1 | (80, 100) | 20-30cm spread | W18 -- direct sow |
+| **BN-1** | Bush bean Provider/Speedy #1 | (10, 20) | 12cm apart in column | W18 -- direct sow |
+| **BN-2** | Bush bean #2 | (10, 32) | 12cm apart | W18 -- direct sow |
+| **BN-3** | Bush bean #3 | (10, 44) | 12cm apart | W18 -- direct sow |
+| **BN-4** | Bush bean #4 | (10, 56) | 12cm apart | W18 -- direct sow |
+| **BN-5** | Bush bean #5 | (10, 68) | 12cm apart | W18 -- direct sow |
+| **BN-6** | Bush bean #6 | (10, 80) | 12cm apart | W18 -- direct sow |
 
 ### Middle Zone: Herbs & Salad (L=120-170cm)
 
@@ -215,10 +216,10 @@ L=230+----+----+----+----+----+----+----+----+----+----+----+----+
 | **LEK-2** | Leek Musselburgh #2 | (60, 155) | 15cm apart | W21 -- transplant seedling |
 | **LEK-3** | Leek Musselburgh #3 | (60, 165) | 15cm apart | W21 -- transplant seedling |
 | **BRC** | Broccoli Calabrese | (100, 150) | 40-50cm leaf spread | W21 -- transplant seedling |
-| **DIL-2** | Dill #2 | (110, 140) | 20-30cm spread | W18 -- direct sow |
+| **DIL-2** | Dill #2 | (100, 140) | 20-30cm spread | W18 -- direct sow |
 | **BOR-2** | Borage #2 | (30, 155) | 30-40cm spread | W18 -- direct sow or seedling |
 
-### North Zone: Raspberries + Chives (L=180-230cm)
+### South Zone: Raspberries + Chives (L=180-230cm)
 
 | Symbol | Plant | Center Position (W,L cm) | Spread/Spacing | Sow/Plant |
 |--------|-------|--------------------------|----------------|-----------|
@@ -248,18 +249,27 @@ L=230+----+----+----+----+----+----+----+----+----+----+----+----+
 
 ## Detailed Layout Description
 
-### South Zone: Warm Crops (L=0-120cm)
+### North Zone: Warm Crops (L=0-120cm)
 
-This is the bed's engine room -- the highest-maintenance, highest-yield section. Full sun, self-watering reservoir, and the A-frame trellis all converge here.
+This is the bed's engine room -- the highest-maintenance, highest-yield section. Full sun, self-watering reservoir, and the lean-to trellis all converge here.
 
-**Trellis end -- the Cucumber Tunnel (rows 0-20cm):**
-- A-frame trellis spans the south end of the bed
-- Wire mesh panels for cucumbers to grip and climb
-- 2 cucumber seedlings at the trellis base: CUC-1 at (30, 10), CUC-2 at (90, 10) -- spaced 60cm apart across the 120cm width
-- The 120cm width gives generous spacing. Both cucumbers have 30cm clear space from the bed edges.
-- As cucumbers climb and fruit hangs down, this creates a **cucumber tunnel effect** -- the child picks cucumbers dangling at eye level from both sides of the bed
+**Lean-to trellis -- Cucumbers trained outward (east edge, W=100-110cm):**
+- The lean-to trellis is NOT inside the bed -- it extends outward from the east side
+- Single mesh panel leaning away from the bed at ~70 degrees, anchored at the east bed edge
+- 2 cucumber seedlings planted at the east edge: CUC-1 at (100, 10), CUC-2 at (100, 80) -- spaced 70cm apart along the bed length
+- Cucumbers are trained outward onto the lean-to panel. Fruit hangs on the west-facing underside of the mesh -- the child picks cucumbers from the bed side, reaching up to the panel
 - Mini Munch varieties produce small fruits perfect for child-sized hands
 - Cucumbers benefit from the nitrogen left in the soil by the Phase 2 pea roots
+- The outward lean keeps cucumber foliage from shading other plants inside the bed
+
+**Bush beans -- Finger-Length Picking (west edge, W=10cm):**
+- 6 bush beans (Provider or Speedy) in a column along the west edge at W=10cm
+- 12cm apart: positions at L=20, 32, 44, 56, 68, 80
+- Direct-sow W18, 3-5cm deep, one seed per hole
+- 50-55 days to harvest (early-mid July)
+- **Finger-length picking activity:** Bush beans are perfect for a 7-year-old. The beans hang visibly, are easy to snap off, and the child can feel for ready ones ("Does it snap when you bend it? It is ready!"). Pick into a small basket -- tangible, immediate result.
+- Bush variety, 30-45cm tall, no staking needed
+- Positioned at the west edge for easy access from that side. With cucumbers on the east edge going to the trellis, beans go west for better spacing.
 
 **Borage -- the Bee Beacon (around row 40cm):**
 - BOR-1 at (30, 40), established from Phase 2
@@ -271,7 +281,7 @@ This is the bed's engine room -- the highest-maintenance, highest-yield section.
 - Tomato Sungold at (60, 55) -- dead center of the bed, the star plant
 - **STAKE ON TRANSPLANT DAY.** Sungold is indeterminate (grows 2-3m tall). Use a sturdy 2m bamboo stake or tomato cage. Prune suckers weekly to 1-2 main stems.
 - **Weekly suckering is a father-child activity:** "Find the Y-shape in the stem. The sucker grows in the V. Pinch it out." Simple, tactile, 2-minute task with a clear start and end.
-- Basil Genovese flanking the tomato: BAS-1 at (30, 60) and BAS-2 at (90, 60) -- both within 30cm of the tomato
+- Basil Genovese flanking the tomato: BAS-1 at (30, 60) and BAS-2 at (80, 60) -- both within 30cm of the tomato
 - Classic companion pairing (basil repels aphids/whiteflies, may improve tomato flavor)
 - **Pinch basil tips** to promote bushy growth -- another tactile child task. "Pinch above the second set of leaves."
 - Aromatic sensory element: crush a basil leaf, smell it. Then smell the tomato leaf. Different!
@@ -282,26 +292,17 @@ This is the bed's engine room -- the highest-maintenance, highest-yield section.
 - **Color-change observation:** Peppers start green, ripen to red over 2-3 weeks. Mark a pepper with a small ribbon and check its color each visit. "Is it still green? Getting orange? Almost red?" This builds patience and observation skills -- the child watches a slow, visible transformation.
 - Compact plant, 40-60cm tall, no staking needed
 
-**Bush Beans -- Finger-Length Picking (east edge, W=110cm):**
-- 6 bush beans (Provider or Speedy) in a column along the east edge at W=110cm
-- 12cm apart: positions at L=25, 37, 49, 61, 73, 85
-- Direct-sow W18, 3-5cm deep, one seed per hole
-- 50-55 days to harvest (early-mid July)
-- **Finger-length picking activity:** Bush beans are perfect for a 7-year-old. The beans hang visibly, are easy to snap off, and the child can feel for ready ones ("Does it snap when you bend it? It is ready!"). Pick into a small basket -- tangible, immediate result.
-- Bush variety, 30-45cm tall, no staking needed
-- Positioned at the east edge for easy access from that side without reaching over other plants
-
 **Dill #1 (row 100cm):**
-- 1 dill plant at (90, 100) near the pepper
+- 1 dill plant at (80, 100) near the pepper
 - Attracts hoverflies that eat aphids -- biological pest control for the pepper and surrounding crops
 - Feathery foliage adds visual texture
 - Self-sows if allowed to flower -- free dill next year
 
 **Reservoir coverage:**
-- Only the south zone (L=0-120cm) has the reservoir liner
+- Only the north zone (L=0-120cm) has the reservoir liner
 - The liner terminates with a folded-up dam at ~L=120
-- Middle and north zones are standard bottomless-on-grass drainage
-- Fill tube at south corner (accessible without reaching over plants)
+- Middle and south zones are standard bottomless-on-grass drainage
+- Fill tube at north corner (accessible without reaching over plants)
 - Overflow at 8cm depth
 - Serves cucumbers, tomato, pepper, basil, and beans -- all high-water-demand crops
 
@@ -338,13 +339,13 @@ This zone benefits from the 14:00 afternoon shade. Lettuce does not bolt as fast
 - **Harvest the main head first,** then side shoots continue producing for weeks of extended harvest. Each side shoot is a small broccoli floret -- perfect child-sized portions.
 - **Broccoli side-shoot harvesting** is a great child activity: visible, quick, and goes straight to dinner.
 
-**Dill #2 at (110, 140):**
+**Dill #2 at (100, 140):**
 - Near broccoli -- attracts hoverflies that eat broccoli aphids and cabbage caterpillars
 - Same biological pest control logic as Dill #1 near the pepper
 
 **Borage #2 at (30, 155):**
 - Pollinator attractor in the middle zone
-- Blue star flowers complement the borage in the south zone
+- Blue star flowers complement the borage in the north zone
 - Positioned on the west side to balance visual interest across the bed
 
 **Radish succession slot (80-100cm W, 125-145cm L):**
@@ -360,7 +361,7 @@ This zone benefits from the 14:00 afternoon shade. Lettuce does not bolt as fast
 - Allows airflow between zones, reducing disease pressure
 - **Root barrier consideration:** Consider installing a vertical root barrier (e.g., HDPE sheet, 30cm deep) at the buffer line to prevent raspberry root spread into the middle zone. Optional for year 1 -- monitor and install in autumn if needed.
 
-### North Zone: Raspberry Section (L=180-230cm)
+### South Zone: Raspberry Section (L=180-230cm)
 
 **Raspberry canes -- the Late-Summer Treat:**
 - 3 Autumn Bliss raspberry canes along the center line (W=60cm)
@@ -370,7 +371,7 @@ This zone benefits from the 14:00 afternoon shade. Lettuce does not bolt as fast
 - **First fruit expected Aug-Oct of year 1** -- this is the child's seasonal treat. Raspberries ripen over several weeks, so there is always something new to pick on each visit.
 - "Pick the red ones. If they come off easily, they are ready. If you have to tug, leave them for tomorrow."
 - The contrast between the busy warm-crop zone and this calm perennial section is deliberate: the raspberry zone requires almost no maintenance. It is the bed's quiet corner.
-- Some afternoon shade is fine for raspberries -- they tolerate partial shade and the morning sun exposure is sufficient.
+- The south zone receives the most afternoon shade from the house -- fine for raspberries. They tolerate partial shade and the morning sun exposure is sufficient.
 
 **Chive perimeter:**
 - 6 chive clumps arranged around the raspberry zone edges
@@ -395,12 +396,12 @@ This zone benefits from the 14:00 afternoon shade. Lettuce does not bolt as fast
 
 | Symbol | Plant | Spacing | Depth | Sow/Plant Date | Notes |
 |--------|-------|---------|-------|----------------|-------|
-| CUC | Cucumber Mini Munch | 60cm apart (at trellis base) | Root ball depth | W21 (May 20+) | Train up A-frame trellis. Consistent watering via reservoir. Cucumber tunnel effect at child height. |
+| CUC | Cucumber Mini Munch | 70cm apart (at east edge, trained onto lean-to trellis) | Root ball depth | W21 (May 20+) | Train outward onto lean-to trellis. Fruit hangs on west-facing underside. Consistent watering via reservoir. |
 | TOM | Tomato Sungold (indeterminate) | 45cm+ staked | Root ball depth (deep planting OK) | W21 (May 20+) | **Stake on transplant day. Prune suckers weekly to 1-2 main stems.** Father-child suckering activity. |
 | PEP | Sweet pepper Lipstick | 30-40cm | Root ball depth | W21 (May 25+) | Cold-hardy variety. Color-change observation activity (green to red). |
 | BAS | Basil Genovese | 20-30cm | Root ball depth | W21 (May 20+) | Flanking tomato. Pinch tips for bushy growth. Aromatic sensory element. |
-| BN | Bush bean Provider/Speedy | 12cm apart in column | 3-5cm deep | W18 (May 1) | Direct sow. 50-55 days. Finger-length picking activity. No staking. |
-| DIL | Dill | 20-30cm | 0.5cm deep | W18 (May 1) | Direct sow. Attracts hoverflies. Self-sows if allowed to flower. 2 plants: south zone + middle zone. |
+| BN | Bush bean Provider/Speedy | 12cm apart in column | 3-5cm deep | W18 (May 1) | Direct sow. 50-55 days. Finger-length picking activity. No staking. West edge (W=10). |
+| DIL | Dill | 20-30cm | 0.5cm deep | W18 (May 1) | Direct sow. Attracts hoverflies. Self-sows if allowed to flower. 2 plants: north zone + middle zone. |
 | BOR | Borage | 30-40cm spread | 1cm deep | Phase 2 / W18 | Blue star flowers = bee magnets. Pollinator for cucumbers and broccoli. Edible flowers. |
 | LET | Baby lettuce (cut-and-come-again) | 5cm broadcast | 0.5cm | W16 | Bolts Jun+. Zone replaced by leeks. Child cuts with scissors. |
 | SON | Spring onion White Lisbon | 5-8cm apart | 1cm | W16 | 60-90 days. Allium -- compatible with leeks. |
@@ -420,7 +421,7 @@ This zone benefits from the 14:00 afternoon shade. Lettuce does not bolt as fast
 |------|-------------------|-----------|--------------|------|-------|
 | S1 | 80-100, 125-145 (radish area) | W18 | 2 weeks | Radish | Sow 1cm deep, 5cm apart, harvest in 3-4 weeks each cycle. Quick-win child activity. |
 | S2 | 20-60, 125-140 (lettuce zone) | W16 | 2-3 weeks until bolting | Baby lettuce | Broadcast sow. Cut-and-come-again. Zone replaced by leeks after bolting (Jun+). |
-| S3 | (110, 25-85) -- bean row gaps | W22 (after first bean harvest) | 3 weeks | Bush beans | Re-sow in gaps where first beans are spent. 2-3 cycles possible through summer. |
+| S3 | (10, 20-80) -- bean row gaps | W22 (after first bean harvest) | 3 weeks | Bush beans | Re-sow in gaps where first beans are spent. 2-3 cycles possible through summer. |
 
 ---
 
@@ -435,30 +436,31 @@ This zone benefits from the 14:00 afternoon shade. Lettuce does not bolt as fast
 | Bush beans + tomato | Neutral -- no conflict, beans fix nitrogen | NEUTRAL |
 | Leek + spring onion | Both alliums, compatible, no conflict | GOOD |
 | Raspberry + chives | Chives repel Japanese beetles and aphids around raspberry canes | GOOD |
-| Leeks + bush beans | Alliums inhibit bean nitrogen fixation -- zones separated by ~60cm | ACCEPTABLE (zone separation enforced) |
+| Leeks + bush beans | Alliums inhibit bean nitrogen fixation -- zones separated by ~55cm | ACCEPTABLE (zone separation enforced) |
 | Strawberry + raspberry | **NOT IN SAME BED** -- strawberries are in Bed B | AVOIDED |
 
 ---
 
 ## Trellis
 
-Same A-frame design as documented in `docs/trellis-build.md`:
-- 120cm peak height
-- Base width spans the 120cm bed width -- legs rest on the ground on either side
-- Wire mesh panels for cucumbers to grip and climb
-- Cucumbers climb up both sides, fruit hangs down at child picking height (80-120cm)
-- Positioned at the south end of the bed (L=0-20cm area)
-- The wider trellis (120cm vs old 80cm) provides more climbing surface for the 2 cucumber plants
+Lean-to trellis extending outward from the east side of the bed:
+- Single mesh panel leaning away from the bed at ~70 degrees
+- Anchored at the east bed edge (north zone)
+- Cucumbers planted at the east edge (W=100-110) and trained outward onto the panel
+- Fruit hangs on the west-facing underside -- the child picks from the bed side
+- The outward lean keeps cucumber foliage from shading other plants inside the bed
+- Mini Munch varieties produce small fruits perfect for child-sized hands
+- See `docs/trellis-build.md` for construction details (note: design changed from A-frame to lean-to)
 
 ## Reservoir
 
-Installed in the south warm-crop zone only (L=0-120cm):
+Installed in the north warm-crop zone only (L=0-120cm):
 - Same PVC pipe system as documented in `docs/reservoir-build.md`
-- Fill tube at south corner (accessible without reaching over plants)
+- Fill tube at north corner (accessible without reaching over plants)
 - Overflow at 8cm depth
 - Liner terminates with a folded-up dam at ~L=120
 - Serves cucumbers, tomato, pepper, basil, and beans -- all high-water-demand crops
-- Middle zone (herbs/salad) and north zone (raspberries) have NO reservoir -- free-draining bottomless-on-grass
+- Middle zone (herbs/salad) and south zone (raspberries) have NO reservoir -- free-draining bottomless-on-grass
 
 ---
 
@@ -468,31 +470,31 @@ This bed concentrates all the child's garden activities in one place:
 
 | Activity | Zone | Frequency | Description |
 |----------|------|-----------|-------------|
-| Cucumber tunnel picking | South | Daily (Jul-Sep) | Pick mini cucumbers dangling at eye level from the trellis. |
-| Bush bean finger-picking | South | Every 2-3 days (Jul-Aug) | Feel for ready beans -- "Does it snap when you bend it?" Pick into basket. |
-| Tomato suckering | South | Weekly (Jun-Sep) | Father-child activity. Find the Y-shape, pinch the sucker. 2-minute task. |
-| Pepper color-change watch | South | Each visit (Aug-Sep) | Ribbon on one pepper, check color progression. Green -> orange -> red. |
+| Cucumber picking (lean-to trellis) | North | Daily (Jul-Sep) | Pick mini cucumbers hanging from the west-facing underside of the lean-to panel. |
+| Bush bean finger-picking | North | Every 2-3 days (Jul-Aug) | Feel for ready beans -- "Does it snap when you bend it?" Pick into basket. |
+| Tomato suckering | North | Weekly (Jun-Sep) | Father-child activity. Find the Y-shape, pinch the sucker. 2-minute task. |
+| Pepper color-change watch | North | Each visit (Aug-Sep) | Ribbon on one pepper, check color progression. Green -> orange -> red. |
 | Lettuce cutting | Middle | Weekly (May-Jun) | Snip leaves at the base with child scissors. Straight to kitchen. |
 | Radish pulling | Middle | Every 2-3 weeks (May-Sep) | Pull radishes when tops are 5cm across. Quick turnaround from sowing. |
 | Broccoli side-shoot harvest | Middle | Weekly (Jul-Sep) | Snap off side shoots after main head is harvested. Child-sized portions. |
-| Raspberry picking | North | Every 2-3 days (Aug-Oct) | "Pick the red ones. If they come off easily, they are ready." |
-| Basil pinching | South | Weekly (Jun-Sep) | Pinch tips above second leaf set. Aromatic sensory moment. |
-| Bee counting | South | Each visit | Count bees visiting borage flowers in one minute. |
+| Raspberry picking | South | Every 2-3 days (Aug-Oct) | "Pick the red ones. If they come off easily, they are ready." |
+| Basil pinching | North | Weekly (Jun-Sep) | Pinch tips above second leaf set. Aromatic sensory moment. |
+| Bee counting | North | Each visit | Count bees visiting borage flowers in one minute. |
 
 ---
 
 ## Cross-References
 
-- **Physical placement:** See `docs/bed-layout.md` -- Bed A, backyard east position
+- **Physical placement:** See `docs/bed-layout.md` -- Bed A, backyard position near cobblestones
 - **Dimensions:** 230 x 120 x 40 cm corten steel, bottomless on grass with mole mesh
-- **Trellis construction:** See `docs/trellis-build.md` -- A-frame design, now spanning 120cm width
-- **Reservoir construction:** See `docs/reservoir-build.md` -- PVC pipe system in south zone only (L=0-120cm)
+- **Trellis construction:** See `docs/trellis-build.md` -- lean-to design, extends outward from east side (note: changed from A-frame)
+- **Reservoir construction:** See `docs/reservoir-build.md` -- PVC pipe system in north zone only (L=0-120cm)
 - **Shopping list:** See `docs/shopping-list.md` for Phase 1/2 materials; `docs/warm-season-shopping-list.md` for Phase 3 seeds
 - **Session scripts:** See `docs/planting-day-script.md` for Phase 2 planting; `docs/warm-season-session-scripts.md` for Phase 3
 - **Slug defense:** See `docs/slug-defense.md` -- copper tape applied to all beds including Bed A
 - **Other bed grids:** `docs/planting-grid-bed-b.md`
 - **Phase 2 baseline:** Peas on trellis (nitrogen pre-crop), borage, calendula, kale placeholder, baby lettuce, spring onions, raspberry canes, chives
-- **Phase 3 handoff:** Peas cut back W21. Cucumbers transplant onto trellis. Warm crops fill south zone. Leeks replace bolted lettuce. Broccoli transplanted. Raspberry zone unchanged.
+- **Phase 3 handoff:** Peas cut back W21. Cucumbers transplant at east edge, trained onto lean-to trellis. Warm crops fill north zone. Leeks replace bolted lettuce. Broccoli transplanted. Raspberry zone unchanged.
 
 ---
 
@@ -505,16 +507,16 @@ This bed satisfies or contributes to:
 | SCHED-01 | Bed-by-bed planting distribution | This grid map provides exact positions for Bed A |
 | ENGM-04 | Companion planting layout | Tomato+basil, cucumber+borage, dill+pepper, dill+broccoli, raspberry+chives verified |
 | CROP-02 | Cherry tomatoes planted | Sungold at (60, 55), indeterminate, staked |
-| CROP-03 | Cucumbers planted | 2 Mini Munch at trellis base (30, 10) and (90, 10) |
+| CROP-03 | Cucumbers planted | 2 Mini Munch at east edge (100, 10) and (100, 80), trained onto lean-to trellis |
 | CROP-04 | Sweet peppers planted | Lipstick at (60, 85) |
 | CROP-05 | Raspberries planted (Autumn Bliss) | 3 bare-root canes at (60, 185), (60, 210), (60, 225) |
 | COOK-01 | Spring onions sown | White Lisbon row at L=130, W=60-110cm |
 | COOK-03 | Leeks transplanted | 3 Musselburgh at 10cm spacing along center, 15cm deep for blanching |
-| COOK-04 | Bush beans direct-sown | 6 Provider/Speedy at 12cm intervals along east edge |
+| COOK-04 | Bush beans direct-sown | 6 Provider/Speedy at 12cm intervals along west edge |
 | COOK-07 | Broccoli transplanted | 1 Calabrese at (100, 150), side shoots for extended harvest |
 | ENGM-02 | Baby lettuce sown | Cut-and-come-again lettuce in broadcast zone (Phase 2, bolts in summer) |
-| SENS-05 | Basil alongside tomatoes | 2 Genovese at (30, 60) and (90, 60), within 30cm of tomato |
-| CRTR-01 | Borage and dill for pollinators/hoverflies | Borage at (30, 40) and (30, 155), dill at (90, 100) and (110, 140) |
+| SENS-05 | Basil alongside tomatoes | 2 Genovese at (30, 60) and (80, 60), within 30cm of tomato |
+| CRTR-01 | Borage and dill for pollinators/hoverflies | Borage at (30, 40) and (30, 155), dill at (80, 100) and (100, 140) |
 | FLWR-02 | Calendula as pest deterrent | Calendula at (90, 40) near warm crops |
 | FLWR-05 | Chive flowers harvested May-Jun | 6 chive divisions around raspberry perimeter |
 | CROP-06 | Radish succession sowing | Succession slot S1 from W18, re-sow every 2 weeks |
@@ -523,7 +525,7 @@ This bed satisfies or contributes to:
 
 ## Bed Summary -- Consolidated Requirement Distribution
 
-All production requirements are now served by Bed A. Bed B (if retained) serves as "His Bed" for the child's personal plants (strawberries, sensory plants, flowers).
+All production requirements are now served by Bed A. Bed B serves as "His Bed" for the child's personal plants (strawberries, sensory plants, flowers).
 
 | Req ID | Bed A | Bed B | Notes |
 |--------|-------|-------|-------|

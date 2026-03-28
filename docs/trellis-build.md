@@ -1,8 +1,8 @@
-# A-Frame Cucumber Trellis Build Guide
+# Lean-To Cucumber Trellis Build Guide
 
 ## Overview
 
-A permanent A-frame trellis sits over the south end of Bed A (the 230x120cm "Family Bed"), where cucumbers are planted. Two angled panels meet at a ridge, and cucumbers climb the mesh to the top, then hang down from underneath. This design is specifically chosen because hanging cucumbers are at the perfect picking height for a 7-year-old -- unlike a vertical trellis where fruit clusters at the top, the A-frame creates a "cucumber tunnel" effect where ripe cucumbers dangle at eye and hand level.
+A lean-to trellis extends outward from the east side of Bed A (the 230x120cm "Family Bed") at the north end, where cucumbers are planted. A single mesh panel leans away from the bed on the east side, and cucumbers are planted at the east edge of the bed and trained outward onto the mesh. Ripe cucumbers hang down from the mesh at a height that is easy for a 7-year-old to see and pick -- no reaching overhead required.
 
 The trellis is designed for permanent installation (year-round), eliminating the hassle of seasonal setup and teardown.
 
@@ -12,16 +12,15 @@ The trellis is designed for permanent installation (year-round), eliminating the
 
 | Parameter | Value |
 |-----------|-------|
-| Height at peak | 120cm (child-reachable) |
-| Base footprint | ~80-100cm long x ~130cm wide |
-| Bed underneath | 230 x 120cm (Bed A), trellis covers south end only (L=0-40cm cucumber zone) |
-| Ridge beam length | ~80-100cm (spanning the cucumber zone lengthwise) |
-| Base width | ~130cm (wider than the 120cm bed, legs rest on ground on either side) |
-| Panel angle | ~60 degrees from horizontal |
+| Height at top (where panel meets bed) | 100-120cm above ground |
+| Base footprint | ~80-100cm outward from east bed wall |
+| Bed underneath | 230 x 120cm (Bed A), trellis covers north end only (L=0-40cm cucumber zone) |
+| Panel width | ~80-100cm (spanning the cucumber zone lengthwise along bed) |
+| Lean angle | ~60-70 degrees from horizontal |
 | Frame material | Pressure-treated timber 45x45mm (class 3+) OR galvanized steel angle 25x25mm |
 | Climbing surface | Galvanized wire mesh (10x10cm grid) or UV-resistant nylon netting |
 
-The base footprint is slightly wider than the 120cm bed to allow for the panel angle -- the legs rest on the ground on either side of the bed, not inside it.
+The lean-to panel rests against or attaches to the east wall of the bed at the top, with its base on the ground east of the bed.
 
 ---
 
@@ -29,123 +28,133 @@ The base footprint is slightly wider than the 120cm bed to allow for the panel a
 
 | Item | Specification | Quantity |
 |------|--------------|----------|
-| Frame legs | 150cm long, timber 45x45mm or steel angle 25x25mm | 4 |
-| Ridge pieces | ~80-100cm long (same material as legs) | 2 |
-| Mesh panels | ~100cm x 130cm each, galvanized wire mesh or UV netting | 2 |
-| T-hinges or bolted brackets | For ridge connection | 2 |
-| L-brackets or ground stakes | For anchoring legs | 4 |
-| Galvanized screws/bolts | Assorted, for frame assembly | ~20 |
-| Cable ties | UV-resistant, for mesh attachment | ~30 |
+| Frame uprights | 150cm long, timber 45x45mm or steel angle 25x25mm | 2 |
+| Top rail | ~80-100cm long (same material as uprights) | 1 |
+| Mesh panel | ~100cm x 120cm, galvanized wire mesh or UV netting | 1 |
+| L-brackets or clamps | For attaching top of panel to bed wall | 2 |
+| Ground stakes | For anchoring base of panel | 2 |
+| Galvanized screws/bolts | Assorted, for frame assembly | ~12 |
+| Cable ties | UV-resistant, for mesh attachment | ~20 |
 
-**Budget:** Approximately 400-700 DKK depending on material choice (timber is cheaper, galvanized steel is more durable).
+**Budget:** Approximately 200-400 DKK depending on material choice (timber is cheaper, galvanized steel is more durable).
 
 ---
 
 ## Build Sequence
 
-### Step 1: Cut the Legs
+### Step 1: Cut the Uprights
 
-Cut 4 legs to 150cm length each. These form the angled sides of the A-frame. If using timber, sand any rough edges. If using steel angle, deburr cut ends with a file.
+Cut 2 uprights to 150cm length each. These form the angled sides of the lean-to panel. If using timber, sand any rough edges. If using steel angle, deburr cut ends with a file.
 
-### Step 2: Cut the Ridge Pieces
+### Step 2: Cut the Top Rail
 
-Cut 2 ridge pieces to ~80-100cm length each (spanning the cucumber zone lengthwise along Bed A). These run along the top of the frame where the two panels meet.
+Cut 1 top rail to ~80-100cm length (spanning the cucumber zone lengthwise along Bed A). This runs across the top of the panel where it meets the bed wall.
 
-### Step 3: Attach Mesh to Frame Panels
+### Step 3: Assemble the Panel Frame
 
-Build two rectangular panels, each consisting of:
-- 2 legs (150cm) as the long sides
-- 1 ridge piece (~80-100cm) as the top crossbar
+Build one rectangular panel consisting of:
+- 2 uprights (150cm) as the long sides
+- 1 top rail (~80-100cm) as the crossbar at the top
 - Mesh or netting stretched across the frame
 
 Attach the mesh to the frame using cable ties every 15-20cm along each edge. If using wire mesh, you can also use galvanized staples (for timber) or small bolts (for steel). The mesh should be taut but does not need to be drum-tight -- cucumbers are not heavy enough to cause significant sag.
 
-### Step 4: Connect Panels at the Ridge
+### Step 4: Position the Panel Against the Bed
 
-Join the two panels at the ridge using hinges or bolts:
+Lean the panel against the east side of Bed A at the north end (L=0-40cm, the cucumber zone). The top of the panel rests against or attaches to the east bed wall at approximately 100-120cm above ground. The base of the panel sits on the ground, approximately 80-100cm east of the bed wall.
 
-- **Hinge option (recommended):** Attach 2 T-hinges along the ridge, connecting the two ridge pieces. This allows the frame to fold flat for storage or seasonal angle adjustment.
-- **Bolt option:** Bolt the ridge pieces together permanently using 2-3 through-bolts. Stronger but not foldable.
+Adjust the lean angle until the frame feels stable. At ~60-70 degrees from horizontal with 150cm uprights, the base extends approximately 75-100cm from the bed wall.
 
-### Step 5: Spread the Legs to Form the A-Shape
+### Step 5: Attach the Top to the Bed Wall
 
-Stand the connected panels upright and spread the legs outward until the base is approximately 130cm wide. The legs should rest on the ground on either side of the 120cm-wide bed -- the bed sits underneath the A-frame, not inside the leg span.
+Secure the top of the panel to the east bed wall using L-brackets or clamps:
 
-Adjust the spread until the frame feels stable. At ~130cm base width with 150cm legs and a 120cm peak, the panel angle will be approximately 60 degrees from horizontal.
+- **L-bracket option (recommended):** Bolt L-brackets to the bed wall and bolt or screw the top rail to the brackets. This creates a solid connection.
+- **Clamp option:** Use adjustable clamps to grip the top of the bed wall and secure the panel. Easier to remove seasonally if desired.
 
-### Step 6: Anchor the Legs
+### Step 6: Anchor the Base
 
-Secure each leg to prevent wind toppling:
+Secure the base of each upright to prevent the panel from sliding outward:
 
-- **Ground stakes:** Drive a 30cm metal stake next to each leg and wire-tie or bolt the leg to the stake.
-- **L-brackets to bed walls:** Bolt L-brackets to the bed wall and secure the leg to the bracket. This is tidier but means the trellis moves with the bed.
-- **Weighted base:** If neither option works, place heavy stones or sandbags against each leg.
+- **Ground stakes:** Drive a 30cm metal stake next to each upright base and wire-tie or bolt the upright to the stake.
+- **Weighted base:** If stakes do not hold in the ground, place heavy stones or sandbags against the base of each upright.
 
 The trellis MUST resist wind. Danish weather includes strong gusts, especially in autumn. An unsecured trellis will topple and damage plants.
 
 ### Step 7: Stability Test
 
-Push the frame firmly from each side. It should sway slightly but not tip. If it rocks or lifts, add more anchoring.
+Push the frame firmly from each side and outward. It should sway slightly but not tip or slide. If it rocks or lifts, add more anchoring.
 
 ---
 
 ## Diagrams
 
-### Front View
+### Side View (looking from south along bed length)
 
 ```
-            /\
-           /  \
-          /    \
-         /      \        Height: 120cm
-        /  mesh   \      at peak
-       /  panel    \
-      /    (L)      \
-     /                \
-    /                  \
-   /____________________\
-   |                    |     Base width: ~130cm
-   |     [  Bed A  ]   |     Bed width: 120cm
-   |     [ 230x120 ]   |
-   |____________________|
+         Bed A (east wall)
+            |
+            |\
+            | \
+            |  \   mesh panel
+            |   \  leaning outward
+            |    \
+            |     \
+            |      \
+            |_______\_________ Ground level
 
-   <------ ~130cm ------>
+            <-- ~80-100cm -->
+            (base extends east)
 ```
 
-### Side View
+### Top View
 
 ```
-        _____
-       /     \
-      / ridge \          Ridge: 80-100cm long
-     /  piece  \         (spans cucumber zone)
-    /           \
-   /     ___     \       Panel angle: ~60 degrees
-  /     |   |     \
- /      |bed|      \     Bed height: 40cm
-/       |   |       \
-========|___|========== Ground level
+         NORTH (fence)
+            |
+    +-------+-------+
+    |       |       |
+    |  Bed  | Lean- |
+    |   A   |  to   |
+    | north | trellis|
+    | zone  | panel  |
+    |       |       |
+    +-------+-------+
+    |               |
+    | Bed A middle  |
+    |               |
+    +-------+-------+
+    |               |
+    | Bed A south   |
+    | (raspberries) |
+    +---------------+
+            |
+         SOUTH (house)
 
-Leg length: 150cm each
+    <-W-> <--E-->
+     bed   trellis
+           extends
+           east
 ```
 
 ---
 
 ## Seasonal Use
 
-- **Spring (April-May):** Trellis is in position over the south end of Bed A. When cucumber seedlings are planted and reach 15-20cm height, begin training them toward the mesh by gently leaning stems against the lower wires.
-- **Summer (June-August):** Cucumbers climb naturally once they contact the mesh -- tendrils wrap around the wire/netting. Redirect wayward vines back toward the mesh if they grow outward.
-- **Harvest:** Ripe cucumbers hang down through the mesh from the inside of the A-frame. The child walks or stands beside the bed and picks cucumbers that dangle at chest or eye level. No reaching overhead required.
-- **Autumn (September-October):** After the last harvest, cut dead vines from the mesh. Leave the trellis in place or fold flat (if hinged) for winter storage.
+- **Spring (April-May):** Trellis is in position on the east side of the north end of Bed A. When cucumber seedlings are planted at the east edge of the bed and reach 15-20cm height, begin training them toward the mesh by gently leaning stems against the lower wires.
+- **Summer (June-August):** Cucumbers climb naturally once they contact the mesh -- tendrils wrap around the wire/netting. Redirect wayward vines back toward the mesh if they grow outward or sideways.
+- **Harvest:** Ripe cucumbers hang down from the mesh on the outward-facing side. The child stands east of the bed and picks cucumbers that dangle at chest or eye level. No reaching overhead required.
+- **Autumn (September-October):** After the last harvest, cut dead vines from the mesh. Leave the trellis in place or remove for winter storage.
 - **Winter:** The frame can remain standing year-round. Galvanized steel and pressure-treated timber (class 3+) both withstand Danish winters without degradation.
 
 ---
 
 ## Child Interaction Note
 
-The A-frame design is specifically chosen for accessibility:
+The lean-to design is specifically chosen for accessibility:
 
-- Cucumbers grow UP the outside of the mesh panels, then hang DOWN through the mesh on the inside
-- This creates a "tunnel" effect where ripe cucumbers dangle at 40-80cm height -- exactly the zone where a 7-year-old can see, reach, and pick them
-- The child can stand next to the bed and look into the A-frame to spot ripe cucumbers -- the visual "treasure hunt" aspect is highly engaging
-- Unlike a vertical trellis (where fruit clusters at 100-150cm, above a child's easy reach), the A-frame brings the harvest to the child
+- Cucumbers grow UP the outward-leaning mesh panel, then hang DOWN from the mesh as they develop
+- This creates a "cucumber curtain" effect where ripe cucumbers dangle at 40-80cm height -- exactly the zone where a 7-year-old can see, reach, and pick them
+- The child stands on the east side of the bed (outside the trellis) and looks at the mesh face-on to spot ripe cucumbers -- the visual "treasure hunt" aspect is highly engaging
+- Unlike a vertical trellis (where fruit clusters at 100-150cm, above a child's easy reach), the lean-to angle brings the harvest to the child
+- The single-panel lean-to is simpler than an A-frame and keeps all access on one side, making it easier for the child to navigate

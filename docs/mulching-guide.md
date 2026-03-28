@@ -44,9 +44,9 @@ Buy straw from a garden center or farm supply. Standard compressed bales expand 
 
 - Spread straw evenly around all plants in all three zones
 - Keep mulch **2-3cm away from plant stems** to prevent rot
-- Keep mulch clear of the reservoir fill tube in the south zone so it remains accessible
-- Tuck straw under the trellis frame at the south end but not against climbing stems
-- In the north zone (raspberries), spread straw around canes and chives
+- Keep mulch clear of the reservoir fill tube in the north zone so it remains accessible
+- Tuck straw under the trellis frame at the north end but not against climbing stems
+- In the south zone (raspberries), spread straw around canes and chives
 
 ### Bed B -- "His Bed" (the SMALLER bed near the house/terrace)
 
@@ -64,7 +64,7 @@ Buy straw from a garden center or farm supply. Standard compressed bales expand 
 Mulch spreading is a sensory-rich activity -- different textures, earthy smells, and the satisfying visual of beds transforming from bare soil to cozy blankets. The child helps with both beds:
 
 - **Bed B:** Child starts with his own bed -- grabs handfuls of straw and places them around his strawberries and flowers. Father guides depth and stem clearance. The smaller bed finishes quickly, good for building confidence.
-- **Bed A:** The big bed -- child works the south zone near the trellis while father handles the raspberry zone and middle zone. Good teamwork activity.
+- **Bed A:** The big bed -- child works the north zone near the trellis while father handles the raspberry zone and middle zone. Good teamwork activity.
 
 Let the child set the pace. If interest fades, father finishes the remaining area while child does something else.
 
@@ -75,7 +75,7 @@ Let the child set the pace. If interest fades, father finishes the remaining are
 Immediately after mulching both beds:
 
 1. **Deep water every bed** -- soak through the mulch layer until water pools briefly on the surface
-2. For Bed A south zone: also fill the reservoir via the fill tube until water flows from the overflow
+2. For Bed A north zone: also fill the reservoir via the fill tube until water flows from the overflow
 3. The deep watering settles the mulch, starts moisture retention, and saturates the soil column beneath
 
 This post-mulch watering is the most important watering of the entire pre-departure sequence.

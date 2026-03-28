@@ -43,7 +43,7 @@ Do this while he is still having breakfast or getting dressed.
 - [ ] Check weather: temperature above 5C, no heavy rain forecast
 - [ ] Lay out all seeds and seedlings by each bed:
   - Bed B: strawberry plugs (Ostara + Korona), pea shoot seeds, viola seedlings, lamb's ear plant, thyme plants, lemon balm plant, calendula seeds, spring onion seeds
-  - Bed A: raspberry canes (Autumn Bliss), chive divisions, pea seeds (Kelvedon Wonder) for south zone trellis base, lettuce seed mix, spring onion seeds, thyme plant, calendula seeds, borage seeds
+  - Bed A: raspberry canes (Autumn Bliss), chive divisions, pea seeds (Kelvedon Wonder) for north zone trellis base, lettuce seed mix, spring onion seeds, thyme plant, calendula seeds, borage seeds
 - [ ] Lay out tools by each bed: trowel, hand fork, watering can (small one for him, large one for you)
 - [ ] Fill both watering cans
 - [ ] Pre-dig holes for strawberry plugs in Bed B (6-8 holes at correct spacing -- see grid map)
@@ -112,14 +112,14 @@ Bed A is the "Family Bed" -- the large bed with three zones. Refer to `docs/plan
 
 | Step | Action | How to Help |
 |------|--------|-------------|
-| 1 | Pushes big pea seeds (Kelvedon Wonder) into holes along the trellis base in Bed A south zone | Pre-poke holes 5 cm deep, 5 cm apart. He drops a seed in each hole and covers it. |
+| 1 | Pushes big pea seeds (Kelvedon Wonder) into holes along the trellis base in Bed A north zone | Pre-poke holes 5 cm deep, 5 cm apart. He drops a seed in each hole and covers it. |
 | 2 | Sprinkles lettuce seeds in Bed A middle zone (broadcast sowing -- fun and imprecise!) | Let him scatter seeds across the surface. Cover lightly with soil. |
 | 3 | Waters the whole bed when planting is done | He uses the small can, you use the large one. |
 
 #### What FATHER Does
 
-- Plant raspberry canes in Bed A north zone (3 canes, 45 cm apart, 8 cm deep) -- sturdy Autumn Bliss canes do not need extra support
-- Divide and plant chives around the perimeter of Bed A north zone (15-20 cm apart)
+- Plant raspberry canes in Bed A south zone (3 canes, 45 cm apart, 8 cm deep) -- sturdy Autumn Bliss canes do not need extra support
+- Divide and plant chives around the perimeter of Bed A south zone (15-20 cm apart)
 - Sow spring onion rows in Bed A middle zone (1 cm deep, thin to 5-8 cm apart)
 - Plant thyme at the edges of Bed A
 - Position calendula and borage in Bed A as companion pest deterrents (0.5 cm deep)

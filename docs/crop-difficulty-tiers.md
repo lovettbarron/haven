@@ -45,7 +45,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Pea Kelvedon Wonder
 
-**Bed:** A (south zone trellis base, Phase 2 -- cleared W21 for cucumbers)
+**Bed:** A (north zone trellis base, Phase 2 -- cleared W21 for cucumbers)
 **Why it is "can't fail":** Climbs the trellis with minimal help. Big seeds, fast germination. Fixes its own nitrogen. Harvest party when pods are plump.
 **The one thing that could go wrong:** Powdery mildew late in the season. By then you have already harvested most of the crop. See `docs/troubleshooting-guide.md` for details.
 
@@ -53,7 +53,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Chives
 
-**Bed:** A (north zone, perimeter around raspberries)
+**Bed:** A (south zone, perimeter around raspberries)
 **Why it is "can't fail":** Perennial -- plant once, harvest for years. Practically indestructible. Purple flowers attract pollinators and are edible.
 **The one thing that could go wrong:** Clumps get too thick after 2-3 years. Divide and replant (or give divisions to neighbours).
 
@@ -77,7 +77,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ### Borage
 
-**Bed:** A (south zone near trellis and middle zone)
+**Bed:** A (north zone near trellis and middle zone)
 **Why it is "can't fail":** Vigorous grower, self-sows freely. Blue star-shaped flowers attract hoverflies whose larvae eat aphids. A key part of the garden's natural pest management.
 **The one thing that could go wrong:** Gets too large and crowds neighbours. Cut back by half if it overspreads.
 
@@ -125,7 +125,7 @@ These 13 crops are the backbone of the garden. They germinate easily, tolerate i
 
 ## Tier 2: "Needs Care"
 
-These 11 crops produce excellent harvests but need regular attention. Check on them every few days during the growing season. The reservoir system in Bed A (south zone) helps with the most demanding plants.
+These 11 crops produce excellent harvests but need regular attention. Check on them every few days during the growing season. The reservoir system in Bed A (north zone) helps with the most demanding plants.
 
 ---
 
@@ -157,7 +157,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Raspberry Autumn Bliss
 
-**Bed:** A (north zone, center column, 3 canes)
+**Bed:** A (south zone, center column, 3 canes)
 **Care it needs:**
 - First year is establishment -- expect small harvest, do not be discouraged
 - Prune spent canes to ground level in late autumn after fruiting ends
@@ -170,7 +170,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Cherry Tomato Sungold
 
-**Bed:** A south zone (center, staked)
+**Bed:** A north zone (center, staked)
 **Care it needs:**
 - Stake on transplant day -- Sungold is indeterminate and grows 2-3m tall
 - Prune suckers weekly to 1-2 main stems
@@ -196,9 +196,9 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Cucumber Mini Munch
 
-**Bed:** A south zone (trellis base, 2 plants)
+**Bed:** A north zone (trellis base, 2 plants)
 **Care it needs:**
-- Train up the A-frame trellis -- guide tendrils, do not force
+- Train up the lean-to trellis -- guide tendrils, do not force
 - Consistent water via reservoir -- cucumbers hate drying out
 - Watch for powdery mildew from late July, especially in humid weather
 
@@ -209,7 +209,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Sweet Pepper Lipstick
 
-**Bed:** A south zone
+**Bed:** A north zone
 **Care it needs:**
 - Patience -- slow to ripen in Danish summers, fruit may not colour until August-September
 - Warmth -- cover with fleece if nights drop below 10C in early season
@@ -222,7 +222,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Basil
 
-**Bed:** A south zone (flanking tomato, 2 plants)
+**Bed:** A north zone (flanking tomato, 2 plants)
 **Care it needs:**
 - Frost sensitive -- cover or bring inside if temperature drops below 5C
 - Pinch flower buds regularly to keep the plant bushy and productive
@@ -248,7 +248,7 @@ These 11 crops produce excellent harvests but need regular attention. Check on t
 
 ### Bush Bean Provider
 
-**Bed:** A south zone (east edge, row of 5)
+**Bed:** A north zone (east edge, row of 5)
 **Care it needs:**
 - Wait for warm soil (15C+) before sowing -- beans rot in cold ground
 - Frost sensitive -- cover with fleece if late frost threatens after W20
@@ -308,7 +308,7 @@ These 4 crops have long growing seasons, specific knowledge requirements, or tri
 
 ### Kale Nero di Toscana
 
-**Bed:** A south zone (harvested by W21 if space needed for warm crops)
+**Bed:** A north zone (harvested by W21 if space needed for warm crops)
 **Why it is challenging:**
 - Caterpillar magnet -- shares the cabbage white butterfly problem with broccoli
 - Long season crop that benefits from overwintering knowledge (flavour improves after frost)
@@ -321,7 +321,7 @@ These 4 crops have long growing seasons, specific knowledge requirements, or tri
 
 ### Garlic (Hardneck)
 
-**Bed:** TBD -- likely Bed A middle zone (after herbs/salad finish) or Bed A south zone (after warm crops clear)
+**Bed:** TBD -- likely Bed A middle zone (after herbs/salad finish) or Bed A north zone (after warm crops clear)
 **Why it is challenging:**
 - Autumn planting (late September to mid-October 2026), 9-month growing cycle until July 2027 harvest
 - Scape removal needed in June (the curly flower stalks -- edible bonus harvest)

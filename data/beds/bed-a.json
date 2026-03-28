@@ -7,82 +7,74 @@
     "dimensions": { "length_cm": 230, "width_cm": 120, "height_cm": 40 },
     "material": "corten_steel",
     "product": "byJEMA Corten B120xH40 L230",
-    "features": ["bottomless", "mole-mesh", "a-frame-trellis", "self-watering-reservoir"],
+    "features": ["bottomless", "mole-mesh", "lean-to-trellis-east", "self-watering-reservoir"],
     "orientation": "N-S",
     "surface": "grass",
-    "sun_notes": "Good morning sun, some afternoon shade ~14:00"
+    "sun_notes": "North end = full sun (fence side). South end = afternoon shade from house ~14:00."
   },
   "zones": [
     {
-      "id": "south-warm-crops",
-      "name": "Warm Crop Zone",
+      "id": "north-warm-crops",
+      "name": "Warm Crop Zone (full sun)",
       "range_l": [0, 120],
-      "features": ["a-frame-trellis", "self-watering-reservoir"]
+      "features": ["lean-to-trellis-east", "self-watering-reservoir"],
+      "notes": "L=0 is north end (fence, full sun). Reservoir underneath. Lean-to trellis extends outward from east side."
     },
     {
       "id": "middle-herbs-salad",
-      "name": "Herbs & Salad Zone",
-      "range_l": [120, 160],
+      "name": "Herbs & Salad Zone (afternoon shade)",
+      "range_l": [120, 170],
       "features": [],
-      "notes": "Benefits from afternoon shade -- lettuce bolts slower, leeks and broccoli thrive"
+      "notes": "Benefits from afternoon shade. Lettuce bolts slower, leeks and broccoli thrive."
     },
     {
-      "id": "north-raspberry",
-      "name": "Raspberry Zone",
-      "range_l": [170, 230],
-      "features": []
+      "id": "south-raspberry",
+      "name": "Raspberry Zone (perennial, shade-tolerant)",
+      "range_l": [180, 230],
+      "features": [],
+      "notes": "L=230 is south end (house side, afternoon shade). Perennial section."
     }
   ],
   "crops": [
     {
-      "crop_id": "pea-kelvedon-wonder",
-      "shortcode": "PEA",
-      "zone": "south-warm-crops",
-      "positions": [
-        { "center_w": 30, "center_l": 5, "spread_cm": 20 },
-        { "center_w": 60, "center_l": 5, "spread_cm": 20 },
-        { "center_w": 90, "center_l": 5, "spread_cm": 20 }
-      ],
-      "planted_week": 16,
-      "notes": "Nitrogen pre-crop on trellis. Cut at ground W21, roots left."
-    },
-    {
       "crop_id": "cucumber-mini-munch",
       "shortcode": "CUC",
-      "zone": "south-warm-crops",
+      "zone": "north-warm-crops",
       "positions": [
-        { "center_w": 30, "center_l": 10, "spread_cm": 30 },
-        { "center_w": 90, "center_l": 10, "spread_cm": 30 }
+        { "center_w": 105, "center_l": 15, "spread_cm": 30 },
+        { "center_w": 105, "center_l": 65, "spread_cm": 30 }
       ],
-      "planted_week": 21
-    },
-    {
-      "crop_id": "borage",
-      "shortcode": "BOR",
-      "zone": "south-warm-crops",
-      "positions": [
-        { "center_w": 30, "center_l": 40, "spread_cm": 35 }
-      ],
-      "planted_week": 17
+      "planted_week": 21,
+      "notes": "East edge, trained outward onto lean-to trellis"
     },
     {
       "crop_id": "bush-bean-provider",
       "shortcode": "BN",
-      "zone": "south-warm-crops",
+      "zone": "north-warm-crops",
       "positions": [
-        { "center_w": 110, "center_l": 25, "spread_cm": 12 },
-        { "center_w": 110, "center_l": 37, "spread_cm": 12 },
-        { "center_w": 110, "center_l": 49, "spread_cm": 12 },
-        { "center_w": 110, "center_l": 61, "spread_cm": 12 },
-        { "center_w": 110, "center_l": 73, "spread_cm": 12 },
-        { "center_w": 110, "center_l": 85, "spread_cm": 12 }
+        { "center_w": 10, "center_l": 20, "spread_cm": 12 },
+        { "center_w": 10, "center_l": 32, "spread_cm": 12 },
+        { "center_w": 10, "center_l": 44, "spread_cm": 12 },
+        { "center_w": 10, "center_l": 56, "spread_cm": 12 },
+        { "center_w": 10, "center_l": 68, "spread_cm": 12 },
+        { "center_w": 10, "center_l": 80, "spread_cm": 12 }
       ],
-      "planted_week": 20
+      "planted_week": 20,
+      "notes": "West edge column"
+    },
+    {
+      "crop_id": "borage",
+      "shortcode": "BOR",
+      "zone": "north-warm-crops",
+      "positions": [
+        { "center_w": 35, "center_l": 35, "spread_cm": 35 }
+      ],
+      "planted_week": 17
     },
     {
       "crop_id": "cherry-tomato-sungold",
       "shortcode": "TOM",
-      "zone": "south-warm-crops",
+      "zone": "north-warm-crops",
       "positions": [
         { "center_w": 60, "center_l": 55, "spread_cm": 45 }
       ],
@@ -91,17 +83,17 @@
     {
       "crop_id": "basil",
       "shortcode": "BAS",
-      "zone": "south-warm-crops",
+      "zone": "north-warm-crops",
       "positions": [
-        { "center_w": 30, "center_l": 60, "spread_cm": 25 },
-        { "center_w": 90, "center_l": 60, "spread_cm": 25 }
+        { "center_w": 35, "center_l": 60, "spread_cm": 25 },
+        { "center_w": 85, "center_l": 60, "spread_cm": 25 }
       ],
       "planted_week": 21
     },
     {
       "crop_id": "sweet-pepper-lipstick",
       "shortcode": "PEP",
-      "zone": "south-warm-crops",
+      "zone": "north-warm-crops",
       "positions": [
         { "center_w": 60, "center_l": 85, "spread_cm": 35 }
       ],
@@ -110,11 +102,23 @@
     {
       "crop_id": "dill",
       "shortcode": "DIL",
-      "zone": "south-warm-crops",
+      "zone": "north-warm-crops",
       "positions": [
-        { "center_w": 90, "center_l": 100, "spread_cm": 25 }
+        { "center_w": 85, "center_l": 100, "spread_cm": 25 }
       ],
       "planted_week": 18
+    },
+    {
+      "crop_id": "pea-kelvedon-wonder",
+      "shortcode": "PEA",
+      "zone": "north-warm-crops",
+      "positions": [
+        { "center_w": 40, "center_l": 5, "spread_cm": 20 },
+        { "center_w": 60, "center_l": 5, "spread_cm": 20 },
+        { "center_w": 80, "center_l": 5, "spread_cm": 20 }
+      ],
+      "planted_week": 16,
+      "notes": "Nitrogen pre-crop. Cut at ground W21, roots left."
     },
     {
       "crop_id": "lettuce-baby-mix",
@@ -124,14 +128,14 @@
         { "center_w": 40, "center_l": 130, "spread_cm": 30 }
       ],
       "planted_week": 16,
-      "notes": "Broadcast sow. Benefits from afternoon shade. Bolts in summer, replaced by leeks."
+      "notes": "Broadcast sow. Afternoon shade slows bolting. Replaced by leeks in summer."
     },
     {
       "crop_id": "spring-onion-white-lisbon",
       "shortcode": "SON",
       "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 90, "center_l": 130, "spread_cm": 30 }
+        { "center_w": 85, "center_l": 130, "spread_cm": 30 }
       ],
       "planted_week": 16
     },
@@ -140,9 +144,9 @@
       "shortcode": "LEK",
       "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 40, "center_l": 140, "spread_cm": 15 },
-        { "center_w": 40, "center_l": 155, "spread_cm": 15 },
-        { "center_w": 40, "center_l": 170, "spread_cm": 15 }
+        { "center_w": 50, "center_l": 145, "spread_cm": 15 },
+        { "center_w": 50, "center_l": 155, "spread_cm": 15 },
+        { "center_w": 50, "center_l": 165, "spread_cm": 15 }
       ],
       "planted_week": 21
     },
@@ -151,7 +155,7 @@
       "shortcode": "BRC",
       "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 100, "center_l": 150, "spread_cm": 40 }
+        { "center_w": 95, "center_l": 155, "spread_cm": 40 }
       ],
       "planted_week": 21
     },
@@ -160,10 +164,19 @@
       "shortcode": "DIL-2",
       "zone": "middle-herbs-salad",
       "positions": [
-        { "center_w": 110, "center_l": 140, "spread_cm": 25 }
+        { "center_w": 105, "center_l": 140, "spread_cm": 25 }
       ],
       "planted_week": 18,
       "notes": "Near broccoli for hoverfly pest control"
+    },
+    {
+      "crop_id": "borage",
+      "shortcode": "BOR-2",
+      "zone": "middle-herbs-salad",
+      "positions": [
+        { "center_w": 30, "center_l": 155, "spread_cm": 35 }
+      ],
+      "planted_week": 17
     },
     {
       "crop_id": "calendula",
@@ -177,25 +190,25 @@
     {
       "crop_id": "raspberry-autumn-bliss",
       "shortcode": "RB",
-      "zone": "north-raspberry",
+      "zone": "south-raspberry",
       "positions": [
-        { "center_w": 60, "center_l": 185, "spread_cm": 45 },
-        { "center_w": 60, "center_l": 210, "spread_cm": 45 },
-        { "center_w": 60, "center_l": 225, "spread_cm": 45 }
+        { "center_w": 60, "center_l": 190, "spread_cm": 45 },
+        { "center_w": 60, "center_l": 215, "spread_cm": 45 }
       ],
-      "planted_week": 16
+      "planted_week": 16,
+      "notes": "2 canes in shade-tolerant south zone. Consider adding 3rd cane if space allows."
     },
     {
       "crop_id": "chives",
       "shortcode": "CHV",
-      "zone": "north-raspberry",
+      "zone": "south-raspberry",
       "positions": [
-        { "center_w": 15, "center_l": 180, "spread_cm": 15 },
-        { "center_w": 105, "center_l": 180, "spread_cm": 15 },
-        { "center_w": 15, "center_l": 200, "spread_cm": 15 },
-        { "center_w": 105, "center_l": 200, "spread_cm": 15 },
-        { "center_w": 15, "center_l": 220, "spread_cm": 15 },
-        { "center_w": 105, "center_l": 220, "spread_cm": 15 }
+        { "center_w": 15, "center_l": 185, "spread_cm": 15 },
+        { "center_w": 105, "center_l": 185, "spread_cm": 15 },
+        { "center_w": 15, "center_l": 210, "spread_cm": 15 },
+        { "center_w": 105, "center_l": 210, "spread_cm": 15 },
+        { "center_w": 15, "center_l": 225, "spread_cm": 15 },
+        { "center_w": 105, "center_l": 225, "spread_cm": 15 }
       ],
       "planted_week": 16
     }
@@ -203,7 +216,7 @@
   "succession_slots": [
     {
       "id": "S1",
-      "area": { "w_start": 60, "w_end": 80, "l_start": 125, "l_end": 145 },
+      "area": { "w_start": 50, "w_end": 70, "l_start": 135, "l_end": 145 },
       "crop_id": "radish",
       "first_sow_week": 18,
       "interval_weeks": 2

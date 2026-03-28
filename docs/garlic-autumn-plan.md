@@ -60,11 +60,11 @@ Buy in September so you have it ready for the October planting window.
 - 40cm soil depth is good for garlic
 - See `docs/planting-grid-bed-a.md` for current layout
 
-**Alternative: Bed A south zone** (Family Bed -- same bed, south section)
+**Alternative: Bed A north zone** (Family Bed -- same bed, north section)
 - After warm-season crops (tomatoes, cucumbers, peppers) are removed in autumn
 - More space if you want to plant extra cloves
 
-**Decision rule:** Decide at planting time based on which zone of Bed A has cleared first. If the middle zone still has leeks growing, use the south zone. If the south zone still has tomatoes clinging on, use the middle zone. Both will work well.
+**Decision rule:** Decide at planting time based on which zone of Bed A has cleared first. If the middle zone still has leeks growing, use the north zone. If the north zone still has tomatoes clinging on, use the middle zone. Both will work well.
 
 ---
 
@@ -80,7 +80,7 @@ Buy in September so you have it ready for the October planting window.
 
 4. **Place each clove pointed end UP, flat end DOWN.** This is the single most important step. If you plant it upside down, it will still grow, but the stem will curve around and the bulb will be misshapen.
 
-5. **Space cloves 15cm apart** in rows. In the Bed A middle zone, you can fit 2-3 rows depending on space cleared. In the south zone, space rows 20cm apart.
+5. **Space cloves 15cm apart** in rows. In the Bed A middle zone, you can fit 2-3 rows depending on space cleared. In the north zone, space rows 20cm apart.
 
 6. **Cover with soil** and firm gently. Water in well after planting -- a thorough soak to settle the soil around the cloves.
 
@@ -136,7 +136,7 @@ Buy seed garlic in September from a garden center or online. Straw can be source
 
 ## Cross-References
 
-- **Bed A layout:** See `docs/planting-grid-bed-a.md` for current bed contents and dimensions (middle and south zones)
+- **Bed A layout:** See `docs/planting-grid-bed-a.md` for current bed contents and dimensions (middle and north zones)
 - **Bed layout overview:** See `docs/bed-layout.md` for physical bed positions
 
 ---

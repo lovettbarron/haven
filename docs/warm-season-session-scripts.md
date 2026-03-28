@@ -42,7 +42,7 @@ If conditions are not right, postpone 1-3 days. Seeds do not mind waiting.
 
 - [ ] Check soil temperature (thermometer or hand test -- should feel warmish)
 - [ ] Pre-mark sowing positions in Bed B: sunflower spots, nasturtium at edges
-- [ ] Pre-mark sowing positions in Bed A south zone: bean row (12cm intervals)
+- [ ] Pre-mark sowing positions in Bed A north zone: bean row (12cm intervals)
 - [ ] Have ruler stake ready -- marked in 10cm increments with waterproof marker
 - [ ] Lay out seed packets by their destination: sunflower and nasturtium near Bed B, bush bean and dill near Bed A
 - [ ] Set out watering can (small one for him, large one for you)
@@ -78,11 +78,11 @@ Bed B is "His Bed." Refer to `docs/planting-grid-bed-b.md` for exact positions.
 
 ---
 
-### Step 3 -- Bush Beans in Bed A South Zone (10 min)
+### Step 3 -- Bush Beans in Bed A North Zone (10 min)
 
 Walk to Bed A together -- just across the grass. Refer to `docs/planting-grid-bed-a.md` for exact positions.
 
-**FATHER:** Pre-mark a row in the Bed A south zone. Poke 4-6 holes, 3-5cm deep, 12cm apart.
+**FATHER:** Pre-mark a row in the Bed A north zone. Poke 4-6 holes, 3-5cm deep, 12cm apart.
 
 **HE:** Pushes one bean seed into each hole -- big seeds, satisfying push. Covers with soil and pats down.
 
@@ -96,7 +96,7 @@ Walk to Bed A together -- just across the grass. Refer to `docs/planting-grid-be
 
 ### Step 4 -- Dill in Bed A (5 min)
 
-**FATHER ONLY:** Sprinkle dill seeds (tiny -- 0.5cm deep) in Bed A south zone near the pepper area. Lightly cover with soil.
+**FATHER ONLY:** Sprinkle dill seeds (tiny -- 0.5cm deep) in Bed A north zone near the pepper area. Lightly cover with soil.
 
 **HE:** Waters the dill spots with the watering can.
 
@@ -160,12 +160,12 @@ Session 2 happens AFTER Session 1 sunflowers, nasturtiums, and beans have been g
 
 - [ ] Water both beds thoroughly the evening before
 - [ ] Lay out seedlings by their destination:
-  - **Bed A south zone:** cucumber seedlings (x2), tomato Sungold seedling (x1), pepper seedling (x1), basil seedlings (x2)
+  - **Bed A north zone:** cucumber seedlings (x2), tomato Sungold seedling (x1), pepper seedling (x1), basil seedlings (x2)
   - **Bed A middle zone:** leek seedlings (x3-4), broccoli seedling (x1)
   - **Next to Bed B:** mint plant + 30cm+ pot + potting soil bag
 - [ ] Have tomato stake (1.5m+) and twine/soft ties ready for Bed A
 - [ ] Pre-dig ALL transplant holes at grid map positions (saves time during the session -- see each bed's grid map for exact cm):
-  - Bed A south zone: holes for cucumbers at trellis base, tomato, pepper, basil
+  - Bed A north zone: holes for cucumbers at trellis base, tomato, pepper, basil
   - Bed A middle zone: dibber holes 15cm deep for leeks, hole for broccoli
 - [ ] Set out snacks and water at the garden table
 - [ ] Have watering can filled (both sizes)
@@ -180,7 +180,7 @@ Walk to Bed B first.
 
 "Look! Your sunflowers are sprouting!" (If visible -- they should be 5-15cm tall after 3 weeks.) "And the nasturtium seeds too!"
 
-Check bean sprouts in Bed A south zone. "Your beans are up! Can you see the flowers starting?"
+Check bean sprouts in Bed A north zone. "Your beans are up! Can you see the flowers starting?"
 
 Quick sunflower measurement if sprouts are visible:
 - He reads the ruler stake at the top of the tallest sunflower
@@ -189,19 +189,19 @@ Quick sunflower measurement if sprouts are visible:
 
 > **Transition cue:** "Now -- it's time for a harvest party!"
 
-#### Step 2 -- Pea Harvest Party in Bed A South Zone (10-15 min)
+#### Step 2 -- Pea Harvest Party in Bed A North Zone (10-15 min)
 
 Walk to Bed A together.
 
 "Let's pick every last pea! How many can we find?"
 
-**HE:** Picks all remaining peas from the A-frame trellis. Count them together. Eat some right there in the garden.
+**HE:** Picks all remaining peas from the lean-to trellis. Count them together. Eat some right there in the garden.
 
 **Celebrate:** "You grew [number] peas! That's amazing. The peas did their job -- they made the soil super rich for cucumbers."
 
 **FATHER:** Cuts pea stems at ground level. **LEAVE ROOTS IN SOIL** -- the nitrogen-fixing nodules on the roots benefit the cucumbers that are going in next.
 
-**HE:** Helps pull pea stems off the A-frame trellis. Bundle stems together for compost.
+**HE:** Helps pull pea stems off the lean-to trellis. Bundle stems together for compost.
 
 **FATHER:** Light top-up with 2-3cm compost in the trellis zone where the peas were cleared.
 
@@ -245,11 +245,11 @@ Let him reset. Do not talk about what comes next unless he asks.
 
 Bed A is the "Family Bed." Father has pre-dug all holes at the grid map positions. Refer to `docs/planting-grid-bed-a.md` for exact positions.
 
-#### South Zone -- Warm Crops
+#### North Zone -- Warm Crops
 
 **Cucumber transplants at trellis base:**
 
-**HE:** Places the first cucumber seedling in the pre-dug hole at the south end of Bed A.
+**HE:** Places the first cucumber seedling in the pre-dug hole at the north end of Bed A.
 **FATHER:** Backfills gently around the root ball. Waters well.
 
 **HE:** Places the second cucumber seedling at the next position.
@@ -259,21 +259,21 @@ Bed A is the "Family Bed." Father has pre-dug all holes at the grid map position
 
 **Tomato Sungold transplant:**
 
-**HE:** Places the tomato seedling in the pre-dug hole in Bed A south zone.
+**HE:** Places the tomato seedling in the pre-dug hole in Bed A north zone.
 **FATHER:** Backfills and waters. Immediately installs the tomato stake next to the plant. Ties the stem loosely with twine in a figure-8 pattern.
 
 "This tomato will grow taller than you! Every week we'll tie it up higher and pinch off the side shoots so it focuses on making tomatoes."
 
 **Sweet pepper transplant:**
 
-**HE:** Places the pepper seedling in its position in Bed A south zone.
+**HE:** Places the pepper seedling in its position in Bed A north zone.
 **FATHER:** Backfills and waters.
 
 "Peppers start green and slowly turn red when they're ready. We'll watch them change color all summer!"
 
 **Basil transplants:**
 
-**HE:** Places the basil seedlings in their positions in Bed A south zone.
+**HE:** Places the basil seedlings in their positions in Bed A north zone.
 **FATHER:** Backfills and waters each one.
 
 **HE:** Pinches a basil leaf and smells it.
@@ -343,7 +343,7 @@ Set the first weekly sunflower measurement day for next [pick a consistent day o
 | Step 2 -- Pea Harvest Party | ~10-15 min | Yes |
 | Step 3 -- Mint pot setup (his bed) | ~10-15 min | Yes |
 | **MANDATORY SNACK BREAK** | **~10-15 min** | **Yes** |
-| Step 4 -- Bed A south zone transplants | ~15-20 min | Yes |
+| Step 4 -- Bed A north zone transplants | ~15-20 min | Yes |
 | Step 5 -- Bed A middle zone transplants | ~10 min | Yes |
 | Step 6 -- Final watering | ~5 min | Yes |
 | Wrap-up | ~5 min | Yes |

@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 750" font-family="'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#555"/>
+    </marker>
+    <linearGradient id="corten" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b5703c"/><stop offset="100%" style="stop-color:#c48040"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="750" fill="#f7f4ef"/>
+
+  <text x="450" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#2c3e50">Lean-To Trellis -- Option A</text>
+  <text x="450" y="50" text-anchor="middle" font-size="12" fill="#7f8c8d">Single mesh panel leaning against west edge of Bed A</text>
+
+  <!-- ============================================================ -->
+  <!-- CROSS-SECTION VIEW (looking from the north end)                -->
+  <!-- Shows the lean-to panel from the side                          -->
+  <!-- ============================================================ -->
+  <g transform="translate(50, 80)">
+    <text x="200" y="0" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">Cross-Section (looking from north end)</text>
+
+    <!-- Ground -->
+    <rect x="0" y="300" width="400" height="30" fill="#a3c77e" opacity="0.5" rx="2"/>
+    <text x="200" y="322" text-anchor="middle" font-size="9" fill="#5a7a3a">ground</text>
+
+    <!-- Bed walls (120cm wide = 300px at 2.5px/cm) -->
+    <rect x="50" y="200" width="12" height="100" fill="#b5703c"/>
+    <rect x="338" y="200" width="12" height="100" fill="#b5703c"/>
+
+    <!-- Soil inside bed -->
+    <rect x="62" y="220" width="276" height="80" fill="#8d6e53" opacity="0.3"/>
+
+    <!-- Bed labels -->
+    <text x="200" y="270" text-anchor="middle" font-size="10" fill="#6d4c41">Bed A (120cm wide)</text>
+
+    <!-- West edge label -->
+    <text x="56" y="195" text-anchor="middle" font-size="9" fill="#7f8c8d">WEST</text>
+    <!-- East edge label -->
+    <text x="344" y="195" text-anchor="middle" font-size="9" fill="#7f8c8d">EAST</text>
+
+    <!-- Lean-to mesh panel (leaning from west edge upward) -->
+    <!-- Base at west edge of bed (x=62), top extends outward to ~x=150 at height 120cm -->
+    <!-- Angle ~70° from horizontal -->
+    <line x1="62" y1="300" x2="120" y2="100" stroke="#27ae60" stroke-width="3"/>
+    <!-- Mesh pattern on the panel -->
+    <g stroke="#27ae60" stroke-width="0.8" opacity="0.5">
+      <!-- Horizontal mesh lines -->
+      <line x1="66" y1="280" x2="108" y2="140"/>
+      <line x1="70" y1="260" x2="112" y2="120"/>
+      <line x1="74" y1="240" x2="114" y2="110"/>
+      <line x1="78" y1="220" x2="116" y2="106"/>
+      <!-- Cross lines to show mesh grid -->
+      <line x1="72" y1="262" x2="72" y2="100"/>
+      <line x1="82" y1="280" x2="95" y2="100"/>
+      <line x1="92" y1="290" x2="108" y2="105"/>
+      <line x1="102" y1="296" x2="116" y2="112"/>
+    </g>
+
+    <!-- Panel outline -->
+    <polygon points="62,300 120,100 124,102 66,302" fill="#27ae60" opacity="0.15"/>
+
+    <!-- Support leg (on ground, west side of bed) -->
+    <line x1="62" y1="300" x2="30" y2="300" stroke="#795548" stroke-width="3"/>
+    <rect x="25" y="296" width="10" height="8" rx="2" fill="#795548"/>
+    <text x="30" y="340" text-anchor="middle" font-size="8" fill="#795548">ground stake</text>
+
+    <!-- Top anchor point -->
+    <circle cx="120" cy="100" r="4" fill="#27ae60"/>
+
+    <!-- Cucumber plant climbing up -->
+    <path d="M75,250 Q80,220 85,200 Q90,180 95,160 Q100,140 110,120"
+          fill="none" stroke="#2ecc71" stroke-width="2" stroke-dasharray="4,3"/>
+    <!-- Cucumber fruit hanging from panel -->
+    <ellipse cx="92" cy="170" rx="6" ry="14" fill="#27ae60" opacity="0.6"/>
+    <text x="112" y="170" font-size="8" fill="#27ae60" font-style="italic">cucumber hangs here</text>
+    <ellipse cx="100" cy="140" rx="5" ry="12" fill="#27ae60" opacity="0.5"/>
+
+    <!-- Child figure (east side, picking) -->
+    <g transform="translate(250, 180)">
+      <!-- Simple stick figure child -->
+      <circle cx="0" cy="0" r="12" fill="none" stroke="#2c3e50" stroke-width="1.5"/>
+      <line x1="0" y1="12" x2="0" y2="60" stroke="#2c3e50" stroke-width="1.5"/>
+      <line x1="0" y1="25" x2="-25" y2="45" stroke="#2c3e50" stroke-width="1.5"/>
+      <line x1="0" y1="25" x2="15" y2="50" stroke="#2c3e50" stroke-width="1.5"/>
+      <line x1="0" y1="60" x2="-12" y2="90" stroke="#2c3e50" stroke-width="1.5"/>
+      <line x1="0" y1="60" x2="12" y2="90" stroke="#2c3e50" stroke-width="1.5"/>
+      <!-- Reaching toward cucumber -->
+      <line x1="-25" y1="45" x2="-60" y2="30" stroke="#2c3e50" stroke-width="1.5"/>
+      <text x="0" y="105" text-anchor="middle" font-size="8" fill="#2c3e50">child picks from</text>
+      <text x="0" y="115" text-anchor="middle" font-size="8" fill="#2c3e50">the EAST side</text>
+    </g>
+
+    <!-- Arrow showing open view from east -->
+    <line x1="340" y1="140" x2="400" y2="140" stroke="#3498db" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="410" y="135" font-size="9" fill="#3498db">open view</text>
+    <text x="410" y="147" font-size="9" fill="#3498db">to yard →</text>
+
+    <!-- Height annotation -->
+    <line x1="135" y1="100" x2="135" y2="300" stroke="#555" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <line x1="130" y1="100" x2="140" y2="100" stroke="#555" stroke-width="0.7"/>
+    <line x1="130" y1="300" x2="140" y2="300" stroke="#555" stroke-width="0.7"/>
+    <text x="148" y="200" font-size="9" fill="#555">~110cm</text>
+    <text x="148" y="212" font-size="9" fill="#555">height</text>
+
+    <!-- Angle annotation -->
+    <path d="M62,280 Q72,280 78,270" fill="none" stroke="#555" stroke-width="0.7"/>
+    <text x="82" y="282" font-size="8" fill="#555">~70°</text>
+
+    <!-- Width annotation (bed) -->
+    <line x1="62" y1="310" x2="338" y2="310" stroke="#555" stroke-width="0.7"/>
+    <text x="200" y="308" text-anchor="middle" font-size="9" fill="#555">120cm bed width</text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- TOP-DOWN VIEW (bird's eye)                                     -->
+  <!-- Shows lean-to placement on Bed A north zone                    -->
+  <!-- ============================================================ -->
+  <g transform="translate(500, 80)">
+    <text x="175" y="0" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">Top-Down View (Bed A north zone)</text>
+    <text x="175" y="16" text-anchor="middle" font-size="9" fill="#7f8c8d">Only showing the warm-crop zone</text>
+
+    <!-- North zone of bed (portion) -->
+    <rect x="0" y="30" width="280" height="290" rx="4" fill="url(#corten)" stroke="#8b5e3c" stroke-width="2.5"/>
+    <rect x="4" y="34" width="272" height="282" rx="2" fill="#fdf2e0"/>
+
+    <!-- West / East labels -->
+    <text x="-8" y="180" text-anchor="middle" font-size="9" fill="#7f8c8d" transform="rotate(-90,-8,180)">WEST (trellis side)</text>
+    <text x="288" y="180" text-anchor="middle" font-size="9" fill="#7f8c8d" transform="rotate(90,288,180)">EAST (open view to yard)</text>
+    <text x="140" y="28" text-anchor="middle" font-size="8" fill="#7f8c8d">NORTH (fence, full sun)</text>
+    <text x="140" y="330" text-anchor="middle" font-size="8" fill="#7f8c8d">→ continues to middle zone</text>
+
+    <!-- Lean-to panel along west edge (highlighted strip) -->
+    <rect x="6" y="36" width="35" height="220" rx="3" fill="#27ae60" opacity="0.2" stroke="#27ae60" stroke-width="2" stroke-dasharray="6,3"/>
+    <text x="23" y="140" text-anchor="middle" font-size="8" fill="#1b7a3d" font-weight="bold" transform="rotate(-90,23,140)">LEAN-TO MESH PANEL (~100cm tall)</text>
+
+    <!-- Cucumber zones at trellis base -->
+    <path d="M8,40 Q6,36 25,36 L60,38 Q72,40 70,60 L68,108 Q66,120 52,118 L20,116 Q8,114 10,98 Z"
+          fill="#27ae60" opacity="0.25" stroke="#27ae60" stroke-width="1"/>
+    <text x="40" y="78" text-anchor="middle" font-size="9" fill="#1b7a3d" font-weight="bold">CUC</text>
+
+    <path d="M8,128 Q6,124 25,124 L60,126 Q72,128 70,150 L68,198 Q66,210 52,208 L20,206 Q8,204 10,188 Z"
+          fill="#27ae60" opacity="0.25" stroke="#27ae60" stroke-width="1"/>
+    <text x="40" y="168" text-anchor="middle" font-size="9" fill="#1b7a3d" font-weight="bold">CUC</text>
+
+    <!-- TOM (center) -->
+    <path d="M80,55 Q76,50 110,50 L180,52 Q200,54 198,80 L196,135 Q194,152 175,150 L100,148 Q78,146 80,128 Z"
+          fill="#e74c3c" opacity="0.2" stroke="#e74c3c" stroke-width="1"/>
+    <text x="140" y="98" text-anchor="middle" font-size="11" fill="#a93226" font-weight="bold">TOM</text>
+
+    <!-- BAS-1 -->
+    <path d="M80,155 Q76,150 105,150 L145,152 Q158,154 156,172 L154,200 Q152,212 136,210 L92,208 Q78,206 80,190 Z"
+          fill="#2ecc71" opacity="0.25" stroke="#2ecc71" stroke-width="0.8"/>
+    <text x="118" y="184" text-anchor="middle" font-size="8" fill="#1a7a3d">BAS</text>
+
+    <!-- BAS-2 -->
+    <path d="M162,155 Q158,150 185,150 L225,152 Q240,154 238,172 L236,200 Q234,212 218,210 L174,208 Q160,206 162,190 Z"
+          fill="#2ecc71" opacity="0.25" stroke="#2ecc71" stroke-width="0.8"/>
+    <text x="200" y="184" text-anchor="middle" font-size="8" fill="#1a7a3d">BAS</text>
+
+    <!-- PEP -->
+    <path d="M80,215 Q76,210 115,210 L190,212 Q208,214 206,235 L204,270 Q202,284 185,282 L98,280 Q78,278 80,260 Z"
+          fill="#e67e22" opacity="0.2" stroke="#e67e22" stroke-width="1"/>
+    <text x="142" y="250" text-anchor="middle" font-size="10" fill="#c76a0a" font-weight="bold">PEP</text>
+
+    <!-- BEANS strip (east edge) -->
+    <path d="M244,42 Q240,38 258,38 L270,40 Q276,42 274,55 L272,250 Q270,262 264,260 L250,258 Q242,256 244,244 Z"
+          fill="#795548" opacity="0.25" stroke="#795548" stroke-width="0.8"/>
+    <text x="258" y="148" text-anchor="middle" font-size="7" fill="#4e342e" font-weight="bold" transform="rotate(90,258,148)">BEANS</text>
+
+    <!-- BOR -->
+    <path d="M80,42 Q76,38 100,38 L145,40 Q158,42 156,60 L154,90 Q152,102 136,100 L92,98 Q78,96 80,80 Z"
+          fill="#8e44ad" opacity="0.18" stroke="#8e44ad" stroke-width="0.8"/>
+    <text x="118" y="72" text-anchor="middle" font-size="8" fill="#6c3483">BOR</text>
+
+    <!-- DIL -->
+    <path d="M210,56 Q206,52 232,52 L264,54 Q272,56 270,74 L268,100 Q266,112 250,110 L222,108 Q208,106 210,92 Z"
+          fill="#1abc9c" opacity="0.22" stroke="#1abc9c" stroke-width="0.8"/>
+    <text x="240" y="84" text-anchor="middle" font-size="8" fill="#0e8c6e">DIL</text>
+
+    <!-- View direction arrow -->
+    <line x1="290" y1="100" x2="350" y2="100" stroke="#3498db" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <text x="360" y="96" font-size="9" fill="#3498db" font-weight="bold">open view</text>
+    <text x="360" y="108" font-size="9" fill="#3498db">to yard</text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- COMPARISON: A-frame vs Lean-to                                 -->
+  <!-- ============================================================ -->
+  <g transform="translate(50, 460)">
+    <rect x="-10" y="-10" width="860" height="280" rx="6" fill="#fff" stroke="#bdc3c7" stroke-width="1"/>
+    <text x="420" y="12" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">A-Frame vs Lean-To Comparison</text>
+
+    <!-- A-frame (old design) -->
+    <g transform="translate(40, 40)">
+      <text x="150" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">A-Frame (old design)</text>
+
+      <!-- Ground -->
+      <line x1="0" y1="180" x2="300" y2="180" stroke="#aaa" stroke-width="1"/>
+      <!-- Bed -->
+      <rect x="60" y="140" width="180" height="40" fill="#b5703c" opacity="0.3" stroke="#8b5e3c" stroke-width="1.5" rx="2"/>
+      <!-- A-frame -->
+      <line x1="40" y1="180" x2="150" y2="40" stroke="#e74c3c" stroke-width="2.5"/>
+      <line x1="260" y1="180" x2="150" y2="40" stroke="#e74c3c" stroke-width="2.5"/>
+      <!-- Mesh fill -->
+      <polygon points="40,180 150,40 260,180" fill="#e74c3c" opacity="0.08"/>
+
+      <text x="150" y="200" text-anchor="middle" font-size="9" fill="#c0392b">Blocks view across full 120cm width</text>
+      <text x="150" y="214" text-anchor="middle" font-size="9" fill="#c0392b">120cm peak height</text>
+
+      <!-- X mark -->
+      <line x1="130" y1="225" x2="170" y2="245" stroke="#c0392b" stroke-width="3"/>
+      <line x1="170" y1="225" x2="130" y2="245" stroke="#c0392b" stroke-width="3"/>
+    </g>
+
+    <!-- Lean-to (new design) -->
+    <g transform="translate(460, 40)">
+      <text x="150" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#27ae60">Lean-To (proposed)</text>
+
+      <!-- Ground -->
+      <line x1="0" y1="180" x2="300" y2="180" stroke="#aaa" stroke-width="1"/>
+      <!-- Bed -->
+      <rect x="60" y="140" width="180" height="40" fill="#b5703c" opacity="0.3" stroke="#8b5e3c" stroke-width="1.5" rx="2"/>
+      <!-- Lean-to panel (west side only) -->
+      <line x1="60" y1="180" x2="105" y2="50" stroke="#27ae60" stroke-width="2.5"/>
+      <!-- Mesh fill -->
+      <polygon points="60,180 105,50 110,52 65,182" fill="#27ae60" opacity="0.1"/>
+
+      <!-- Open space to the east -->
+      <line x1="150" y1="90" x2="280" y2="90" stroke="#3498db" stroke-width="1" stroke-dasharray="4,3"/>
+      <text x="220" y="85" text-anchor="middle" font-size="9" fill="#3498db">open view →</text>
+
+      <text x="150" y="200" text-anchor="middle" font-size="9" fill="#27ae60">Only 30cm of visual footprint</text>
+      <text x="150" y="214" text-anchor="middle" font-size="9" fill="#27ae60">~110cm height, west edge only</text>
+
+      <!-- Check mark -->
+      <polyline points="135,228 148,242 172,222" fill="none" stroke="#27ae60" stroke-width="3"/>
+    </g>
+  </g>
+
+  <!-- Build notes -->
+  <g transform="translate(50, 690)">
+    <text x="0" y="0" font-size="11" font-weight="bold" fill="#2c3e50">Build Notes:</text>
+    <text x="0" y="18" font-size="10" fill="#555">• Single mesh panel (~100cm wide x 110cm tall) leaned against west bed wall at ~70°</text>
+    <text x="0" y="34" font-size="10" fill="#555">• Base anchored with ground stake on the west side (outside bed)</text>
+    <text x="0" y="50" font-size="10" fill="#555">• Top secured to a horizontal bar or directly to bed wall with L-brackets</text>
+    <text x="0" y="66" font-size="10" fill="#555">• Uses 1 mesh panel instead of 2 — simpler build, less material</text>
+    <text x="0" y="82" font-size="10" fill="#555">• Cucumbers plant at base of panel (west edge of bed), fruit hangs on east-facing side</text>
+  </g>
+
+</svg>
