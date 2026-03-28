@@ -29,7 +29,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 7: Data Consistency and Identity Fix** - Resolve bed naming discrepancy (1-5 vs A-E) and fix all cross-reference inconsistencies across docs and data (completed 2026-03-28)
 - [x] **Phase 8: Child Engagement Bridge** - Create daily routine card and between-session activities so the child can independently engage with the garden (completed 2026-03-28)
 - [ ] **Phase 9: Operational Readiness** - Spring planting shopping list, purchase prioritization, and tool inventory for build and planting days
-- [ ] **Phase 10: Home Assistant Setup** - Step-by-step HA configuration walkthrough and basic Lovelace dashboard for sensor deployment
+- [x] **Phase 10: Home Assistant Setup** - Step-by-step HA configuration walkthrough and basic Lovelace dashboard for sensor deployment (completed 2026-03-28)
 - [ ] **Phase 11: Season 2 Preparation** - End-of-season cleanup, perennial management, soil refresh, and crop failure recovery documentation
 - [ ] **Phase 12: Planning Artifact Maintenance** - Update stale checkboxes, statuses, and metadata across ROADMAP.md, PROJECT.md, and REQUIREMENTS.md
 
@@ -191,7 +191,7 @@ Plans:
   1. A setup walkthrough guides the user through configuring HA sensors, Plant Monitor entities, and alert automations using the prepared JSON/YAML
   2. A basic Lovelace dashboard YAML shows per-bed moisture and temperature cards that can be pasted into HA
   3. Alert rule notification targets are documented as requiring user-specific configuration with instructions for finding the correct service name
-**Plans:** 1 plan
+**Plans:** 1/1 plans complete
 
 Plans:
 - [ ] 10-01-PLAN.md -- HA setup walkthrough with sensors, plant monitors, automations, and Lovelace dashboard
@@ -237,6 +237,6 @@ Plans:
 | 7. Data Consistency and Identity Fix | 2/2 | Complete   | 2026-03-28 | - |
 | 8. Child Engagement Bridge | 2/2 | Complete   | 2026-03-28 | - |
 | 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
-| 10. Home Assistant Setup | v1.1 | 0/? | Not started | - |
+| 10. Home Assistant Setup | 1/1 | Complete   | 2026-03-28 | - |
 | 11. Season 2 Preparation | v1.1 | 0/? | Not started | - |
 | 12. Planning Artifact Maintenance | v1.1 | 0/? | Not started | - |

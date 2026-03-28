@@ -128,9 +128,9 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 
 ### HA Integration
 
-- [ ] **HAIG-01**: Step-by-step HA setup walkthrough for configuring sensors, plant monitors, and alerts
-- [ ] **HAIG-02**: Basic Lovelace dashboard YAML showing per-bed moisture and temperature cards
-- [ ] **HAIG-03**: Alert rule notification target documented as requiring user-specific configuration
+- [x] **HAIG-01**: Step-by-step HA setup walkthrough for configuring sensors, plant monitors, and alerts
+- [x] **HAIG-02**: Basic Lovelace dashboard YAML showing per-bed moisture and temperature cards
+- [x] **HAIG-03**: Alert rule notification target documented as requiring user-specific configuration
 
 ### Season 2 Preparation
 
@@ -280,9 +280,9 @@ Requirements for gap closure and operational readiness. Each maps to roadmap pha
 | OPRD-02 | Phase 9 | Complete |
 | OPRD-03 | Phase 9 | Complete |
 | OPRD-04 | Phase 9 | Complete |
-| HAIG-01 | Phase 10 | Pending |
-| HAIG-02 | Phase 10 | Pending |
-| HAIG-03 | Phase 10 | Pending |
+| HAIG-01 | Phase 10 | Complete |
+| HAIG-02 | Phase 10 | Complete |
+| HAIG-03 | Phase 10 | Complete |
 | SSN2-01 | Phase 11 | Pending |
 | SSN2-02 | Phase 11 | Pending |
 | SSN2-03 | Phase 11 | Pending |

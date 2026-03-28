@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Gap Closure and Operational Readiness
 status: completed
-stopped_at: Completed 09-01-PLAN.md
-last_updated: "2026-03-28T13:54:51.156Z"
-last_activity: 2026-03-28 -- Completed 09-01 spring planting shopping list, purchase priority, tool inventory, budget fix
+stopped_at: Completed 10-01-PLAN.md
+last_updated: "2026-03-28T15:14:05.534Z"
+last_activity: 2026-03-28 -- Completed 10-01 HA setup walkthrough with sensors, automations, dashboard
 progress:
   total_phases: 12
-  completed_phases: 9
-  total_plans: 20
-  completed_plans: 20
+  completed_phases: 10
+  total_plans: 21
+  completed_plans: 21
   percent: 100
 ---
 
@@ -21,16 +21,16 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-28)
 
 **Core value:** A child who independently checks on, cares for, and harvests from plants he chose to grow
-**Current focus:** Phase 9: Operational Readiness (v1.1)
+**Current focus:** Phase 10: Home Assistant Setup (v1.1)
 
 ## Current Position
 
-Phase: 9 of 12 (Operational Readiness)
+Phase: 10 of 12 (Home Assistant Setup)
 Plan: 1 of 1 (complete)
-Status: Phase 9 complete
-Last activity: 2026-03-28 -- Completed 09-01 spring planting shopping list, purchase priority, tool inventory, budget fix
+Status: Phase 10 complete
+Last activity: 2026-03-28 -- Completed 10-01 HA setup walkthrough with sensors, automations, dashboard
 
-Progress: [██████████] 100% (20/20 plans complete)
+Progress: [██████████] 100% (21/21 plans complete)
 
 ## Performance Metrics
 
@@ -59,6 +59,7 @@ Progress: [██████████] 100% (20/20 plans complete)
 | Phase 08 P02 | 1min | 1 tasks | 1 files |
 | Phase 08 P01 | 2 | 2 tasks | 2 files |
 | Phase 09 P01 | 2min | 2 tasks | 4 files |
+| Phase 10 P01 | 2min | 2 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -83,6 +84,8 @@ Recent decisions affecting current work:
 - [08-01]: Weekly walk uses pick-2-of-4 model for child choice and agency
 - [Phase 09]: Budget range updated to ~8,500-10,500 DKK based on actual 2-bed shopping list totals
 - [Phase 09]: Adapted 5-bed plant inventory to 2-bed reality for spring shopping list
+- [Phase 10]: All 10 HA automations always-on year-round; warm-season rules harmless when conditions unmet
+- [Phase 10]: Used UI card editor paste flow for Lovelace, not deprecated mode: yaml
 
 ### Pending Todos
 
@@ -101,7 +104,7 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-28T13:52:20.239Z
-Stopped at: Completed 09-01-PLAN.md
+Last session: 2026-03-28T15:14:05.532Z
+Stopped at: Completed 10-01-PLAN.md
 Resume file: None
 Next step: /gsd:execute-phase 9
