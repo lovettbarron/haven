@@ -58,6 +58,7 @@ All 3 beds are oriented with their **long axis running north-south**. This ensur
     |         +--------+  +--------+  +--------+      |
     |         |        |  |        |  |        |      |
     |         | Bed 1  |  | Bed 2  |  | Bed 3  |      |
+    |         |(Bed B) |  |(Bed C) |  |(Bed A) |      |
     |         | 120x60 |  | 120x60 |  | 120x60 |      |
     |         |  (cm)  |  |  (cm)  |  |  (cm)  |      |
     |         |        |  |        |  |        |      |
@@ -118,6 +119,7 @@ The 2 terrace beds are positioned along the **outer railing/edge** of the roof t
     |                                                      |
     |    +-----------+     80cm gap     +-----------+      |
     |    |  Bed 4    |<--------------->|  Bed 5    |      |
+    |    | (Bed D)   |                 | (Bed E)   |      |
     |    | 80x40x30  |                 | 80x40x30  |      |
     |    +-----------+                 +-----------+      |
     |                                                      |
@@ -183,23 +185,25 @@ The 2 terrace beds are positioned along the **outer railing/edge** of the roof t
 
 ## Bed Assignment Table
 
-| Bed | Location | Dimensions (cm) | Material | Purpose | Special Features |
-|-----|----------|-----------------|----------|---------|-----------------|
-| Bed 1 | Backyard, west position | 120 x 60 x 40 | Corten steel | Tomato + basil + nasturtium | Self-watering reservoir |
-| Bed 2 | Backyard, center position | 120 x 60 x 40 | Corten steel | Cucumber + pepper + radish + borage | Self-watering reservoir + A-frame trellis |
-| Bed 3 | Backyard, east position | 120 x 60 x 40 | Corten steel | Berry (strawberry + raspberry) + thyme + chives | None |
-| Bed 4 | Terrace, position 1 (south end) | 80 x 40 x 30 | Galvanized steel | Herbs + sensory plants | Lightweight soil mix |
-| Bed 5 | Terrace, position 2 (north end) | 80 x 40 x 30 | Galvanized steel | Lettuce + quick wins | Lightweight soil mix |
+| Bed | Build # | Location | Dimensions (cm) | Material | Purpose | Special Features |
+|-----|---------|----------|-----------------|----------|---------|-----------------|
+| Bed A | Bed 3 | Backyard, east | 120 x 60 x 40 | Corten steel | Strawberry + sensory plants + flowers ("His Bed") | None |
+| Bed B | Bed 1 | Backyard, west | 120 x 60 x 40 | Corten steel | Raspberry + chives | Reservoir hardware present but not actively used |
+| Bed C | Bed 2 | Backyard, center | 120 x 60 x 40 | Corten steel | Warm crops (cucumber + tomato + pepper + basil + dill) | Self-watering reservoir + A-frame trellis |
+| Bed D | Bed 4 | Terrace, south end | 80 x 40 x 30 | Galvanized steel | Herbs + lettuce + spring onion | Lightweight soil mix |
+| Bed E | Bed 5 | Terrace, north end | 80 x 40 x 30 | Galvanized steel | Broccoli + bush beans + dill + flowers | Lightweight soil mix |
+
+> **Note:** Phase 1 docs originally used Bed 1-5. The canonical mapping is: Bed 1 = Bed B (west), Bed 2 = Bed C (center), Bed 3 = Bed A (east), Bed 4 = Bed D (terrace south), Bed 5 = Bed E (terrace north).
 
 ### Assignment Rationale
 
-- **Bed 1 (Tomato):** Westernmost backyard position gets the most afternoon sun, which tomatoes need. The self-watering reservoir ensures consistent moisture during hot spells and vacations.
-- **Bed 2 (Cucumber):** Center position with the A-frame trellis. Cucumbers climb the trellis and hang down for easy child picking. The reservoir handles their high water demand. Peppers, radish, and borage are companion plants that share the bed space around the trellis base.
-- **Bed 3 (Berry):** Easternmost position is slightly cooler, which berries tolerate well. Strawberries and raspberries are perennial -- this bed stays planted year-round. Thyme and chives at the edges provide sensory interest and pest deterrence.
-- **Bed 4 (Herbs):** Terrace position gets excellent sun for Mediterranean herbs (basil, oregano, parsley). Sensory plants (lamb's ear, lemon balm) are placed at the edges where the child can touch and smell them during terrace time.
-- **Bed 5 (Quick wins):** Lettuce, radish succession sowing, and other fast-growing crops. Positioned on the terrace for daily visibility -- the child sees progress every time he walks past.
+- **Bed A (Strawberry / "His Bed"):** Easternmost backyard position. Strawberries, sensory plants (lamb's ear, lemon balm), and flowers (sunflowers, nasturtium) make this the child's primary engagement bed. Slightly cooler position suits perennial berries well.
+- **Bed B (Raspberry):** Westernmost backyard position. Raspberries and chives are low-maintenance perennials. A reservoir was physically installed during construction (when this bed was planned for tomatoes), but raspberries prefer free-draining soil so the reservoir is not actively used.
+- **Bed C (Warm Crops):** Center position with the A-frame trellis and active self-watering reservoir. Cucumbers climb the trellis; tomatoes, peppers, basil, and dill fill the bed around the trellis base. The reservoir handles high water demand from these warm-season crops.
+- **Bed D (Herbs + Salad):** Terrace south end gets excellent sun for herbs (thyme, oregano, parsley), lettuce, spring onion, and leeks. Lightweight soil mix for terrace weight limits.
+- **Bed E (Warm Terrace):** Terrace north end. Broccoli, bush beans, dill, and flowers. Positioned for daily visibility -- the child sees progress every time he walks past.
 
-**Note:** Bed assignments anticipate Phase 2 (spring planting) and Phase 3 (warm season planting), but they are documented here because reservoir installation (Bed 1, Bed 2) and trellis construction (Bed 2) happen during Phase 1 infrastructure work. The infrastructure must be built into the correct beds from the start.
+**Note:** Bed assignments reflect the final Phase 2/3 planting plans. Infrastructure (reservoir in Bed C, trellis on Bed C) was built during Phase 1 construction. Bed B's reservoir hardware remains from original construction but is not actively used for raspberries.
 
 ---
 
@@ -216,8 +220,8 @@ The animal/insect hotel is planned for the **shaded area behind the swing set** 
 ## Cross-Reference with Shopping List
 
 The quantities in `docs/shopping-list.md` match this layout:
-- **3 corten beds** (120x60x40cm) = Beds 1, 2, 3 in the backyard
-- **2 galvanized beds** (80x40x30cm) = Beds 4, 5 on the terrace
-- **2 reservoir sets** (PVC pipe, liner, geotextile, overflow) = Beds 1 and 2
-- **1 trellis set** (timber, mesh, hardware) = Bed 2
-- **Copper tape** (2 rolls of 25m) = All 5 beds (total perimeter: Beds 1-3 at 3.6m each = 10.8m, Beds 4-5 at 2.4m each = 4.8m, grand total = 15.6m + overlap allowance)
+- **3 corten beds** (120x60x40cm) = Beds 1-3 (Bed B, Bed C, Bed A) in the backyard
+- **2 galvanized beds** (80x40x30cm) = Beds 4-5 (Bed D, Bed E) on the terrace
+- **2 reservoir sets** (PVC pipe, liner, geotextile, overflow) = Bed 2 (Bed C, active reservoir for warm crops) and Bed 1 (Bed B, hardware installed but not actively used for raspberries)
+- **1 trellis set** (timber, mesh, hardware) = Bed 2 (Bed C, cucumber trellis)
+- **Copper tape** (2 rolls of 25m) = All 5 beds (total perimeter: Beds 1-3 (Bed B, C, A) at 3.6m each = 10.8m, Beds 4-5 (Bed D, E) at 2.4m each = 4.8m, grand total = 15.6m + overlap allowance)

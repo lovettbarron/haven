@@ -9,7 +9,7 @@ Benefits:
 - **Reduced surface moisture** -- the soil surface stays drier, which discourages slugs and fungal diseases
 - **Vacation survival** -- fill the reservoir before leaving and the beds sustain themselves for days
 
-Install reservoirs in **Bed 1 (tomato)** and **Bed 2 (cucumber)** only. These are the two highest-water-demand crops and the ones that must survive vacation periods.
+Install reservoirs in **Bed 1 (Bed B, west)** and **Bed 2 (Bed C, center)** during construction. **Bed C (Bed 2)** is the primary active reservoir -- warm crops (cucumber, tomato, pepper, basil, dill) have high water demand and must survive vacation periods. **Bed B (Bed 1)** has the reservoir hardware physically installed, but since the crop plan changed to raspberries (which prefer free-draining soil), this reservoir is present but not actively used.
 
 ---
 

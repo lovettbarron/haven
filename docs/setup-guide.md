@@ -35,26 +35,28 @@ Before placing the backyard beds, lay a sheet of 6mm galvanized hardware cloth (
 
 This prevents moles and voles from tunneling up into the growing medium from below. Moles are common in Vejle -- the mesh is cheap insurance.
 
-**Note:** Skip this for terrace beds (Beds 4-5) -- they are elevated off ground.
+**Note:** Skip this for terrace beds (Beds 4-5 / Bed D, Bed E) -- they are elevated off ground.
 
 **Verify:** Mesh flat at each position, no gaps at corners, sized to fold up inside the bed walls.
 
-### Step 2: Assemble Backyard Beds (Beds 1-3) (~45 min)
+### Step 2: Assemble Backyard Beds (Beds 1-3 / Bed B, Bed C, Bed A) (~45 min)
 
 - **Time:** ~15 min per bed
 - **People:** 1-2 adults
 - **Child can:** Hold parts during assembly, hand over screws/bolts
 
-Assemble the three byJEMA CUBY beds per manufacturer instructions on top of the mesh sheets at the positions marked from [bed-layout.md](bed-layout.md). Place Bed 1 (tomato) in the west position, Bed 2 (cucumber) in the center, and Bed 3 (berry) in the east position. Once each bed is placed, fold the excess mesh up against the inner walls.
+Assemble the three byJEMA CUBY beds per manufacturer instructions on top of the mesh sheets at the positions marked from [bed-layout.md](bed-layout.md). Place Bed 1 (Bed B, raspberry) in the west position, Bed 2 (Bed C, warm crops) in the center, and Bed 3 (Bed A, strawberry / "His Bed") in the east position. Once each bed is placed, fold the excess mesh up against the inner walls.
 
 **Verify:** All 3 beds are level, positioned per layout, mesh folded up inside walls with no gaps, all sides accessible with 70cm paths between them.
 
-### Step 3: Install Reservoirs in Beds 1 and 2 (~60 min)
+### Step 3: Install Reservoirs in Beds 1 and 2 (Bed B and Bed C) (~60 min)
 
 - **Time:** ~30 min per bed
 - **People:** 1 adult (child should step back -- sharp tools and heavy liner)
 
 Follow [reservoir-build.md](reservoir-build.md) completely for each bed. This includes lining the bed, perforating and laying PVC pipes, installing the fill tube and overflow fitting, and filling the reservoir zone with gravel and geotextile.
+
+**Note on reservoir usage:** Bed C (Bed 2, center) is the primary reservoir bed -- warm crops (cucumber, tomato, pepper) have high water demand and the reservoir is essential. Bed B (Bed 1, west) has the reservoir hardware installed during construction, but raspberries prefer free-draining soil. The Bed B reservoir is physically present but not actively used.
 
 **CRITICAL:** Test each reservoir with water before proceeding. Fill via the fill tube until overflow triggers. Fix any issues now -- they are impossible to fix after soil is added.
 
@@ -72,13 +74,13 @@ Follow [slug-defense.md](slug-defense.md) for the application method. Clean the 
 
 **Verify:** Continuous band around each bed, no gaps at corners, overlapped at joints.
 
-### Step 5: Assemble Terrace Beds (Beds 4-5) (~30 min)
+### Step 5: Assemble Terrace Beds (Beds 4-5 / Bed D, Bed E) (~30 min)
 
 - **Time:** ~15 min per bed
 - **People:** 1-2 adults (carrying beds upstairs)
 - **Child can:** Supervise placement from safe distance
 
-Assemble and position the two galvanized beds per the terrace section of [bed-layout.md](bed-layout.md). Place them along the outer railing, directly above the carport walls and beams for structural support.
+Assemble and position the two galvanized beds per the terrace section of [bed-layout.md](bed-layout.md). Place Bed 4 (Bed D, herbs + salad) at the south end and Bed 5 (Bed E, broccoli + beans) at the north end, along the outer railing directly above the carport walls and beams for structural support.
 
 **Verify:** Beds along railing, over structural supports, level. See terrace weight assessment in [bed-layout.md](bed-layout.md).
 
@@ -96,7 +98,7 @@ Follow [slug-defense.md](slug-defense.md). Same method as the backyard beds.
 
 ## Day 2: Soil Fill + Trellis (~3-4 hours)
 
-### Step 7: Fill Beds 1 and 2 (Reservoir Beds) (~45 min)
+### Step 7: Fill Beds 1 and 2 (Bed B and Bed C, Reservoir Beds) (~45 min)
 
 - **Time:** ~20 min per bed
 - **People:** 1-2 adults
@@ -110,7 +112,7 @@ Layer sequence above the reservoir:
 
 **Verify:** Layers at correct depths, fill tube accessible above soil line.
 
-### Step 8: Fill Bed 3 (Standard Bed) (~20 min)
+### Step 8: Fill Bed 3 (Bed A, Standard Bed) (~20 min)
 
 - **Time:** ~20 min
 - **People:** 1-2 adults
@@ -123,7 +125,7 @@ Follow [soil-layers.md](soil-layers.md) for the standard 40cm bed:
 
 **Verify:** Drainage layer 8-10cm, waste layer 10-15cm, soil layer 15-20cm.
 
-### Step 9: Fill Beds 4 and 5 (Terrace Beds) (~30 min)
+### Step 9: Fill Beds 4 and 5 (Bed D and Bed E, Terrace Beds) (~30 min)
 
 - **Time:** ~15 min per bed
 - **People:** 1-2 adults
@@ -138,13 +140,13 @@ Transport soil materials upstairs in buckets -- do not try to carry full bags up
 
 **Verify:** Total fill height ~25-28cm (allowing for settling).
 
-### Step 10: Build and Install A-Frame Trellis on Bed 2 (~60 min)
+### Step 10: Build and Install A-Frame Trellis on Bed 2 (Bed C) (~60 min)
 
 - **Time:** ~60 min
 - **People:** 1-2 adults
 - **Child can:** Hold mesh panels during attachment, test stability after
 
-Follow [trellis-build.md](trellis-build.md) completely. Build the two mesh panels, connect them at the ridge with hinges, spread the legs to 70cm base width, and position the A-frame over Bed 2 (the cucumber bed) with legs on either side of the bed.
+Follow [trellis-build.md](trellis-build.md) completely. Build the two mesh panels, connect them at the ridge with hinges, spread the legs to 70cm base width, and position the A-frame over Bed 2 (Bed C, the warm crop bed with cucumbers) with legs on either side of the bed.
 
 Anchor the legs to prevent wind toppling -- use ground stakes, L-brackets, or weighted bases.
 
@@ -158,7 +160,7 @@ Anchor the legs to prevent wind toppling -- use ground stakes, L-brackets, or we
 
 Water all beds thoroughly from the top:
 1. Water each bed until water drains from the bottom
-2. Fill both reservoirs (Beds 1 and 2) via the fill tubes until overflow triggers
+2. Fill both reservoirs (Beds 1 and 2 / Bed B and Bed C) via the fill tubes until overflow triggers
 3. Let water soak in for 5-10 minutes, then water again
 
 Beds will settle 5-10cm over the next week. Plan to top up with hojbedsmuld before planting (Phase 2).
@@ -170,11 +172,11 @@ Beds will settle 5-10cm over the next week. Plan to top up with hojbedsmuld befo
 - [ ] Mole mesh laid under all 3 backyard bed positions
 - [ ] 3 backyard beds assembled and positioned per layout
 - [ ] 2 terrace beds assembled and positioned over structural supports
-- [ ] Reservoirs installed and tested in Beds 1 and 2
+- [ ] Reservoirs installed and tested in Beds 1 and 2 (Bed B and Bed C)
 - [ ] Copper tape applied to all 5 beds (no gaps)
 - [ ] All beds filled with correct soil layers
-- [ ] A-frame trellis installed on Bed 2, stable and anchored
-- [ ] Fill tubes accessible above soil in Beds 1 and 2
+- [ ] A-frame trellis installed on Bed 2 (Bed C), stable and anchored
+- [ ] Fill tubes accessible above soil in Beds 1 and 2 (Bed B and Bed C)
 - [ ] All beds watered thoroughly
 - [ ] Ready for Phase 2: planting
 
@@ -190,6 +192,6 @@ All Phase 1 documents:
 | [bed-layout.md](bed-layout.md) | Where to put it -- backyard and terrace placement with ASCII diagrams and weight assessment |
 | [soil-layers.md](soil-layers.md) | How to fill beds -- three-layer system for both bed sizes |
 | [slug-defense.md](slug-defense.md) | Copper tape application -- step-by-step with per-bed tape lengths |
-| [reservoir-build.md](reservoir-build.md) | Self-watering system -- DIY wicking bed construction for Beds 1 and 2 |
-| [trellis-build.md](trellis-build.md) | Cucumber A-frame -- child-accessible trellis for Bed 2 |
+| [reservoir-build.md](reservoir-build.md) | Self-watering system -- DIY wicking bed construction for Beds 1 and 2 (Bed B and Bed C) |
+| [trellis-build.md](trellis-build.md) | Cucumber A-frame -- child-accessible trellis for Bed 2 (Bed C) |
 | [setup-guide.md](setup-guide.md) | This document -- master construction sequence from delivery through first watering |
