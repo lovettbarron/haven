@@ -379,3 +379,145 @@ message: "If you see this, notifications are working!"
 ### What You Should See
 
 A push notification on your phone with the title "Havn Garden Test" and the test message. If it does not arrive, check that the Home Assistant Companion App is installed and logged in on your phone.
+
+---
+
+## Step 7: Lovelace Dashboard
+
+Create dashboard cards to visualize moisture and temperature for both beds with gauge displays and plant health status.
+
+### How to Add Cards
+
+1. Open your dashboard
+2. Click the three-dot menu (top right) > **Edit Dashboard**
+3. Click **+ Add Card**
+4. Select **Manual** card type
+5. Click **Show Code Editor**
+6. Paste the YAML below
+7. Click **Save**
+
+Repeat for each card (Bed A stack, then Bed B stack).
+
+### Bed A (Family Bed) -- Vertical Stack
+
+```yaml
+type: vertical-stack
+title: Bed A - Family Bed
+cards:
+  - type: gauge
+    entity: sensor.havn_bed_a_moisture
+    name: Soil Moisture
+    unit: '%'
+    min: 0
+    max: 100
+    needle: true
+    severity:
+      green: 40
+      yellow: 25
+      red: 0
+  - type: gauge
+    entity: sensor.havn_bed_a_temperature
+    name: Soil Temperature
+    unit: 'C'
+    min: -5
+    max: 40
+    needle: true
+    severity:
+      green: 4
+      yellow: 0
+      red: -5
+  - type: entity
+    entity: plant.havn_bed_a
+    name: Bed A Health
+```
+
+### Bed B (His Bed) -- Vertical Stack
+
+```yaml
+type: vertical-stack
+title: Bed B - His Bed
+cards:
+  - type: gauge
+    entity: sensor.havn_bed_b_moisture
+    name: Soil Moisture
+    unit: '%'
+    min: 0
+    max: 100
+    needle: true
+    severity:
+      green: 40
+      yellow: 25
+      red: 0
+  - type: gauge
+    entity: sensor.havn_bed_b_temperature
+    name: Soil Temperature
+    unit: 'C'
+    min: -5
+    max: 40
+    needle: true
+    severity:
+      green: 4
+      yellow: 0
+      red: -5
+  - type: entity
+    entity: plant.havn_bed_b
+    name: Bed B Health
+```
+
+> **Note:** Add each vertical-stack as a separate card. You should see gauge needles once sensors are reporting real data. Until then, gauges will show 0.
+
+### What You Should See
+
+Two card stacks on your dashboard, each with a moisture gauge, a temperature gauge, and a plant health entity. The moisture gauge uses green/yellow/red zones based on plant thresholds. The temperature gauge highlights frost danger in red and cold warning in yellow.
+
+---
+
+## Step 8: Verification Checklist
+
+After completing all steps above, walk through this checklist to confirm everything is working.
+
+- [ ] **Developer Tools > States** shows `sensor.havn_bed_a_moisture` (and all 3 other havn sensors)
+- [ ] **Developer Tools > States** shows `plant.havn_bed_a` and `plant.havn_bed_b`
+- [ ] **Settings > Automations & Scenes** lists all 10 Havn automations (search "Havn")
+- [ ] **Dashboard** shows gauge cards for both beds (values will be 0 until sensors are installed)
+- [ ] **Test notification:** Developer Tools > Actions > select `notify.mobile_app_<your_device>` > call with test message > push notification received
+- [ ] **No errors** in Settings > System > Logs after restart
+
+> **Tip:** If any entity shows "unavailable" instead of a number, check that the source entity names in Step 2 match your actual Zigbee2MQTT entity names. Go to Developer Tools > States and search for "zigbee" to find the correct names.
+
+---
+
+## Quick Reference -- All Havn Entities
+
+A complete list of every entity created by this guide, for easy lookup.
+
+### Sensors (4)
+
+| Entity ID | Type | Bed |
+|-----------|------|-----|
+| `sensor.havn_bed_a_moisture` | Soil Moisture (%) | Bed A (Family Bed) |
+| `sensor.havn_bed_a_temperature` | Soil Temperature (C) | Bed A (Family Bed) |
+| `sensor.havn_bed_b_moisture` | Soil Moisture (%) | Bed B (His Bed) |
+| `sensor.havn_bed_b_temperature` | Soil Temperature (C) | Bed B (His Bed) |
+
+### Plant Monitors (2)
+
+| Entity ID | Bed | Min Moisture | Max Moisture | Min Temp |
+|-----------|-----|-------------|-------------|----------|
+| `plant.havn_bed_a` | Bed A (Family Bed) | 40% | 55% | 0C |
+| `plant.havn_bed_b` | Bed B (His Bed) | 40% | 50% | 0C |
+
+### Automations (10)
+
+| Automation ID | Bed | Trigger | Threshold | Delay |
+|---------------|-----|---------|-----------|-------|
+| `havn_bed_a_moisture_below_min` | A | Moisture below | 40% | 6h |
+| `havn_bed_a_moisture_above_max` | A | Moisture above | 55% | 6h |
+| `havn_bed_a_temperature_below_frost` | A | Temp below | 0C | immediate |
+| `havn_bed_a_moisture_below_min_warm` | A | Moisture below | 45% | 6h |
+| `havn_bed_a_moisture_above_max_warm` | A | Moisture above | 65% | 6h |
+| `havn_bed_a_temperature_below_frost_warm` | A | Temp below | 4C | immediate |
+| `havn_bed_a_temperature_below_frost_beans` | A | Temp below | 2C | immediate |
+| `havn_bed_b_moisture_below_min` | B | Moisture below | 40% | 6h |
+| `havn_bed_b_moisture_above_max` | B | Moisture above | 50% | 6h |
+| `havn_bed_b_temperature_below_frost` | B | Temp below | 0C | immediate |
