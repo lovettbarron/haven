@@ -43,13 +43,13 @@ A child who independently checks on, cares for, and harvests from plants he chos
 
 ### Active
 
-- [ ] Bed identity consistency across all documents and data files
-- [ ] Daily garden routine card (printable, child-facing)
-- [ ] Between-session engagement activities (W19-W20 bridge)
-- [ ] Spring planting shopping list with plant purchases
-- [ ] HA setup walkthrough guide
-- [ ] End-of-season cleanup documentation
-- [ ] Planning artifact accuracy and hygiene
+- [x] Bed identity consistency across all documents and data files (Phase 7, completed 2026-03-28)
+- [x] Daily garden routine card (printable, child-facing) (Phase 8, completed 2026-03-28)
+- [x] Between-session engagement activities (W19-W20 bridge) (Phase 8, completed 2026-03-28)
+- [x] Spring planting shopping list with plant purchases (Phase 9, completed 2026-03-28)
+- [x] HA setup walkthrough guide (Phase 10, completed 2026-03-28)
+- [x] End-of-season cleanup documentation (Phase 11, completed 2026-03-28)
+- [ ] Planning artifact accuracy and hygiene (Phase 12, in progress)
 
 ### Out of Scope
 
@@ -108,7 +108,7 @@ A child who independently checks on, cares for, and harvests from plants he chos
 | Manual watering over irrigation | Watering IS the routine. It's the daily touchpoint that builds agency. Self-watering reservoirs OK for vacation. | ✓ Good |
 | Structured JSON data from day one | Enables Home Assistant integration, future visualizations, alerts. Even if sensors come later. | ✓ Good |
 | Include crops he doesn't eat | Family cooks with alliums, greens, legumes. His beds focus on his favorites; family beds round out the garden. | ✓ Good |
-| Bed remapping (1-5 → A-E) | Phase 2 reshuffled bed assignments for better companion planting. Phase 1 docs not updated. | ⚠️ Revisit (v1.1 Phase 7) |
+| Bed remapping (1-5 → A-E) | Phase 2 reshuffled bed assignments for better companion planting. Phase 1 docs not updated. | Resolved -- Phase 7 applied canonical A-B naming across all docs and data |
 | Zinkbakken terrace beds | 80x40x40cm galvanized with capillary insert, replacing byJEMA open-bottom beds for deck protection | ✓ Good |
 
 ---
