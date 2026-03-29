@@ -85,6 +85,10 @@
         },
         "additionalProperties": false
       }
+    },
+    "vacation_note": {
+      "type": "string",
+      "description": "Note about family vacation overlap -- neighbor handles child tasks per neighbor-vacation-guide.md"
     }
   },
   "additionalProperties": false,
