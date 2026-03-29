@@ -226,7 +226,7 @@ Plans:
 
 Plans:
 - [x] 12-01-PLAN.md -- Fix stale checkboxes, decisions, and traceability in ROADMAP, PROJECT, and REQUIREMENTS markdown files
-- [ ] 12-02-PLAN.md -- Add vacation_note to W30-W33 schedule files and align W40 garlic task with docs
+- [x] 12-02-PLAN.md -- Add vacation_note to W30-W33 schedule files and align W40 garlic task with docs
 
 ## Progress
 
