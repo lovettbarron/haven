@@ -16,11 +16,11 @@ Decimal phases appear between their surrounding integers in numeric order.
 <summary>v1.0 Foundation Season (Phases 1-6) -- Complete 2026-03-28</summary>
 
 - [x] **Phase 1: Bed Infrastructure** - Order, build, and fill 5 raised beds with soil, drainage, and slug defense (completed 2026-03-26)
-- [ ] **Phase 2: Spring Planting** - Plant all cold-hardy crops, perennials, edible flowers, and sensory plants (W16-W18)
-- [ ] **Phase 3: Warm Season Planting** - Transplant frost-tender seedlings and complete companion planting layouts (W21-W22)
+- [x] **Phase 2: Spring Planting** - Plant all cold-hardy crops, perennials, edible flowers, and sensory plants (W16-W18) (completed 2026-03-27)
+- [x] **Phase 3: Warm Season Planting** - Transplant frost-tender seedlings and complete companion planting layouts (W21-W22) (completed 2026-03-27)
 - [x] **Phase 4: Data System and Schedules** - Build crop JSON database, weekly schedule files, and Home Assistant schemas (parallel with Phases 2-3) (completed 2026-03-27)
 - [x] **Phase 5: Documentation and Guides** - Property visualization, troubleshooting guide, difficulty tiers, and project CLAUDE.md (completed 2026-03-27)
-- [ ] **Phase 6: Vacation Preparation** - Test reservoirs, mulch beds, finalize neighbor guide, execute pre-departure protocol
+- [x] **Phase 6: Vacation Preparation** - Test reservoirs, mulch beds, finalize neighbor guide, execute pre-departure protocol (completed 2026-03-28)
 
 </details>
 
@@ -28,7 +28,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 7: Data Consistency and Identity Fix** - Resolve bed naming discrepancy (1-5 vs A-E) and fix all cross-reference inconsistencies across docs and data (completed 2026-03-28)
 - [x] **Phase 8: Child Engagement Bridge** - Create daily routine card and between-session activities so the child can independently engage with the garden (completed 2026-03-28)
-- [ ] **Phase 9: Operational Readiness** - Spring planting shopping list, purchase prioritization, and tool inventory for build and planting days
+- [x] **Phase 9: Operational Readiness** - Spring planting shopping list, purchase prioritization, and tool inventory for build and planting days (completed 2026-03-28)
 - [x] **Phase 10: Home Assistant Setup** - Step-by-step HA configuration walkthrough and basic Lovelace dashboard for sensor deployment (completed 2026-03-28)
 - [x] **Phase 11: Season 2 Preparation** - End-of-season cleanup, perennial management, soil refresh, and crop failure recovery documentation (completed 2026-03-28)
 - [ ] **Phase 12: Planning Artifact Maintenance** - Update stale checkboxes, statuses, and metadata across ROADMAP.md, PROJECT.md, and REQUIREMENTS.md
@@ -130,11 +130,11 @@ Plans:
   2. All beds are mulched with 5-8cm of straw or bark before departure
   3. A pre-vacation harvest protocol has been executed (everything showing color picked)
   4. The neighbor has received a printed vacation guide with per-bed photos, watering frequency, harvest instructions, and emergency contacts
-**Plans:** 2 plans
+**Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 06-01-PLAN.md -- Reservoir test protocol and per-bed mulching guide
-- [ ] 06-02-PLAN.md -- 3-day pre-departure countdown script, printable checklist, and JSON data
+- [x] 06-01-PLAN.md -- Reservoir test protocol and per-bed mulching guide
+- [x] 06-02-PLAN.md -- 3-day pre-departure countdown script, printable checklist, and JSON data
 
 </details>
 
@@ -166,8 +166,8 @@ Plans:
 **Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 08-01-PLAN.md -- Daily routine card (5-min visual checklist) and weekly garden walk checklist (3-5 activities)
-- [ ] 08-02-PLAN.md -- Between-session gap activities (W19-W20 treasure hunts) and photo log approach
+- [x] 08-01-PLAN.md -- Daily routine card (5-min visual checklist) and weekly garden walk checklist (3-5 activities)
+- [x] 08-02-PLAN.md -- Between-session gap activities (W19-W20 treasure hunts) and photo log approach
 
 ### Phase 9: Operational Readiness
 **Goal**: The father can execute build day and planting day without re-consulting Claude -- he knows what to buy, in what order, and has a complete tool list
@@ -178,10 +178,10 @@ Plans:
   2. Purchase priority ordering exists across all shopping lists showing what to order first based on lead times
   3. A tool inventory section lists every required tool across build day and planting days
   4. PROJECT.md budget constraint reflects the actual ~10,000 DKK cost with documented rationale for the increase
-**Plans:** 1 plan
+**Plans:** 1/1 plans complete
 
 Plans:
-- [ ] 09-01-PLAN.md -- Spring planting shopping list, purchase priority timeline, tool inventory, and budget fix
+- [x] 09-01-PLAN.md -- Spring planting shopping list, purchase priority timeline, tool inventory, and budget fix
 
 ### Phase 10: Home Assistant Setup
 **Goal**: A father with Home Assistant running can configure sensors, plant monitors, and alerts using a step-by-step walkthrough and see bed status on a dashboard
@@ -194,7 +194,7 @@ Plans:
 **Plans:** 1/1 plans complete
 
 Plans:
-- [ ] 10-01-PLAN.md -- HA setup walkthrough with sensors, plant monitors, automations, and Lovelace dashboard
+- [x] 10-01-PLAN.md -- HA setup walkthrough with sensors, plant monitors, automations, and Lovelace dashboard
 
 ### Phase 11: Season 2 Preparation
 **Goal**: Documentation exists for everything that happens after the growing season ends -- cleanup, perennial care, soil refresh, and lessons learned -- so the family is not stranded at W44
@@ -209,8 +209,8 @@ Plans:
 **Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 11-01-PLAN.md -- End-of-season countdown guide, perennial care, and soil refresh documentation
-- [ ] 11-02-PLAN.md -- Season review template (markdown + JSON schema) and crop failure recovery in troubleshooting guide
+- [x] 11-01-PLAN.md -- End-of-season countdown guide, perennial care, and soil refresh documentation
+- [x] 11-02-PLAN.md -- Season review template (markdown + JSON schema) and crop failure recovery in troubleshooting guide
 
 ### Phase 12: Planning Artifact Maintenance
 **Goal**: All planning files accurately reflect project state -- no stale checkboxes, outdated statuses, or missing traceability entries
@@ -242,9 +242,9 @@ Plans:
 | 4. Data System and Schedules | v1.0 | 3/3 | Complete | 2026-03-27 |
 | 5. Documentation and Guides | v1.0 | 3/3 | Complete | 2026-03-27 |
 | 6. Vacation Preparation | v1.0 | 2/2 | Complete | 2026-03-28 |
-| 7. Data Consistency and Identity Fix | 2/2 | Complete   | 2026-03-28 | - |
-| 8. Child Engagement Bridge | 2/2 | Complete   | 2026-03-28 | - |
-| 9. Operational Readiness | v1.1 | 0/1 | Not started | - |
-| 10. Home Assistant Setup | 1/1 | Complete    | 2026-03-28 | - |
-| 11. Season 2 Preparation | 2/2 | Complete    | 2026-03-28 | - |
-| 12. Planning Artifact Maintenance | v1.1 | 0/2 | Not started | - |
+| 7. Data Consistency and Identity Fix | v1.1 | 2/2 | Complete | 2026-03-28 |
+| 8. Child Engagement Bridge | v1.1 | 2/2 | Complete | 2026-03-28 |
+| 9. Operational Readiness | v1.1 | 1/1 | Complete | 2026-03-28 |
+| 10. Home Assistant Setup | v1.1 | 1/1 | Complete | 2026-03-28 |
+| 11. Season 2 Preparation | v1.1 | 2/2 | Complete | 2026-03-28 |
+| 12. Planning Artifact Maintenance | v1.1 | 0/2 | In Progress | - |
