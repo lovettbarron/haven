@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A backyard garden project in Vejle, Denmark designed as a developmental tool for a 7-year-old with ADHD and Autism. The garden gives him incrementally increasing agency over something living -- his own raised beds, his own routines, his own harvest decisions -- while producing tangible, edible output from his work. The project includes physical garden infrastructure, structured planting plans, maintenance schedules, data systems for Home Assistant integration, and documentation for family and neighbors.
+A backyard garden project in Vejle, Denmark designed as a developmental tool for a 7-year-old with ADHD and Autism. Two corten steel raised beds give him incrementally increasing agency over something living -- his own beds, his own daily routine, his own harvest decisions. The project delivers complete physical garden plans, ADHD-adapted session scripts, structured JSON data for Home Assistant integration, and comprehensive documentation for family, neighbors, and season transitions. All planning and documentation is complete through v1.1; the garden is ready for physical execution starting W16.
 
 ## Core Value
 
@@ -12,104 +12,106 @@ A child who independently checks on, cares for, and harvests from plants he chos
 
 ### Validated
 
-- ✓ Property-specific raised bed placement recommendations -- v1.0 Phase 1
-- ✓ Visualization of property with bed placement -- v1.0 Phase 5
-- ✓ Raised bed specifications with soil layer breakdown -- v1.0 Phase 1
-- ✓ Shopping/materials list with corten steel and budget alternatives -- v1.0 Phase 1
-- ✓ Setup instructions for bed construction and soil filling -- v1.0 Phase 1
-- ✓ Denmark-appropriate crop recommendations -- v1.0 Phase 2-3
-- ✓ Bed-by-bed planting distribution with companion planting -- v1.0 Phase 2-3
-- ✓ Week-by-week maintenance and growth plan -- v1.0 Phase 4
-- ✓ Staggered planting schedule for continuous harvest cadence -- v1.0 Phase 4
-- ✓ Structured data format for all crops (JSON) -- v1.0 Phase 4
-- ✓ Home Assistant sensor recommendations -- v1.0 Phase 4
-- ✓ Troubleshooting guide for common problems -- v1.0 Phase 5
-- ✓ Difficulty-tiered crop collection -- v1.0 Phase 5
-- ✓ Neighbor vacation guide -- v1.0 Phase 5
-- ✓ CLAUDE.md project file -- v1.0 Phase 5
-- ✓ Property visualization showing bed placement -- v1.0 Phase 5
-
-## Current Milestone: v1.1 Gap Closure and Operational Readiness
-
-**Goal:** Fix cross-reference inconsistencies, add missing child-facing daily routine documentation, complete operational readiness for build day and planting, set up HA integration guide, and prepare end-of-season materials.
-
-**Target features:**
-- Resolve bed identity discrepancy (Bed 1-5 vs A-E) across all Phase 1 docs and data files
-- Daily routine card and between-session engagement activities for the child
-- Spring planting shopping list, purchase priority ordering, and tool inventory
-- HA setup walkthrough and basic Lovelace dashboard
-- End-of-season cleanup guide, perennial management, soil refresh documentation
-- Planning artifact maintenance (ROADMAP checkboxes, PROJECT.md decisions, REQUIREMENTS.md statuses)
+- ✓ Raised bed specifications with soil layer breakdown — v1.0
+- ✓ Shopping/materials list with corten steel and budget alternatives — v1.0
+- ✓ Setup instructions for bed construction and soil filling — v1.0
+- ✓ Property-specific raised bed placement recommendations — v1.0
+- ✓ Property visualization with bed placement, sun patterns, orientation — v1.0
+- ✓ Denmark-appropriate crop recommendations — v1.0
+- ✓ Bed-by-bed planting distribution with companion planting — v1.0
+- ✓ Week-by-week maintenance and growth plan (W15-W44) — v1.0
+- ✓ Staggered planting schedule for continuous harvest — v1.0
+- ✓ Structured JSON data format for all 27 crops — v1.0
+- ✓ Home Assistant sensor recommendations and entity schemas — v1.0
+- ✓ Troubleshooting guide (symptom-based, father-son reference) — v1.0
+- ✓ Difficulty-tiered crop collection — v1.0
+- ✓ Neighbor vacation guide — v1.0
+- ✓ CLAUDE.md project file for AI continuity — v1.0
+- ✓ Self-watering reservoirs and vacation preparation — v1.0
+- ✓ Canonical bed identity (A-E) across all documents and data — v1.1
+- ✓ Daily routine card and weekly garden walk (child-facing, printable) — v1.1
+- ✓ Between-session engagement activities (treasure hunts, photo log) — v1.1
+- ✓ Spring planting shopping list with purchase priority timeline — v1.1
+- ✓ Tool inventory for build day and planting days — v1.1
+- ✓ Home Assistant setup walkthrough with copy-paste YAML — v1.1
+- ✓ End-of-season cleanup guide and perennial care reference — v1.1
+- ✓ Soil refresh protocol and season review template — v1.1
+- ✓ Crop failure recovery with mid-season replanting windows — v1.1
+- ✓ Planning artifact accuracy and traceability — v1.1
 
 ### Active
 
-- [x] Bed identity consistency across all documents and data files (Phase 7, completed 2026-03-28)
-- [x] Daily garden routine card (printable, child-facing) (Phase 8, completed 2026-03-28)
-- [x] Between-session engagement activities (W19-W20 bridge) (Phase 8, completed 2026-03-28)
-- [x] Spring planting shopping list with plant purchases (Phase 9, completed 2026-03-28)
-- [x] HA setup walkthrough guide (Phase 10, completed 2026-03-28)
-- [x] End-of-season cleanup documentation (Phase 11, completed 2026-03-28)
-- [x] Planning artifact accuracy and hygiene (Phase 12, completed 2026-03-29)
+- [ ] Garlic hardneck cloves planted October 2026 (COOK-02, docs ready, awaiting physical planting)
+- [ ] v2 IoT sensor deployment (Zigbee soil moisture/temperature per bed)
+- [ ] v2 season 2 crops (carrots, fennel, seed saving, exotic varieties)
 
 ### Out of Scope
 
-- Greenhouse or polytunnel construction -- keeping it to raised beds for v1
-- Automated irrigation system -- manual watering is part of the routine/agency goal (self-watering reservoirs OK)
-- Indoor growing/seed starting setup -- direct sow or buy seedlings
-- Fruit trees -- long-term commitment, consider for v2 after first season success
-- Lemon/citrus growing -- not viable outdoors in Danish climate (zone 7b)
-- Exotic fruits (pomegranate, passion fruit, kiwi) -- climate incompatible
+- Greenhouse or polytunnel — raised beds are sufficient
+- Automated irrigation — manual watering is the agency-building routine (reservoirs OK for vacation)
+- Indoor seed starting — direct sow or buy seedlings
+- Fruit trees — consider after first season validates approach
+- Lemon/citrus outdoors — not viable in Danish climate (zone 7b)
+- Exotic fruits (pomegranate, passion fruit, kiwi) — climate incompatible
+- Corn/sweetcorn — needs huge space, unreliable ripening in Danish raised beds
+- Melon/watermelon — needs sustained heat Denmark rarely provides
+- Courgette as main crop — takes enormous space, powdery mildew in Danish humidity
+- Brussels sprouts — 150+ days, zero engagement value
 
 ## Context
 
-### Property
-- **Location:** Vejle, Denmark
-- **Plot:** ~600 m² total, 
-- **Orientation:** House faces west. Backyard extends east/northeast.
-- **Key features:** Roof terrace (68 m², tagterrasse) above carport, lawn area in backyard, significant mature tree coverage on east side
-- **Deck plan:** 1-2 raised beds on roof terrace, keep majority for seating
-- **Climate:** USDA Zone 7b / Danish coastal. Last frost ~mid-April, first frost ~mid-October. Growing season ~180 days.
+### Current State (post v1.1)
+- **LOC:** ~6,900 lines markdown documentation, ~8,900 lines JSON data
+- **Files:** 22 docs in docs/, 68 data files in data/, comprehensive .planning/ archive
+- **Tech stack:** Markdown docs, JSON crop/schedule/sensor data, Home Assistant YAML
+- **Milestones shipped:** v1.0 Foundation Season (Phases 1-6), v1.1 Gap Closure (Phases 7-12)
+- **Requirements:** 88 total (59 v1.0 + 29 v1.1), all satisfied except COOK-02 (Oct physical planting)
+- **Next physical action:** Order beds from byJEMA, build beds, plant W16 (mid-April)
 
 ### The Child
-- **Age:** Turning 7 (2026)
-- **Diagnoses:** ADHD and Autism
-- **Engagement pattern:** Needs quick wins (5-10 min attention bursts). Drawn to creatures/nature, counting/systems, colors/patterns. Sustained engagement through task variety (dig, then water, then pick).
-- **Food preferences:** Loves strawberries, raspberries, cucumbers, tomatoes, peppers. Loves edible flowers for decorating baked goods. Does not enjoy (but family cooks with): spring onions, onions, garlic, leeks, broccoli, beans, lettuce, peas.
-- **Agency goal:** His own beds, his own daily routine, and he makes planting/harvesting decisions with increasing independence.
+- Turning 7 (2026), ADHD and Autism
+- Needs quick wins (5-10 min attention bursts), drawn to creatures/nature/counting/colors
+- Engagement through task variety (dig, then water, then pick)
+- His own beds, his own daily routine, increasing independence
 
-### Family Context
-- **Gardening experience:** Some basics (herbs, a tomato plant)
-- **Daily time:** Varies wildly -- 5 min some days, hour+ on weekends
-- **Vacations:** 2-3 weeks mid-summer (peak watering season), plus other 1-2 week trips throughout the year, occasional weekends away
-- **Budget:** ~8,500-10,500 DKK total (infrastructure ~7,200-7,900 + spring plants ~520-910 + warm-season plants ~430-625). See shopping lists in docs/ for full breakdown.
+### Family
+- Vejle, Denmark. Some gardening basics.
+- Daily time varies (5 min some days, hour+ weekends)
+- 2-3 weeks mid-summer vacation (reservoirs + neighbor guide solve this)
+- Budget: ~8,500-10,500 DKK total
 
-### Technical Infrastructure
-- **Home Assistant:** Running, being transferred to TuringPi cluster (~/src/turingpi)
-- **Protocols:** Zigbee network established, LoRaWAN capable
-- **Plan:** Soil moisture/temperature sensors per bed (not immediate, but data format should be ready)
-- **Signal:** Will position Zigbee repeaters near garden area
+### Technical
+- Home Assistant running, Zigbee network established
+- Sensor deployment planned for v2 (data schemas ready now)
 
 ## Constraints
 
-- **Climate:** Danish zone 7b -- limits crop selection, growing season ~April-October
-- **Sun exposure:** Significant tree cover on east side may limit full-sun crops in parts of backyard. Roof terrace likely gets best sun exposure (elevated, less tree shadow).
-- **Vacation gaps:** 2-3 weeks mid-summer without daily care. Must design for drought tolerance or neighbor maintenance.
-- **Child's attention:** 5-10 minute engagement windows. Tasks must be concrete, varied, and produce visible results.
-- **Deck weight:** Roof terrace beds must account for structural load (soil + water is heavy). Smaller/shallower beds recommended.
-- **Budget:** ~8,500-10,500 DKK total across infrastructure, spring planting, and warm-season purchases. Original estimate of 2,000-5,000 DKK was pre-corten-steel decision. Full breakdown in docs/shopping-list.md, docs/spring-planting-shopping-list.md, and docs/warm-season-shopping-list.md.
+- Danish zone 7b — growing season ~April-October
+- Significant tree cover on east side limits full-sun in parts of backyard
+- 2-3 week mid-summer vacation gaps — designed for with reservoirs + neighbor guide
+- Child's 5-10 minute attention windows — all activities designed for this
+- Budget: ~8,500-10,500 DKK total
 
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| Raised beds over in-ground | Defined ownership ("his bed"), better soil control, accessible height for a 7-year-old | ✓ Good |
-| Buy pre-made beds over DIY | Time efficiency, consistent quality. Corten steel aesthetic preferred. | ✓ Good |
-| Staggered planting for continuous harvest | Quick wins -- always something ready to pick. Keeps engagement high across the season. | ✓ Good |
-| Manual watering over irrigation | Watering IS the routine. It's the daily touchpoint that builds agency. Self-watering reservoirs OK for vacation. | ✓ Good |
-| Structured JSON data from day one | Enables Home Assistant integration, future visualizations, alerts. Even if sensors come later. | ✓ Good |
-| Include crops he doesn't eat | Family cooks with alliums, greens, legumes. His beds focus on his favorites; family beds round out the garden. | ✓ Good |
-| Bed remapping (1-5 → A-E) | Phase 2 reshuffled bed assignments for better companion planting. Phase 1 docs not updated. | Resolved -- Phase 7 applied canonical A-B naming across all docs and data |
-| Zinkbakken terrace beds | 80x40x40cm galvanized with capillary insert, replacing byJEMA open-bottom beds for deck protection | ✓ Good |
+| Raised beds over in-ground | Defined ownership ("his bed"), better soil control, accessible height | ✓ Good |
+| Buy pre-made corten steel beds | Time efficiency, consistent quality, aesthetic preference | ✓ Good |
+| Staggered planting for continuous harvest | Quick wins -- always something ready to pick | ✓ Good |
+| Manual watering over irrigation | Watering IS the routine that builds agency | ✓ Good |
+| Structured JSON data from day one | Enables HA integration, future visualizations, alerts | ✓ Good |
+| Include crops he doesn't eat | Family beds round out the garden; his beds focus on his favorites | ✓ Good |
+| Bed remapping (1-5 → A-E) | Phase 2 reshuffled bed assignments for better companion planting | ✓ Resolved in Phase 7 |
+| Zinkbakken terrace beds | 80x40x40cm galvanized with capillary insert for deck protection | ✓ Good |
+| Dual naming in Phase 1 docs | Bed N (Bed X) preserves build sequence while adding canonical identity | ✓ Good (Phase 7) |
+| Tumbling Tom kept as backup | beds=[] with pot-only backup rather than deleting crop file | ✓ Good (Phase 7) |
+| Danish cues as father-spoken prompts | Not child-readable text -- father reads aloud | ✓ Good (Phase 8) |
+| Pick-2-of-4 weekly walk model | Child chooses activities for agency | ✓ Good (Phase 8) |
+| Budget range ~8,500-10,500 DKK | Based on actual 2-bed shopping list totals | ✓ Good (Phase 9) |
+| HA automations always-on year-round | Warm-season rules harmless when conditions unmet | ✓ Good (Phase 10) |
+| Perennial care as standalone doc | Reusable from multiple contexts (end-of-season, troubleshooting) | ✓ Good (Phase 11) |
+| vacation_note as optional schema field | Backward compatible with existing schedule files | ✓ Good (Phase 12) |
 
 ---
-*Last updated: 2026-03-28 after v1.1 milestone start*
+*Last updated: 2026-03-30 after v1.1 milestone*

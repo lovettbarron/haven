@@ -2,10 +2,10 @@
 gsd_state_version: 1.0
 milestone: v1.1
 milestone_name: Gap Closure and Operational Readiness
-status: completed
-stopped_at: Completed 12-01-PLAN.md
-last_updated: "2026-03-29T06:36:20.632Z"
-last_activity: 2026-03-29 -- Completed 12-02 vacation flags and garlic task alignment
+status: archived
+stopped_at: Milestone v1.1 complete
+last_updated: "2026-03-30T07:00:00.000Z"
+last_activity: 2026-03-30 -- Archived v1.1 milestone
 progress:
   total_phases: 12
   completed_phases: 12
@@ -18,94 +18,46 @@ progress:
 
 ## Project Reference
 
-See: .planning/PROJECT.md (updated 2026-03-28)
+See: .planning/PROJECT.md (updated 2026-03-30)
 
 **Core value:** A child who independently checks on, cares for, and harvests from plants he chose to grow
-**Current focus:** Phase 12: Planning Artifact Maintenance (v1.1)
+**Current focus:** Planning next milestone (v2.0)
 
 ## Current Position
 
-Phase: 12 of 12 (Planning Artifact Maintenance)
-Plan: 2 of 2 (12-02 complete)
-Status: Phase 12 plan 2 complete
-Last activity: 2026-03-29 -- Completed 12-02 vacation flags and garlic task alignment
+Milestone v1.1 archived. All 12 phases (25 plans) complete.
+Next step: `/gsd:new-milestone` to start v2.0 planning.
 
 Progress: [██████████] 100% (25/25 plans complete)
 
 ## Performance Metrics
 
-**Velocity:**
-- Total plans completed: 15 (v1.0)
-- Average duration: ~6 min
-- Total execution time: ~1.5 hours
+**Overall (v1.0 + v1.1):**
+- Total plans completed: 25
+- Total phases: 12
+- Timeline: 4 days (2026-03-26 → 2026-03-29)
+- Commits: 124
 
-**By Phase (v1.0):**
+**By Milestone:**
 
-| Phase | Plans | Total | Avg/Plan |
-|-------|-------|-------|----------|
-| 01-bed-infrastructure | 3 | 12 min | 4 min |
-| 02-spring-planting | 2 | 9 min | 4.5 min |
-| 03-warm-season-planting | 2 | 6 min | 3 min |
-| 04-data-system | 3 | 33 min | 11 min |
-| 05-documentation | 3 | 22 min | 7 min |
-| 06-vacation-prep | 2 | 5 min | 2.5 min |
-
-**Recent Trend:**
-- Last 5 plans: 13 min, 13 min, 5 min, 2 min, 3 min
-- Trend: Stable
-| Phase 07 P01 | 4min | 2 tasks | 5 files |
-| Phase 07 P02 | 3min | 2 tasks | 9 files |
-| Phase 08 P01 | 2min | 2 tasks | 2 files |
-| Phase 08 P02 | 1min | 1 tasks | 1 files |
-| Phase 08 P01 | 2 | 2 tasks | 2 files |
-| Phase 09 P01 | 2min | 2 tasks | 4 files |
-| Phase 10 P01 | 2min | 2 tasks | 1 files |
-| Phase 11 P02 | 2min | 2 tasks | 3 files |
-| Phase 11 P01 | 5min | 2 tasks | 3 files |
-| Phase 12 P02 | 1min | 2 tasks | 6 files |
-| Phase 12 P01 | 2min | 2 tasks | 3 files |
+| Milestone | Phases | Plans | Timeline |
+|-----------|--------|-------|----------|
+| v1.0 Foundation Season | 6 | 15 | 2026-03-26 → 2026-03-28 |
+| v1.1 Gap Closure | 6 | 10 | 2026-03-28 → 2026-03-29 |
 
 ## Accumulated Context
 
 ### Decisions
 
-Decisions are logged in PROJECT.md Key Decisions table.
-Recent decisions affecting current work:
-
-- [v1.1 Roadmap]: 6 phases (7-12) derived from 29 requirements across 6 categories
-- [v1.1 Roadmap]: Phases 7-9 must complete before W16 (April 13) for build day readiness
-- [v1.1 Roadmap]: Phase 10 (HA) deferred to in-season; Phase 11 (Season 2) before W44
-- [v1.1 Roadmap]: Phase 12 (artifact maintenance) is low priority, can run any time
-- [07-01]: Preserved dual naming (Bed N / Bed X) in Phase 1 docs for build-day readability
-- [07-01]: Bed B reservoir documented as physically present but not actively used for raspberries
-- [07-01]: Added canonical mapping note in bed-layout.md (Bed 1=B, 2=C, 3=A, 4=D, 5=E)
-- [07-02]: Dill position uses planting grid source of truth (10,70), not plan suggestion
-- [07-02]: Tumbling Tom kept as crop file with beds=[] (pot-only backup) rather than deleted
-- [07-02]: bed_notes field used for documenting exclusion rationale on crop files
-- [Phase 08]: Combined CENG-02 and CENG-04 into single between-session-activities.md document
-- [08-01]: Danish cues are father-spoken prompts, not child-readable text
-- [08-01]: No checkboxes on daily card -- walk-through routine, not a form
-- [08-01]: Weekly walk uses pick-2-of-4 model for child choice and agency
-- [Phase 09]: Budget range updated to ~8,500-10,500 DKK based on actual 2-bed shopping list totals
-- [Phase 09]: Adapted 5-bed plant inventory to 2-bed reality for spring shopping list
-- [Phase 10]: All 10 HA automations always-on year-round; warm-season rules harmless when conditions unmet
-- [Phase 10]: Used UI card editor paste flow for Lovelace, not deprecated mode: yaml
-- [Phase 11]: [11-01]: Perennial care as standalone doc for reusability from multiple contexts
-- [Phase 11]: [11-01]: Day 1 at W40-W42 for garlic timing; Days 2-3 flexible W42-W46
-- [Phase 11]: [11-01]: Soil testing documented as optional with default approach fallback
-- [Phase 11]: [11-02]: Included all 27 crops in season review scorecard (including backup/unused varieties)
-- [Phase 11]: [11-02]: Crop failure framing: emotional first, replacement optional, empty space is OK
-- [Phase 12]: vacation_note as optional schema field for backward compatibility
-- [Phase 12]: [12-01]: COOK-02 set to Planned (not Complete) since garlic planting is Oct 2026 physical work
+All decisions logged in PROJECT.md Key Decisions table. See milestones/v1.1-ROADMAP.md for full v1.1 phase details.
 
 ### Pending Todos
 
-None yet.
+None.
 
 ### Blockers/Concerns
 
-- Phases 7-9 have a hard deadline of W16 (April 13) -- bed identity fix must land before build day
-- Bed reservoir assignment (Finding 1.3) requires a physical decision: does Bed B keep its reservoir?
+None -- all planning complete. Physical execution awaits W16 (mid-April).
 
 ### Quick Tasks Completed
 
@@ -115,7 +67,7 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-29T06:31:45.908Z
-Stopped at: Completed 12-01-PLAN.md
+Last session: 2026-03-30
+Stopped at: Milestone v1.1 archived
 Resume file: None
-Next step: Execute 11-02-PLAN.md
+Next step: /gsd:new-milestone for v2.0
